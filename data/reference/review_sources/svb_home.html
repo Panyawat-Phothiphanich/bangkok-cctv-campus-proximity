@@ -1,0 +1,1597 @@
+
+
+<!doctype html>
+
+<html lang="en">
+
+
+  <head>
+
+    <!-- Required meta tags -->
+
+    <meta charset="utf-8">
+    <meta name="keywords" content="โรงเรียนสตรีวรนาถบางเขน">
+	<meta name="description" content="โรงเรียนสตรีวรนาถบางเขน">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/mystyle.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/webfont.css">
+    <link rel="stylesheet" href="releases/v5.7.0/css/all.css">   
+    <link rel="stylesheet" href="plugins/animate/animate.css">
+    <LINK REL="SHORTCUT ICON" HREF="img/logo-svb1.png">
+    <script type="text/javascript" src="js/scrolltopcontrol.js"></script>
+
+    <script src="js/jQuery-2.1.4.min.js"></script>
+
+    <title>โรงเรียนสตรีวรนาถบางเขน -- Satrivoranart Bangkhen School</title>
+
+    <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script--> 
+
+    <style>
+	.zoom {
+  padding:0px;
+  transition: transform .2s; /* Animation */
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+    .con_iframe {
+
+      position: relative;
+
+      overflow: hidden;
+
+      width: 100%;
+
+      padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+
+    }
+
+    
+
+    /* Then style the iframe to fit in the container div with full height and width */
+
+    .responsive-iframe {
+
+      position: absolute;
+
+      top: 0;
+
+      left: 0;
+
+      bottom: 0;
+
+      right: 0;
+
+      width: 100%;
+
+  
+
+      display:none;
+      overflow-y: scroll;
+      -webkit-overflow-scrolling: touch;
+      
+
+    }
+
+
+
+    body {
+      font-family: 'rsulight';
+  /* background-color: #FFC;*/
+
+ /* background-color: #FFFFFF;*/
+
+
+
+}
+.title_menu_red {
+	color: #C36;
+}
+
+
+.marquee-container {
+  width: 100%;
+  overflow: hidden; /* ซ่อนข้อความที่เลยขอบ */
+  white-space: nowrap; /* บังคับให้ข้อความอยู่ในบรรทัดเดียว */
+  background: #FFFFFF;
+  padding: 10px 0;
+}
+
+.marquee-text {
+  display: inline-block;
+  padding-left: 100%; /* เริ่มต้นจากนอกจอฝั่งขวา */
+  animation: marquee 25s linear infinite; /* ชื่อเอนิเมชัน ความเร็ว รูปแบบ และทำซ้ำ */
+}
+
+/* กำหนดการเคลื่อนที่ */
+@keyframes marquee {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+/* แถม: หยุดวิ่งเมื่อเอาเมาส์ไปชี้ */
+.marquee-container:hover .marquee-text {
+  animation-play-state: paused;
+}
+    </style> 
+
+   
+
+<!--<script type="text/javascript">
+
+$(function(){
+
+    $("a[target=myIframe]").click(function(){
+
+        var thisURL=$(this).attr("href");
+
+        if($("#myIframe").css("display")=="none"){
+
+            $("#myIframe").slideToggle( "slow", function() {
+
+                $("#myIframe").attr("src",thisURL);
+
+                event.preventDefault();
+
+            });
+
+        }
+
+    });
+
+});
+
+</script>-->
+
+<script type="text/javascript" charset="utf-8">
+
+	$(document).ready(function() 
+
+	{	$("#gallery_category").load("gallery_category.php");
+    $("#new_category").load("new_category.php");
+
+		$("#admin_form").on('submit',(function(e) 
+
+		{ 
+
+			e.preventDefault();
+
+			missinginfo = "";
+
+			if ($("#admin_username").val() == "") 
+
+			{
+
+				missinginfo += "\n - * ชื่อผู้ใช้";
+
+			} 
+
+			if ($("#admin_password").val() == "") 
+
+			{
+
+				missinginfo += "\n - * รหัสผ่าน";
+
+			} 
+
+			if (missinginfo != "") 
+
+			{
+
+				missinginfo ="_____________________________\n" +"ท่านกรอกข้อมูลไม่ถูกต้องในช่องต่อไปนี้ :\n" +missinginfo + "\n_____________________________" +"\nกรุณากลับไปกรอกอีกครั้ง ";
+
+				alert(missinginfo);
+
+			}
+
+			else
+
+			{
+
+				$.ajax(
+
+				{ 
+
+					url: "SVBADMIN/login/check_login.php",
+
+					type: "POST",
+
+					data:  new FormData(this),
+
+					contentType: false,
+
+					cache: false,
+
+					processData:false,
+
+					success: function(data)
+
+					{
+                            
+							window.location.replace('SVBADMIN');
+
+					}   
+					    
+
+				});
+				  
+
+			}
+
+		}));
+
+	});
+
+</script>
+
+<script type="text/javascript">
+
+ $(document).ready(function()
+
+ {		
+
+      $(".history").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"history.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+	        $(".history_chan").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"history_chan.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+     $(".director").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"director.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+    
+
+      $(".marchschool").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"marchschool.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+     $(".diagramschool").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"diagramschool.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+     $(".policy").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"policy.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+   $(".contract").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"contract.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+    
+
+      $(".award").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"award.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+     $(".job").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"job.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+     $(".course").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"course.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+    $(".course_iec").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"course_iec.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+     $(".dress").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"dress.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+	   $(".vision").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"vision.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+	     $(".boarder").click(function(event) 
+
+      {
+
+        $(".load_result").html("");
+
+        $.ajax(
+
+        {
+
+          url:"boarder.php",
+
+          cache: false,
+
+          success: function(data)
+
+          {          
+
+            $(".load_result").html(data);
+
+          }           
+
+        });
+
+      });
+
+	  
+
+    
+
+   });
+   
+   
+   (function() {
+  var Util,
+    __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+  Util = (function() {
+    function Util() {}
+
+    Util.prototype.extend = function(custom, defaults) {
+      var key, value;
+      for (key in custom) {
+        value = custom[key];
+        if (value != null) {
+          defaults[key] = value;
+        }
+      }
+      return defaults;
+    };
+
+    Util.prototype.isMobile = function(agent) {
+      return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(agent);
+    };
+
+    return Util;
+
+  })();
+
+  this.WOW = (function() {
+    WOW.prototype.defaults = {
+      boxClass: 'wow',
+      animateClass: 'animated',
+      offset: 0,
+      mobile: true
+    };
+
+    function WOW(options) {
+      if (options == null) {
+        options = {};
+      }
+      this.scrollCallback = __bind(this.scrollCallback, this);
+      this.scrollHandler = __bind(this.scrollHandler, this);
+      this.start = __bind(this.start, this);
+      this.scrolled = true;
+      this.config = this.util().extend(options, this.defaults);
+    }
+
+    WOW.prototype.init = function() {
+      var _ref;
+      this.element = window.document.documentElement;
+      if ((_ref = document.readyState) === "interactive" || _ref === "complete") {
+        return this.start();
+      } else {
+        return document.addEventListener('DOMContentLoaded', this.start);
+      }
+    };
+
+    WOW.prototype.start = function() {
+      var box, _i, _len, _ref;
+      this.boxes = this.element.getElementsByClassName(this.config.boxClass);
+      if (this.boxes.length) {
+        if (this.disabled()) {
+          return this.resetStyle();
+        } else {
+          _ref = this.boxes;
+          for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+            box = _ref[_i];
+            this.applyStyle(box, true);
+          }
+          window.addEventListener('scroll', this.scrollHandler, false);
+          window.addEventListener('resize', this.scrollHandler, false);
+          return this.interval = setInterval(this.scrollCallback, 50);
+        }
+      }
+    };
+
+    WOW.prototype.stop = function() {
+      window.removeEventListener('scroll', this.scrollHandler, false);
+      window.removeEventListener('resize', this.scrollHandler, false);
+      if (this.interval != null) {
+        return clearInterval(this.interval);
+      }
+    };
+
+    WOW.prototype.show = function(box) {
+      this.applyStyle(box);
+      return box.className = "" + box.className + " " + this.config.animateClass;
+    };
+
+    WOW.prototype.applyStyle = function(box, hidden) {
+      var delay, duration, iteration;
+      duration = box.getAttribute('data-wow-duration');
+      delay = box.getAttribute('data-wow-delay');
+      iteration = box.getAttribute('data-wow-iteration');
+      return box.setAttribute('style', this.customStyle(hidden, duration, delay, iteration));
+    };
+
+    WOW.prototype.resetStyle = function() {
+      var box, _i, _len, _ref, _results;
+      _ref = this.boxes;
+      _results = [];
+      for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+        box = _ref[_i];
+        _results.push(box.setAttribute('style', 'visibility: visible;'));
+      }
+      return _results;
+    };
+
+    WOW.prototype.customStyle = function(hidden, duration, delay, iteration) {
+      var style;
+      style = hidden ? "visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;" : "visibility: visible;";
+      if (duration) {
+        style += "-webkit-animation-duration: " + duration + "; -moz-animation-duration: " + duration + "; animation-duration: " + duration + ";";
+      }
+      if (delay) {
+        style += "-webkit-animation-delay: " + delay + "; -moz-animation-delay: " + delay + "; animation-delay: " + delay + ";";
+      }
+      if (iteration) {
+        style += "-webkit-animation-iteration-count: " + iteration + "; -moz-animation-iteration-count: " + iteration + "; animation-iteration-count: " + iteration + ";";
+      }
+      return style;
+    };
+
+    WOW.prototype.scrollHandler = function() {
+      return this.scrolled = true;
+    };
+
+    WOW.prototype.scrollCallback = function() {
+      var box;
+      if (this.scrolled) {
+        this.scrolled = false;
+        this.boxes = (function() {
+          var _i, _len, _ref, _results;
+          _ref = this.boxes;
+          _results = [];
+          for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+            box = _ref[_i];
+            if (!(box)) {
+              continue;
+            }
+            if (this.isVisible(box)) {
+              this.show(box);
+              continue;
+            }
+            _results.push(box);
+          }
+          return _results;
+        }).call(this);
+        if (!this.boxes.length) {
+          return this.stop();
+        }
+      }
+    };
+
+    WOW.prototype.offsetTop = function(element) {
+      var top;
+      top = element.offsetTop;
+      while (element = element.offsetParent) {
+        top += element.offsetTop;
+      }
+      return top;
+    };
+
+    WOW.prototype.isVisible = function(box) {
+      var bottom, offset, top, viewBottom, viewTop;
+      offset = box.getAttribute('data-wow-offset') || this.config.offset;
+      viewTop = window.pageYOffset;
+      viewBottom = viewTop + this.element.clientHeight - offset;
+      top = this.offsetTop(box);
+      bottom = top + box.clientHeight;
+      return top <= viewBottom && bottom >= viewTop;
+    };
+
+    WOW.prototype.util = function() {
+      return this._util || (this._util = new Util());
+    };
+
+    WOW.prototype.disabled = function() {
+      return !this.config.mobile && this.util().isMobile(navigator.userAgent);
+    };
+
+    return WOW;
+
+  })();
+
+}).call(this);
+
+
+wow = new WOW(
+  {
+    animateClass: 'animated',
+    offset: 100
+  }
+);
+wow.init();
+
+</script>
+
+
+
+
+  </head>
+
+ 
+<script>
+function Adnews() {
+  	       $("#AdNews").load("Adnews.php");
+		   $('#ModalAdNews').modal();
+}
+</script>
+</head>
+  
+  	    <body >
+    
+  
+   <!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="keywords" content="โรงเรียนสตรีวรนาถบางเขน">
+<meta name="description" content="โรงเรียนสตรีวรนาถบางเขน">
+<body>
+
+    <!--start  menu top-->
+      <div class="row">
+
+        <div class="col col-sm-12 col-md-12">
+
+          <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #99ccff; color: #FFF;">
+
+           <div class="col col-sm-8 col-md-5">
+
+            <a class="navbar-brand" href="index.php">
+
+            <img src="img/logo_svbN.png"  alt=""  ></a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+            <span class="navbar-toggler-icon"></span>
+
+            </button>
+
+           </div>
+
+           <div class="col col-sm-4 col-md-7" >
+
+            <div class="collapse navbar-collapse " id="navbarSupportedContent2"  >
+
+              <ul class="navbar-nav mr-auto">
+
+                <li class="nav-item active">
+
+                  <a class="nav-link" href="index.php" title="หน้าแรก"><i class="fa fa-home"></i> หน้าแรก </a>
+
+                </li>
+
+                <li class="nav-item dropdown">
+
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="ข้อมูลโรงเรียน"><i class="fa fa-th-list"></i> ข้อมูลโรงเรียน </a>
+
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                    <a class="dropdown-item history" style="cursor:pointer;" title="ประวัติโรงเรียน"><i class="fa fa-th-list"></i> ประวัติโรงเรียน</a>
+
+                    <a class="dropdown-item director" style="cursor:pointer;" title="ผังโครงสร้างผู้บริหาร"><i class="fa fa-th-list"></i> ผังโครงสร้างผู้บริหาร</a>
+
+                    <a class="dropdown-item marchschool" style="cursor:pointer;" title="เพลงประจำโรงเรียน"><i class="fa fa-th-list"></i> เพลงประจำโรงเรียน</a>
+
+                    <a class="dropdown-item diagramschool" style="cursor:pointer;" title="แผนผังโรงเรียน"><i class="fa fa-th-list"></i> แผนผังโรงเรียน</a>
+
+                    <a class="dropdown-item policy" style="cursor:pointer;" title="นโยบายโรงเรียน"><i class="fa fa-th-list"></i> นโยบายโรงเรียน</a>
+
+                    <a class="dropdown-item vision" style="cursor:pointer;" title="วิสัยทัศน์โรงเรียน"><i class="fa fa-th-list"></i> วิสัยทัศน์โรงเรียน</a>
+                  </div>
+                </li>
+                 <li class="nav-item">
+
+                  <a  href="https://www.svb.ac.th/#gallery" class="nav-link" style="cursor:pointer;" title="ภาพกิจกรรม"><i class="fa fa-photo"></i> ภาพกิจกรรม</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link award" style="cursor:pointer;" title="เกียรติประวัติ"><i class="fa fa-mortar-board"></i> เกียรติประวัติ</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link contract" style="cursor:pointer;" title="ติดต่อโรงเรียน"><i class="fa fa-phone"></i> ติดต่อโรงเรียน</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link job" style="cursor:pointer;" title="สมัครงาน"><i class='fas fa-male'></i> สมัครงาน</a>
+
+                </li>
+              </ul>
+
+            </div> 
+
+            </div>
+
+          </nav>
+
+        </div>
+
+      </div>
+
+
+  <!--start  banner --><!--end  banner -->
+
+  <!--start  menu2 --><!--end  menu -->
+
+  <!--start  main --><!--end  main  -->
+  <!--start  footer --><!--end  footer -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"8eb4a4830b83442395513cbc97856638","r":1,"spa":2}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a56dc285988d05b9',t:'MTc5NDA2OTQxNw=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a56dc285988d05b9',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+    </html>
+
+    <!-- Optional JavaScript -->
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
+    <!--start  menu top-->
+
+    <div class="container-fluid" >
+    
+     
+
+      <div class="row ">
+
+        <div class="col col-sm-12 col-md-12">
+
+          <!--nav class="navbar navbar-expand-lg navbar-light" style="background-color:#FC0;color:red ">
+
+           <div class="col col-sm-4 col-md-34">
+
+            <a class="navbar-brand" href="index.php">
+
+            <img src="img/logo2.png"  alt=""  ></a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+            <span class="navbar-toggler-icon"></span>
+
+            </button>
+
+           </div>
+
+           <div class="col col-sm-8 col-md-8" >
+
+            <div class="collapse navbar-collapse " id="navbarSupportedContent2"  >
+
+              <ul class="navbar-nav mr-auto">
+
+                <li class="nav-item active">
+
+                  <a class="nav-link" href="index.php"><i class="fa fa-home"></i> หน้าแรก</a>
+
+                </li>
+
+                <li class="nav-item dropdown">
+
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-th-list"></i> ข้อมูลโรงเรียน</a>
+
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                    <a class="dropdown-item history" style="cursor:pointer;">ประวัติโรงเรียน</a>
+
+                                    <a class="dropdown-item history_chan" style="cursor:pointer;">ประวัติท่านผู้หญิงเชิญ</a>
+
+                    <!--<a class="dropdown-item vision" style="cursor:pointer;">วิสัยทัศน์</a> -->
+
+                    <!--a class="dropdown-item director" style="cursor:pointer;">ผังโครงสร้างผู้บริหาร</a>
+
+                    <a class="dropdown-item marchschool" style="cursor:pointer;">เพลงประจำโรงเรียน</a>
+
+                    <a class="dropdown-item diagramschool" style="cursor:pointer;">แผนผังโรงเรียน</a>
+
+                    <a class="dropdown-item policy" style="cursor:pointer;">นโยบายโรงเรียน</a>
+
+                    <a class="dropdown-item policy" style="cursor:pointer;">วิสัยทัศน์</a>
+
+                  
+
+                  </div>
+
+                </li>
+
+                
+
+                 <li class="nav-item">
+
+                  <a class="nav-link active" style="cursor:pointer;"><i class="fa fa-photo"></i> ภาพกิจกรรม </a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link award" style="cursor:pointer;"><i class="fa fa-mortar-board"></i> เกียรติประวัติ</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link contract" style="cursor:pointer;"><i class="fa fa-phone"></i> ติดต่อโรงเรียน</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link job" style="cursor:pointer;"><i class='fas fa-male'></i> สมัครงาน</a>
+
+                </li>
+
+
+
+              </ul>
+
+            </div> 
+
+            </div>
+
+          </nav-->
+
+
+        </div>
+
+      </div>
+
+
+
+    </div>
+
+    <!--end  menu -->
+  <!--start  banner --> 
+   <!--div style="background: rgb(251,221,17);background: linear-gradient(0deg, rgba(251,221,17,1) 0%, rgba(250,254,122,1) 22%, rgba(254,253,234,1) 100%);" -->   
+    
+      <div class="marquee-container">
+        <div class="marquee-text"><img src="new/bullhorn-icon_34474.png" style="width:15px;height: auto;"/> <p><a href="https://www.svb.ac.th/student_register/" target="_blank">Satrivoranat Bangkhen is now accepting student applications.</a></p>
+</div>
+      </div>
+      
+  
+    <!--/div-->
+
+    <!--end  banner -->
+
+    <!--start  menu2 -->
+
+    <div class="container" align="">
+
+      <div class="row wow fadeInUp">
+
+        <!--div class="col col-sm-12 col-md-12">
+
+          <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;" >
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+            <span class="navbar-toggler-icon"></span>
+
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+              <ul class="navbar-nav mr-auto">
+
+                <li class="nav-item active">
+
+                  <a class="nav-link" href="index.html">หลักสูตรสามัญ<span class="sr-only"></span></a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link" href="" target="_blank">หลักสูตร IEC</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link" href="" target="_blank">นักเรียนประจำ</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                  <a class="nav-link" href="" target="_blank">การแต่งกาย</a>
+
+                </li>
+
+                                <li class="nav-item">
+
+                  <a class="nav-link" href="" target="_blank">ปฎิทินโรงเรียน</a>
+
+                </li>
+
+                                <li class="nav-item">
+
+                  <a class="nav-link" href="" target="_blank">กิจกรรม</a>
+
+                </li>
+
+                                <li class="nav-item">
+
+                  <a class="nav-link" href="" target="_blank">ประชาสัมพันธ์</a>
+
+                </li>
+
+                                <li class="nav-item">
+
+                  <a class="nav-link" href="" target="_blank">นักเรียนดีเด่น</a>
+
+                </li>
+
+              
+
+                <li class="nav-item">
+
+                  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+
+                </li>
+
+              </ul>
+
+            </div>
+
+          </nav>
+
+        </div-->
+
+      </div>
+
+    </div>
+
+    <!--end  menu -->
+
+    <!--start  main -->
+
+        <!--<div class="container con_iframe" style="border:dashed;">
+
+          <div class="container con_iframe" style="border:dashed;">
+
+              <iframe class="responsive-iframe "  frameborder="0"   id="myIframe" name="myIframe" scrolling="no" src="history.html" ></iframe>
+
+        </div>-->
+
+      <!--</div>-->
+
+    <!--div class="container">
+
+      <div class="load_result"></div>
+
+    </div-->
+    <div >
+
+      <div class="row wow fadeInUp">
+
+        <!--start menu left -->
+
+        <div class="col-sm-2 col-md-2 ">
+
+   
+
+          <div class="list-group" >  
+
+      
+
+            <button type="button" class="btn btn-primary nav-link course"  style="text-align:left;"><i class="fa fa-mortar-board"></i> หลักสูตรสามัญ</button>
+
+            <button type="button" class="btn btn-success nav-link course_iec"  style="text-align:left;"><i class="fa fa-mortar-board"></i> หลักสูตร IEC</button>
+
+            <button type="button" class="btn btn-warning nav-link dress"  style="text-align:left;"><i class='fas fa-male'></i> &nbsp;&nbsp;&nbsp;การแต่งกาย</button>
+
+            <!--button type="button" class="btn btn-danger nav-link boarder"  style="text-align:left;"><i class='fas fa-male'></i> &nbsp;&nbsp;&nbsp;นักเรียนประจำ</button-->
+           
+           <a href="/student_register" target="_blank"><img class="card zoom" src="img/bt_st_regisl.gif" style="max-width:100%" /></a>
+             <center>  <img src="img/fb_svb.jpg"   alt="" class="img-fluid"  style="max-width:60%;" > </center>
+              <!--button type="button" class="btn btn-warning nav-link "  style="text-align:left;">  <a href="https://www.svn.ac.th/" target="_blank"><img class=" zoom" src="img/logosvn.png" style="max-width:100%" /></a></button-->
+
+                    <!--<a class="nav-link course" style="cursor:pointer;">หลักสูตรสามัญ</a>
+
+                <a class="nav-link course_iec" style="cursor:pointer;">หลักสูตร IEC </a>
+
+            <a class="nav-link dress" style="cursor:pointer;">การแต่งกาย</a>
+
+              <a class="nav-link " style="cursor:pointer;">นักเรียนประจำ</a>-->      
+</div> 
+
+<!---menu    -->
+
+<div class="container">
+<div class="row">
+<div class="col-sm-2"></div>
+</div>
+</div>
+</div>
+<!--end menu left -->
+<!--start content -->
+<div class="col col-sm-8 col-md-8 wow fadeInUp">       
+ <div id="demo" class="carousel slide" data-ride="carousel"  >
+  <!-- Indicators -->
+ 	 <ul class="carousel-indicators">
+        
+              
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="0" class="active"></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="1" class=""></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="2" class=""></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="3" class=""></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="4" class=""></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="5" class=""></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="6" class=""></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="7" class=""></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="8" class=""></li>
+            
+ <!--img  src="" class="d-block w-100" alt="..." data-type="image" data-toggle="lightbox" data-gallery="example-gallery"--> 
+
+
+      <li data-target="#demo" data-slide-to="9" class=""></li>
+         
+     </ul>
+
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+         
+          
+        <div class="carousel-item active" data-slide-number="0">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/90.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="1">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/91.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="2">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/92.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="3">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/93.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="4">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/94.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="5">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/95.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="6">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/96.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="7">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/97.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="8">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/98.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+           
+        <div class="carousel-item " data-slide-number="9">
+        <center>
+         <img  src="SVBADMIN/index_page/file/1/99.jpg" class="img-responsive" style="max-width:100%;height:auto;"  > 
+         </center>
+        </div>
+            
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>       
+        <!-- --> 
+<div class="load_result wow fadeInUp"></div>        
+<!-- row  news-->
+<div class="wow fadeInUp">
+  <img src="img/news.png" style="max-width:100%;height:auto;" >
+</div>
+
+<div class="row wow fadeInUp">
+
+ <div class="col col-sm-12 col-md-12" >         
+  <iframe src="new_category.php" height="600" width="95%" style="border:none;" scrolling="yes"></iframe>              
+ </div>
+ <div class="col-12 col-sm-12 col-md-12" align="right">
+	<a href="new_all.php" class="btn btn-info btn-sm" style="text-align: right;" target="_parent"><i class='fa fa-bookmark'></i>  อ่านข่าวประชาสัมพันธ์ทั้งหมด</a>
+</div>
+
+<!--iframe src="new_category.php" height="600" width="100%" style="border:none;" scrolling="yes"></iframe-->   
+</div><!-- row -->
+<hr>
+<!-- row  student-->
+  <div class="wow fadeInUp">
+
+   <img src="img/student.png" style="max-width:100%;height:auto;" >
+
+  </div>
+          <div class="row wow fadeInUp">
+
+            <div class="col col-sm-12 col-md-12" >
+
+               
+
+		<div  align="left">	
+
+			<p> </p>
+
+<p><img style="max-width:100%;height:auto;" alt="" src="SVBADMIN/best_std/img/1/20569.jpg" style="height:1080px; width:1920px" /><img style="max-width:100%;height:auto;" alt="" src="SVBADMIN/best_std/img/1/สีเหลือง สีน้ำเงิน สีขาว ภาพประกอบ ประชุมเตรียมการแข่งขัน กีฬาสีบริษัท พรีเซนเทชั่น.jpg" style="height:1080px; width:1920px" /></p>
+
+<p><img style="max-width:100%;height:auto;" alt="" src="SVBADMIN/best_std/img/1/4.jpg" style="height:1080px; width:1920px" /><img style="max-width:100%;height:auto;" alt="" src="SVBADMIN/best_std/img/1/2.jpg" style="height:1080px; width:1920px" /></p>
+
+<p><img style="max-width:100%;height:auto;" alt="" src="SVBADMIN/best_std/img/1/30.jpg" style="height:1080px; width:1920px" /></p>
+
+<p> </p>
+		 </div>
+  </div>
+
+</div><!-- row -->
+<hr>
+<!-- row gallery-->
+<div class="wow fadeInUp">
+	<a id="gallery"></a>
+  <img src="img/picture.png" style="max-width:100%;height:auto;" >
+</div>
+<div id="gallery_category" class="row  wow fadeInUp" ></div>
+<hr>
+<!-- row vdo -->
+<div class="wow fadeInUp">
+  <img src="img/vdo.png" style="max-width:100%;height:auto;" >
+</div>
+<div class="row wow fadeInUp">
+ <div class="col col-sm-12 col-md-12" >
+ <table border="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="text-align:center">
+			<h4 style="text-align:left"><span style="color:#2980b9">แนะนำโรงเรียนสตรีวรนาถบางเขน</span></h4>
+			</td>
+			<td style="text-align:center">
+			<h4> </h4>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; width:50% height=100%">
+			<div class="embed-responsive embed-responsive-16by9"><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/LCZRffNwSF8?si=iFCgX5EXXTqemwXd" title="YouTube video player" width="560"></iframe></div>
+			</td>
+			<td style="text-align:center; width:50%"> </td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+ </div>
+</div>
+<div class="row">
+</div>
+</div>
+
+<div class=" col col-sm-2 col-md-2 wow fadeInUp" style="border:0px solid #3C3;">
+ <div  align="center">
+  <img src="img/d_director.jpg" width="200px"  alt="" class="img-fluid" >      
+ </div>             
+<br>   
+ <div  align="center">
+  <img src="img/d1.gif" width="200px"  alt="" class="img-fluid" >      
+ </div>             
+ <br> 
+   <!--div  align="center">
+
+           <img src="img/d2.jpg" width="200px"  alt="" class="img-fluid" >      
+
+  </div120169-->             
+
+          <br>       
+
+<div class="panel panel-login" style="border: 0px solid #3C3; border-radius: 13px; background-color: #99CCFF;" id="div_login">
+
+          <div class="panel-heading" align="center">
+
+            <img src="img/login.png" style="max-width:100%;height:auto;"> 
+
+          </div>
+
+          <div class="panel-body" align="center">
+
+            <div class="form-login">
+
+              <form name="admin_form" id="admin_form" class="form-horizontal" method="post">
+
+                <div class="form-group">
+
+                  <div class="col-sm-10">
+
+                    <div class="input-group">
+
+                      <div class="input-group-addon"> <i class="glyphicon glyphicon-user"></i> </div>
+
+                      <input name="admin_username" type="text" class="form-control" id="admin_username" placeholder="Username" style="height:30px;" maxlength="20">
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <div class="form-group">
+
+                  <div class="col-sm-10">
+
+                    <div class="input-group">
+
+                      <div class="input-group-addon"> <i class="glyphicon glyphicon-lock"></i> </div>
+
+                      <input name="admin_password" type="password" class="form-control" id="admin_password" placeholder="Password" style="height:30px;" maxlength="20">
+
+                    </div>
+
+                    <input type="hidden" id="logintype" name="logintype" value="">
+
+                  </div>
+
+                </div>
+
+                <div class="form-group" align="center">
+
+                  <div class="col-sm-offset-2 col-sm-10">
+
+                    <button type="submit" style="background-color: #0099CC; color: #FFF;" > เข้าสู่ระบบ </button>
+
+                  </div>
+
+                </div>                
+
+              </form>
+</div>
+
+    <div id="login_div"></div>
+</div>
+</div>
+  
+<div  align="center" style="border:#CCC;  border-radius: 10px; "><br>
+     <iframe class="embed-responsive-item" src="SVBADMIN/calendar_system/calendar.php"  height="300px" width="250px" scrolling="no"  border="" frameborder="0"></iframe>
+</div>
+<!--end content -->
+</div>
+</div>
+
+<!--end  main  -->
+<!--start  footer -->
+
+<div class="container-fluid" style="background-color: #99CCFF;">
+
+  <div class="row">
+          <div class="col-12 col-sm-12 col-md-12">
+              <p align="center" class="myfooter">Copyright © 2020 Satrivoranart Bangkhen School</p>
+            </div>
+              <div class="col-12 col-sm-12 col-md-12">
+            <p align="center" > <a href="https://www.facebook.com/SVBsatrivoranart/" target="_blank"> <img  class="zoom" src="img/logo facebook.png"  width="50px" alt="" class="img-fluid" > </a></p>
+            </div>
+  </div>
+</div>
+
+ <!--end  footer -->
+
+</body>
+
+</html>
+    
+  	     <div class="modal fade mainModal"  id="ModalAdNews" role="dialog" data-keyboard="false" data-backdrop="static">
+ <div class="modal-dialog modal-lg">
+  <div class="modal-content">
+   <div class="modal-header " style="background-color: #39F; border-color:#39F; color:#FFF; font-size:22px; font-family:AngsanaUPC">
+                                      <button type="button" class="close btn-close" data-dismiss="modal" >Close</button>
+   </div>
+   <div class="modal-body">
+    <div class="mainBody" id="AdNews">
+	
+
+<div  align="center">	
+
+ </div>
+ </div>
+</div>
+   <div class="modal-footer" style="background-color: #39F; border-color:#39F; color:#FFF; font-size:22px; font-family:AngsanaUPC">
+    <p class="font-16 text-bold text-center" >
+     Copyright © 2020 Satrivoranart Bangkhen School
+    </p>   
+   </div>
+  </div>
+ </div>
+</div>
+
+<div class="modal fade mainModal"  id="ModalCourse" role="dialog" data-keyboard="false" data-backdrop="static">
+ <div class="modal-dialog modal-lg">
+  <div class="modal-content">
+   <div class="modal-header">
+    <button type="button" class="close btn-close" data-dismiss="modal">X</button>
+   </div>
+   <div class="modal-body">
+    <div class="mainBody" id="course"></div>
+   </div>
+   <div class="modal-footer">
+    <p class="font-16 text-bold text-center " >   
+     <span style="color:#FFF">
+     Copyright © 2020 satrivoranart school. All Rights Reserved
+     </span>
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+</body>    
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <!--script src="js/jquery-3.3.1.slim.min.js"></script-->
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
