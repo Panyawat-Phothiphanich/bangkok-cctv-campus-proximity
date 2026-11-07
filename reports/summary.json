@@ -1,0 +1,27 @@
+{
+  "cameras": 100,
+  "near_any": 100,
+  "near_school": 100,
+  "near_university_college": 94,
+  "no_match": 0,
+  "unknown": 0,
+  "candidate_records": 1285,
+  "institutions": 1154,
+  "merged_records": 96,
+  "rejected_records": 0,
+  "campus_components_collapsed": 35,
+  "camera_institution_pairs": 2306,
+  "borderline_pairs": 554,
+  "osm_loaded": true,
+  "candidate_sources": {
+    "OBEC": 159,
+    "BMA": 437,
+    "OSM": 688,
+    "OFFICIAL": 1
+  },
+  "institution_types": {
+    "school": 1055,
+    "university": 48,
+    "college": 51
+  }
+}
