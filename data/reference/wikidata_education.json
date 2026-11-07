@@ -1,0 +1,667 @@
+{
+  "head" : {
+    "vars" : [ "item", "itemLabel", "coord", "type", "website" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q855730"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.532111111 13.738361111)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chula.ac.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "จุฬาลงกรณ์มหาวิทยาลัย"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844585"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.558097 13.779131)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.thaindc.org/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "วิทยาลัยป้องกันราชอาณาจักร"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16307033"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.488178 13.732199)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bsru.ac.th/en"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1132505"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.577546 13.820401)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.chandra.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยราชภัฏจันทรเกษม"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1734895"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.62697222 13.73805556)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.kbu.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยเกษมบัณฑิต"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3808815"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.5051 13.781)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.umpudh.com/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยนวมินทราธิราช"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2056855"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.525384 13.74718)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.pit.ac.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "สถาบันเทคโนโลยีปทุมวัน"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16434427"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.531603 13.73433)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "คณะเศรษฐศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132860508"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.558392 13.77985)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ndsi.rtarf.mi.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "สถาบันวิชาการป้องกันประเทศ"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11340789"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.49 13.755)"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาจุฬาลงกรณราชวิทยาลัย"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4381437"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.45319444 13.72166667)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.siam.edu"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยสยาม"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1742058"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.5152 13.8204)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.kmutnb.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13026958"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.574809855 13.830403448)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mtts.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "โรงเรียนช่างฝีมือทหาร"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13018783"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.508112 13.775405)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ssru.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยราชภัฏสวนสุนันทา"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13018812"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.513487 13.761843)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.rmutp.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1799929"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.560361 13.779839)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.utcc.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยหอการค้าไทย"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13018775"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.491656 13.734007)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dru.ac.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยราชภัฏธนบุรี"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13018783"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.508112 13.775405)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ssru.ac.th/en/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยราชภัฏสวนสุนันทา"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13018783"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.508112 13.775405)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ssru.ac.th/index.php"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยราชภัฏสวนสุนันทา"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13018784"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.5103 13.77589)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dusit.ac.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยสวนดุสิต"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13018814"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.557130555 13.7782)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.cpc.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก วิทยาเขตจักรพงษภูวนารถ"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13018823"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.537353 13.713626)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.rmutk.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5428916"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.533538 13.739325)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.arts.chula.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "คณะอักษรศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1209733"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.49 13.7575)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://tu.ac.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยธรรมศาสตร์"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1209824"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.490203 13.7531)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.su.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยศิลปากร"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185548"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.617425 13.756224)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ru.ac.th"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยรามคำแหง"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q452406"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.56805 13.848597222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ku.ac.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยเกษตรศาสตร์"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16307033"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.488178 13.732199)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bsru.ac.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3918"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1047745"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(100.565 13.745)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.swu.ac.th/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "th",
+        "type" : "literal",
+        "value" : "มหาวิทยาลัยศรีนครินทรวิโรฒ"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "scope": "Targeted review of the original 13 higher-education no-match cameras and schools for cameras 224/225. Identity, source coverage and mapped-boundary sensitivity reviewed; precise gates not surveyed.",
+  "checked_on_client_date": "2026-11-07",
+  "browser_review": "blocked_by_saved_permission_or_managed_policy",
+  "checks": [
+    {
+      "institution": "โรงเรียนสตรีวรนาถบางเขน",
+      "camera_ids": [
+        "224",
+        "225"
+      ],
+      "source_urls": [
+        "https://svb.ac.th/",
+        "https://svb.ac.th/contract.php",
+        "https://svb.ac.th/new_category.php"
+      ],
+      "findings": [
+        "Official contact address 1408 Phahonyothin Road, Chom Phon, Chatuchak matches OSM address.",
+        "Official news lists 2026 school activities and school-year 2569 student registration; supports recent school activity.",
+        "Official news includes a temporary rain/flood closure notice dated 27 September 2026. This is not a claim of permanent closure or a universal class calendar.",
+        "Canonical name corrected from OSM spelling. Retain OSM source point for primary distance; map viewport centre is not a verified pin and was not used to move the school."
+      ],
+      "coordinate_review": "Source-point distances about 1261 m and 1245 m; exact entrance location not independently verified."
+    },
+    {
+      "institution": "วิทยาลัยพยาบาลกองทัพเรือ",
+      "camera_ids": [
+        "1103",
+        "26",
+        "158",
+        "1195",
+        "1076",
+        "36"
+      ],
+      "source_url": "https://www.rtncn.ac.th/en/ContactUs.php",
+      "finding": "Missing college added from official contact-page address and embedded map viewport centre. Point role explicitly approximate; not a surveyed location or exact pin."
+    },
+    {
+      "institution": "วิทยาลัยเทคโนโลยีดอนบอสโก",
+      "camera_ids": [
+        "251"
+      ],
+      "source_url": "https://55.donboscobkk.ac.th/index.php/receive-student",
+      "finding": "Official admissions page identifies a college at 1643/3 New Phetchaburi Road. Reclassified OSM record from school to college; point unchanged. Camera 251 about 958 m away."
+    },
+    {
+      "institution": "มหาวิทยาลัยเซนต์จอห์น",
+      "camera_ids": [
+        "124",
+        "125",
+        "123"
+      ],
+      "source_url": "https://sju.ac.th/web_contact",
+      "finding": "Official contact address supports Vibhavadi Rangsit / Chomphon location. Official embedded map centre differs from OSM centre; both point choices remain outside 1.5 km for these three cameras. Nearby Chandrakasem campus outline falls inside 1.5 km, so none should be treated as unexposed."
+    },
+    {
+      "institution": "วิทยาลัยเทคโนโลยีโพลีกรุงเทพ",
+      "camera_ids": [
+        "529"
+      ],
+      "source_url": "https://www.poly.ac.th/contact.html",
+      "finding": "Official site supports college identity; map reference point is 1627 m and nearest mapped outline about 1572 m away. Outside the primary cutoff but close enough to require caution about location uncertainty."
+    },
+    {
+      "institution": "วิทยาลัยดุสิตธานี กรุงเทพ",
+      "camera_ids": [
+        "1804"
+      ],
+      "source_url": "https://programs.dtc.ac.th/dtc-trial-class-2025/",
+      "finding": "Official 2026 programme page confirms Bangkok campus near Seacon Srinakarin. Nearest catalog point about 2522 m and mapped outline about 2472 m; no additional qualifying college found in targeted review. Catalog absence remains uncertified."
+    },
+    {
+      "institution": "มหาวิทยาลัยรามคำแหง (หัวหมาก) / วิทยาลัยพาณิชการอินทราชัย",
+      "camera_ids": [
+        "938"
+      ],
+      "source_urls": [
+        "https://kids.ru.ac.th/",
+        "https://www.intrachai.ac.th/"
+      ],
+      "finding": "Nearest college point remains about 1545 m, but mapped Ramkhamhaeng campus outline is about 1202 m away. Do not treat camera 938 as unexposed. Intrachai direct-site fetch failed certificate verification; no TLS checks bypassed."
+    }
+  ],
+  "broad_name_query": "The cached OSM named-feature review retrieved 249 objects. Nearby bus stops, shops, sports grounds and campus buildings were not counted as separate institutions just because their names contain a university or college name."
+}

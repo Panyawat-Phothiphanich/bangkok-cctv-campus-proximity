@@ -1,0 +1,73 @@
+{
+  "review_date": "2026-11-07",
+  "corrections": [
+    {
+      "source": "OSM",
+      "source_id": "way/605773872",
+      "fields": {
+        "institution_type": "college",
+        "official_url": "https://55.donboscobkk.ac.th/index.php/receive-student"
+      },
+      "evidence_url": "https://55.donboscobkk.ac.th/index.php/receive-student",
+      "evidence_file": "data/reference/review_sources/donbosco_admission.html",
+      "reason": "Official admissions page identifies Don Bosco Technological College; source amenity=school was too broad."
+    },
+    {
+      "source": "OSM",
+      "source_id": "way/606092510",
+      "fields": {
+        "institution_name": "โรงเรียนสตรีวรนาถบางเขน",
+        "official_url": "https://svb.ac.th/"
+      },
+      "evidence_url": "https://svb.ac.th/",
+      "evidence_file": "data/reference/review_sources/svb_home.html",
+      "reason": "Canonical Thai school name confirmed on official website; original OSM spelling preserved in raw source."
+    },
+    {
+      "source": "OSM",
+      "source_id": "way/307255733",
+      "fields": {
+        "institution_type": "college"
+      },
+      "evidence_url": "https://webportal.bangkok.go.th/bangkoknoi/page/main/4797/-/0/info/554114",
+      "reason": "Charansanitwong Technological College is identified as a vocational/technological college by an institutional or municipal source. Correct overly broad amenity=school classification."
+    },
+    {
+      "source": "OSM",
+      "source_id": "way/660415745",
+      "fields": {
+        "institution_type": "college",
+        "official_url": "https://organization.pongsawadi.ac.th/organization/"
+      },
+      "evidence_url": "https://organization.pongsawadi.ac.th/organization/",
+      "reason": "Pongsawadi Technological College is identified as a vocational/technological college by an institutional or municipal source. Correct overly broad amenity=school classification."
+    },
+    {
+      "source": "OSM",
+      "source_id": "way/1421092393",
+      "fields": {
+        "institution_type": "college",
+        "official_url": "https://www.vtech.ac.th/Menu/1"
+      },
+      "evidence_url": "https://www.vtech.ac.th/Menu/1",
+      "reason": "Varathip Business Administration Technological College is identified as a vocational/technological college by an institutional or municipal source. Correct overly broad amenity=school classification."
+    }
+  ],
+  "additions": [
+    {
+      "source": "OFFICIAL",
+      "source_id": "rtncn_main",
+      "institution_name": "วิทยาลัยพยาบาลกองทัพเรือ",
+      "institution_type": "college",
+      "latitude": 13.7087526,
+      "longitude": 100.4858876,
+      "point_role": "official_embedded_map_view_center",
+      "source_file": "data/reference/review_sources/naval_contact.html",
+      "source_url": "https://www.rtncn.ac.th/en/ContactUs.php",
+      "official_url": "https://www.rtncn.ac.th/",
+      "source_year": "",
+      "address": "504/57 Somdet Phrachao Taksin Rd., Bukkhalo, Thon Buri, Bangkok 10600",
+      "note": "Reference coordinate extracted from the official contact page embedded map viewport. This is approximate and not asserted to be a pin or entrance."
+    }
+  ]
+}

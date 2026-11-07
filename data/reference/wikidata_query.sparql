@@ -1,0 +1,11 @@
+SELECT DISTINCT ?item ?itemLabel ?coord ?type ?website WHERE {
+ SERVICE wikibase:box {
+   ?item wdt:P625 ?coord .
+   bd:serviceParam wikibase:cornerSouthWest "Point(100.36861 13.67327)"^^geo:wktLiteral .
+   bd:serviceParam wikibase:cornerNorthEast "Point(100.65555 13.84894)"^^geo:wktLiteral .
+ }
+ VALUES ?type { wd:Q3918 wd:Q189533 }
+ ?item wdt:P31/wdt:P279* ?type .
+ OPTIONAL { ?item wdt:P856 ?website }
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "th,en" . }
+}

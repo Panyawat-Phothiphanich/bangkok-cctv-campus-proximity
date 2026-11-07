@@ -1,0 +1,1 @@
+[out:json][timeout:40];nwr["name"~"วิทยาลัย|มหาวิทยาลัย|College|University|Polytechnic|Nursing",i](13.67327,100.36861,13.84894,100.65555);out center tags;

@@ -1,0 +1,14 @@
+{
+  "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+  "query_files": [
+    "overpass_query.txt",
+    "overpass_campus_geometry_query.txt"
+  ],
+  "snapshot_timestamp_utc": "2026-11-07T16:24:06Z",
+  "unsuccessful_endpoints": [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+    "https://overpass.private.coffee/api/interpreter"
+  ],
+  "fallback_wikidata": "Cached but not used in final classification"
+}

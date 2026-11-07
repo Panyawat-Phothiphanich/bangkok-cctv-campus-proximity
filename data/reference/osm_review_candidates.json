@@ -1,0 +1,4282 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-07T16:37:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 444402399,
+  "lat": 13.7342012,
+  "lon": 100.5324363,
+  "tags": {
+    "amenity": "events_venue",
+    "name": "ศูนย์กลางนวัตกรรมทางสังคมแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "CU Social Innovation Hub",
+    "name:th": "ศูนย์กลางนวัตกรรมทางสังคมแห่งจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "node",
+  "id": 1206929515,
+  "lat": 13.7139428,
+  "lon": 100.5132013,
+  "tags": {
+    "amenity": "university",
+    "name": "Rajamangala University of Technology Krungthep"
+  }
+},
+{
+  "type": "node",
+  "id": 1374598999,
+  "lat": 13.8477081,
+  "lon": 100.5675227,
+  "tags": {
+    "building": "yes",
+    "name": "ชมรมค่ายอาสาพัฒนามหาวิทยาลัยเกษตรศาสตร์"
+  }
+},
+{
+  "type": "node",
+  "id": 1374621686,
+  "lat": 13.8479972,
+  "lon": 100.5671496,
+  "tags": {
+    "amenity": "pub",
+    "name": "ชมรมมหาวิทยาลัย-ชาวบ้าน",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1374621701,
+  "lat": 13.8476470,
+  "lon": 100.5680738,
+  "tags": {
+    "building": "dormitory",
+    "name": "ตึกพักชายที่ ๑๒ มหาวิทยาลัยเกษตรศาสตร์",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1374627083,
+  "lat": 13.8431205,
+  "lon": 100.5711345,
+  "tags": {
+    "name": "ศูนย์หนังสือ มหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University Book Center",
+    "opening_hours": "Closed",
+    "shop": "books",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1538274371,
+  "lat": 13.8361524,
+  "lon": 100.4986752,
+  "tags": {
+    "bus": "yes",
+    "name": "วิทยาลัยเทคโนโลยีพงษ์สวัสดิ์",
+    "name:en": "Pongsawadi Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีพงษ์สวัสดิ์",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1694957992,
+  "lat": 13.7383569,
+  "lon": 100.5320814,
+  "tags": {
+    "country": "TH",
+    "flag:name": "Thailand",
+    "flag:type": "national",
+    "flag:wikidata": "Q134885",
+    "man_made": "flagpole",
+    "name": "เสาธงประจำจุฬาลงกรณ์มหาวิทยาลัย",
+    "operator": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "subject": "Thailand",
+    "subject:wikidata": "Q869"
+  }
+},
+{
+  "type": "node",
+  "id": 1703931118,
+  "lat": 13.7358897,
+  "lon": 100.5256941,
+  "tags": {
+    "amenity": "clinic",
+    "emergency": "no",
+    "healthcare": "clinic",
+    "level": "1",
+    "name": "ศูนย์บริการสุขภาพแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Chulalongkorn University Health Service Center",
+    "name:th": "ศูนย์บริการสุขภาพแห่งจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "node",
+  "id": 1883392978,
+  "lat": 13.7186565,
+  "lon": 100.4538264,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "มหาวิทยาลัยดุริยางค์",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3488652931,
+  "lat": 13.7200849,
+  "lon": 100.5236274,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "โรงเรียนกรุงเทพคริสเตียนวิทยาลัย",
+    "name:en": "Bangkok Christian College",
+    "name:th": "โรงเรียนกรุงเทพคริสเตียนวิทยาลัย",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3724152156,
+  "lat": 13.7783060,
+  "lon": 100.5714559,
+  "tags": {
+    "amenity": "university",
+    "name": "Phra Nakhon Polytechnic College"
+  }
+},
+{
+  "type": "node",
+  "id": 4458832744,
+  "lat": 13.7370328,
+  "lon": 100.5318633,
+  "tags": {
+    "name": "หอประวัติจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Memorial Hall of Chulalongkorn University",
+    "name:th": "หอประวัติจุฬาลงกรณ์มหาวิทยาลัย",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4513379189,
+  "lat": 13.7672144,
+  "lon": 100.4767963,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "ตรงข้ามวิทยาลัยเทคโนโลยีจรัลสนิทวงศ์",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4770201766,
+  "lat": 13.7706277,
+  "lon": 100.5044851,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร (วิทยาเขตเทเวศร์)",
+    "operator": "BMA",
+    "public_transport": "platform",
+    "route_ref": "3, 9ร, 16, 32, 33ร, 49, 51ร, 65, 110ร, 505,524",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4770201769,
+  "lat": 13.7748439,
+  "lon": 100.5068582,
+  "tags": {
+    "alt_name:th": "ราชภัฏสวนสุนันทา",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+    "name:th": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+    "public_transport": "platform",
+    "route_ref": "3; 9; 16; 30; 32; 33; 49; 64; 65; 110; 505; 524",
+    "shelter": "yes",
+    "short_name:th": "สวนสุนันทา"
+  }
+},
+{
+  "type": "node",
+  "id": 4770201770,
+  "lat": 13.7743428,
+  "lon": 100.5064652,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+    "note": "3, 9ร, 16, 32, 33ร, 49, 51ร, 65, 110ร, 505",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4826445163,
+  "lat": 13.7433690,
+  "lon": 100.4990510,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "ตรงข้ามโรงเรียนสวนกุหลาบวิทยาลัย",
+    "name:en": "Opposite Suankularb Wittayalai School",
+    "name:th": "ตรงข้ามโรงเรียนสวนกุหลาบวิทยาลัย",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4826445164,
+  "lat": 13.7429789,
+  "lon": 100.4987602,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "โรงเรียนสวนกุหลาบวิทยาลัย",
+    "name:en": "Suankularb Wittayalai School",
+    "name:th": "โรงเรียนสวนกุหลาบวิทยาลัย",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4968666026,
+  "lat": 13.8199311,
+  "lon": 100.5774458,
+  "tags": {
+    "name": "สนามกีฬากลางมหาวิทยาลัยราชภัฏจันทรเกษม",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 4968683222,
+  "lat": 13.8189284,
+  "lon": 100.5777347,
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "name": "วิทยาลัยการแพทย์ทางเลือก",
+    "name:en": "Alternative Medical College",
+    "office": "government",
+    "website": "http://www.amc.chandra.ac.th"
+  }
+},
+{
+  "type": "node",
+  "id": 4969529221,
+  "lat": 13.8203448,
+  "lon": 100.5778347,
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "name": "สนามกีฬาในร่มมหาวิทยาลัยราชภัฏจันทรเกษม",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 4969530723,
+  "lat": 13.8199331,
+  "lon": 100.5758665,
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "amenity": "post_office",
+    "name": "ไปรษณีย์สาขามหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 4969536523,
+  "lat": 13.8181205,
+  "lon": 100.5756840,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "name:en": "Chandrakasem Rajabhat University",
+    "name:th": "มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "name:vi": "Đại học Chandrakasem Rajabhat",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4969552121,
+  "lat": 13.8189754,
+  "lon": 100.5756447,
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "amenity": "hospital",
+    "check_date": "2026-08-06",
+    "name": "สถานพยาบาลแพทย์แผนจีน มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 4971986024,
+  "lat": 13.8196131,
+  "lon": 100.5785545,
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "name": "สวัสดิการร้านค้า มหาวิทยาลัยราชภัฏจันทรเกษม (ตึก 32)",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 4985578405,
+  "lat": 13.8039371,
+  "lon": 100.5121293,
+  "tags": {
+    "bus": "yes",
+    "name": "วิทยาลัยเทคโนโลยีพระรามหก",
+    "name:en": "Phra Ram Hok Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีพระรามหก",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 5287067021,
+  "lat": 13.7197363,
+  "lon": 100.4531140,
+  "tags": {
+    "name": "มหาวิทยาลัยสยาม",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 5397838570,
+  "lat": 13.7495995,
+  "lon": 100.5591411,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "ป้ายรถประจำทาง วิทยาลัยเทคโนโลยีดอนบอสโก",
+    "name:en": "Bus Stop Don Bosco Technological College",
+    "name:th": "ป้ายรถประจำทาง วิทยาลัยเทคโนโลยีดอนบอสโก",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "operator": "Bangkok Mass Transit Authority",
+    "operator:wikidata": "Q4855217",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5631540883,
+  "lat": 13.8472047,
+  "lon": 100.5710675,
+  "tags": {
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "healthcare:speciality": "psychiatry",
+    "name": "Kasetsart University Happy Place Center",
+    "name:th": "ศูนย์สุขภาวะนิสิต"
+  }
+},
+{
+  "type": "node",
+  "id": 6170004335,
+  "lat": 13.8238827,
+  "lon": 100.4596914,
+  "tags": {
+    "bus": "yes",
+    "name": "มหาวิทยาลัยราชพฤกษ์",
+    "name:en": "Rajapruk University",
+    "name:th": "มหาวิทยาลัยราชพฤกษ์",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6170144049,
+  "lat": 13.8450139,
+  "lon": 100.5663166,
+  "tags": {
+    "bus": "yes",
+    "description": "สาย 545",
+    "highway": "bus_stop",
+    "name": "มหาวิทยาลัยเกษตรศาสตร์ ประตู งามวงศ์วาน 1",
+    "name:en": "Kasetsart University Ngam Wong Wan Gate 1",
+    "name:th": "มหาวิทยาลัยเกษตรศาสตร์ ประตู งามวงศ์วาน 1",
+    "public_transport": "platform",
+    "ref": "1+153"
+  }
+},
+{
+  "type": "node",
+  "id": 6170144050,
+  "lat": 13.8446600,
+  "lon": 100.5664429,
+  "tags": {
+    "bus": "yes",
+    "description": "สาย 545",
+    "highway": "bus_stop",
+    "name": "ตรงข้าม มหาวิทยาลัยเกษตรศาสตร์ ประตู งามวงศ์วาน 1",
+    "name:en": "Opposite Kasetsart University Ngam Wong Wan Gate 1",
+    "name:th": "ตรงข้าม มหาวิทยาลัยเกษตรศาสตร์ ประตู งามวงศ์วาน 1",
+    "public_transport": "platform",
+    "ref": "กม.1+153 ลาดยาว จตุจักร กรุงเทพมหานคร"
+  }
+},
+{
+  "type": "node",
+  "id": 6170155352,
+  "lat": 13.8424792,
+  "lon": 100.5708323,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "description": "สาย 545",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "มหาวิทยาลัยเกษตรศาสตร์ ประตู งามวงศ์วาน 3",
+    "name:en": "Kasetsart University Ngam Wong Wan Gate 3",
+    "name:th": "มหาวิทยาลัยเกษตรศาสตร์ ประตู งามวงศ์วาน 3",
+    "public_transport": "platform",
+    "ref": "กม.0+603 ลาดยาว จตุจักร กรุงเทพมหานคร",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6170155353,
+  "lat": 13.8423678,
+  "lon": 100.5704414,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "description": "สาย 545",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "ตรงข้าม มหาวิทยาลัยเกษตรศาสตร์ ประตู งามวงศ์วาน 3",
+    "name:en": "Opposite Kasetsart University Ngam Wong Wan Gate 3",
+    "name:th": "ตรงข้าม มหาวิทยาลัยเกษตรศาสตร์ ประตู งามวงศ์วาน 3",
+    "public_transport": "platform",
+    "ref": "กม.0+639 แขวงลาดยาว เขตจตุจักร กรุงเทพมหานคร",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270591287,
+  "lat": 13.7565772,
+  "lon": 100.4923547,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "มหาวิทยาลัยธรรมศาสตร์",
+    "name:en": "Thammasat University",
+    "name:th": "มหาวิทยาลัยธรรมศาสตร์",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6315288886,
+  "lat": 13.7568388,
+  "lon": 100.4925771,
+  "tags": {
+    "alt_name:en": "Opposite Thammasat University",
+    "alt_name:th": "ตรงข้ามมหาวิทยาลัยธรรมศาสตร์",
+    "bench": "no",
+    "bus": "yes",
+    "colour": "blue",
+    "highway": "bus_stop",
+    "name": "ตรงข้ามมหาวิทยาลัยธรรมศาสตร์",
+    "name:en": "Opposite Thammasat University",
+    "name:th": "ตรงข้ามมหาวิทยาลัยธรรมศาสตร์",
+    "public_transport": "platform",
+    "ref": "13",
+    "route_ref": "1;3;1-9E;25;25;43;53;64;80;81;91;91ก;123;124;189;203;508",
+    "shelter": "yes",
+    "source": "survey",
+    "source:date": "2024-01-01"
+  }
+},
+{
+  "type": "node",
+  "id": 6323186186,
+  "lat": 13.8186032,
+  "lon": 100.5139682,
+  "tags": {
+    "bus": "yes",
+    "name": "ตรงข้ามมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "name:en": "Opposite King Mongkut's University of Technology North Bangkok",
+    "name:th": "ตรงข้ามมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6388679609,
+  "lat": 13.8188006,
+  "lon": 100.5137382,
+  "tags": {
+    "bus": "yes",
+    "name": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "name:en": "King Mongkut's University of Technology North Bangkok",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6399771830,
+  "lat": 13.8360900,
+  "lon": 100.4985437,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "วิทยาลัยเทคโนโลยีพงษ์สวัสดิ์",
+    "name:en": "Pongsawadi Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีพงษ์สวัสดิ์",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6400550372,
+  "lat": 13.8188545,
+  "lon": 100.5137544,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "check_date:shelter": "2026-01-05",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "name:en": "King Mongkut's University of Technology North Bangkok",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6400550373,
+  "lat": 13.8185534,
+  "lon": 100.5139503,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2026-01-05",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "ตรงข้ามมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "name:en": "Opposite King Mongkut's University of Technology North Bangkok",
+    "name:th": "ตรงข้ามมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6401847782,
+  "lat": 13.8238365,
+  "lon": 100.4596830,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "มหาวิทยาลัยราชพฤกษ์",
+    "name:en": "Rajapruk University",
+    "name:th": "มหาวิทยาลัยราชพฤกษ์",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6681609027,
+  "lat": 13.8423141,
+  "lon": 100.5771050,
+  "tags": {
+    "name": "มหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University",
+    "name:ja": "カセサート大学駅",
+    "network": "BTS",
+    "operator": "กรุงเทพธนาคม",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "N13",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q76973081"
+  }
+},
+{
+  "type": "node",
+  "id": 7058244833,
+  "lat": 13.7360202,
+  "lon": 100.5254973,
+  "tags": {
+    "club": "music",
+    "internet_access": "yes",
+    "level": "6",
+    "name": "ชมรมดนตรีไทย สโมสรนิสิตจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "CU Thai Classical Music",
+    "name:th": "ชมรมดนตรีไทย สโมสรนิสิตจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "node",
+  "id": 7085692219,
+  "lat": 13.8454644,
+  "lon": 100.5670227,
+  "tags": {
+    "name": "ร้านสหกรณ์มหาวิทยาลัยเกษตรศาสตร์ จำกัด",
+    "name:en": "Kasetsart University Co-Operative Store Ltd.",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa 09:00-17:00",
+    "operator": "Kasetsart University Co-Operative Store Ltd.",
+    "payment:cash": "yes",
+    "payment:wire_transfer": "yes",
+    "phone": "025793206",
+    "shop": "convenience",
+    "website": "https://coopshop.ku.ac.th/"
+  }
+},
+{
+  "type": "node",
+  "id": 7085956944,
+  "lat": 13.8191048,
+  "lon": 100.5766380,
+  "tags": {
+    "building": "yes",
+    "name": "อาคาร 6 คณะวิทยาศาสตร์ มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7085956949,
+  "lat": 13.8207218,
+  "lon": 100.5761905,
+  "tags": {
+    "building": "yes",
+    "name": "อาคาร 9 คณะวิทยาการจัดการ มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7085956954,
+  "lat": 13.8216499,
+  "lon": 100.5765387,
+  "tags": {
+    "building": "yes",
+    "name": "โปรแกรมวิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7085956957,
+  "lat": 13.8204832,
+  "lon": 100.5759147,
+  "tags": {
+    "building": "yes",
+    "name": "คณะเกษตรและชีวภาพ มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7085956962,
+  "lat": 13.8212154,
+  "lon": 100.5776742,
+  "tags": {
+    "building": "yes",
+    "name": "อาคาร 4 คณะศิลปกรรม มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7085956963,
+  "lat": 13.8192342,
+  "lon": 100.5777119,
+  "tags": {
+    "building": "yes",
+    "name": "อาคาร 33 มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7085956964,
+  "lat": 13.8216477,
+  "lon": 100.5786332,
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "name": "ห้องประชุมหงส์พันธุ์ มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 7085956967,
+  "lat": 13.8191798,
+  "lon": 100.5763897,
+  "tags": {
+    "building": "yes",
+    "name": "ศูนย์วิทยาศาสตร์ มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7086006626,
+  "lat": 13.8205311,
+  "lon": 100.5766701,
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "name": "สํานักวิทยบริการและเทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "office": "government",
+    "website": "http://msci.chandra.ac.th"
+  }
+},
+{
+  "type": "node",
+  "id": 7086006629,
+  "lat": 13.8205160,
+  "lon": 100.5765161,
+  "tags": {
+    "amenity": "library",
+    "name": "ห้องสมุดมหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7086006639,
+  "lat": 13.8183583,
+  "lon": 100.5772161,
+  "tags": {
+    "building": "yes",
+    "name": "บ้านพักอาจารย์ มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7086006641,
+  "lat": 13.8204237,
+  "lon": 100.5789434,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "ข้าวขาหมู เจ้าเก่าหาดใหญ่ มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "node",
+  "id": 7086006642,
+  "lat": 13.8194887,
+  "lon": 100.5784633,
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "name": "สมาคมศิษย์เก่า มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 7260500221,
+  "lat": 13.8039166,
+  "lon": 100.5121669,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "วิทยาลัยเทคโนโลยีพระรามหก",
+    "name:en": "Phra Ram Hok Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีพระรามหก",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7278999186,
+  "lat": 13.7389544,
+  "lon": 100.5140640,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "โรงเรียนไตรมิตรวิทยาลัย",
+    "name:en": "Traimitwitthayalai School",
+    "name:th": "โรงเรียนไตรมิตรวิทยาลัย",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7284105028,
+  "lat": 13.7570903,
+  "lon": 100.6217539,
+  "tags": {
+    "level": "1",
+    "name": "University Food Court",
+    "payment:cash": "yes",
+    "shop": "kiosk",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7314493761,
+  "lat": 13.7385522,
+  "lon": 100.5297894,
+  "tags": {
+    "board_type": "notice",
+    "image": "https://images.mapillary.com/AI7H2H9Wgw8j-P9spWuHTw/thumb-2048.jpg",
+    "information": "board",
+    "mapillary": "501495421272869",
+    "name": "Chulalongkorn University",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 8624303286,
+  "lat": 13.7389229,
+  "lon": 100.5280233,
+  "tags": {
+    "name": "ต้นพระศรีมหาโพธิ์ จุฬาลงกรณ์มหาวิทยาลัย",
+    "natural": "tree"
+  }
+},
+{
+  "type": "node",
+  "id": 9453176962,
+  "lat": 13.7684699,
+  "lon": 100.5305820,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "วิทยาลัยพยาบาลกองทัพบก",
+    "name:en": "Thai Army Nursing Collage",
+    "name:th": "วิทยาลัยพยาบาลกองทัพบก",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9943102418,
+  "lat": 13.7457766,
+  "lon": 100.5634143,
+  "tags": {
+    "amenity": "ice_cream",
+    "name": "วัวล้วนๆ ไม่มีควายผสม สาขามหาวิทยาลัยศรีนครินทรวิโรฒ",
+    "name:th": "วัวล้วนๆ ไม่มีควายผสม"
+  }
+},
+{
+  "type": "node",
+  "id": 10763239114,
+  "lat": 13.7404224,
+  "lon": 100.5227588,
+  "tags": {
+    "air_conditioning": "no",
+    "amenity": "place_of_worship",
+    "name": "ศาลเจ้าแม่ทับทิม อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย (ศาลใหม่)",
+    "name:en": "Chao Mae Tubtim Shrine (New Shrine)",
+    "name:th": "ศาลเจ้าแม่ทับทิม อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย (ศาลใหม่)",
+    "religion": "chinese_folk"
+  }
+},
+{
+  "type": "node",
+  "id": 10998234677,
+  "lat": 13.7672746,
+  "lon": 100.4765228,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "วิทยาลัยเทคโนโลยีจรัลสนิทวงศ์",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11099052188,
+  "lat": 13.8430597,
+  "lon": 100.5705194,
+  "tags": {
+    "name": "ศูนย์หนังสือ มหาวิทยาลัยเกษตรศาสตร์ (หน้าร้านชั่วคราว)",
+    "name:en": "Kasetsart University Book Center (Temporary Storefront)",
+    "shop": "books",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11524342960,
+  "lat": 13.7587752,
+  "lon": 100.5321146,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "โรงเรียนสันติราษฎร์วิทยาลัย",
+    "name:en": "Santirat Wittayalai School",
+    "name:ja": "サンティラートウィタヤーライ校",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 12177261966,
+  "lat": 13.7112017,
+  "lon": 100.5830254,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "มหาวิทยาลัยกรุงเทพ (ประตู 2)",
+    "name:en": "Bangkok University (Gate 2)",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12177261967,
+  "lat": 13.7124705,
+  "lon": 100.5840691,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "ตรงข้ามมหาวิทยาลัยกรุงเทพ (ประตู 2)",
+    "name:en": "Opposite Bangkok University (Gate 2)",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12368051879,
+  "lat": 13.7426109,
+  "lon": 100.5260339,
+  "tags": {
+    "addr:housenumber": "254",
+    "addr:street": "ซอยจุฬาลงกรณ์ 9",
+    "name": "สำนักงานใหญ่ศูนย์หนังสือแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:th": "สำนักงานใหญ่ศูนย์หนังสือแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "office": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12492521506,
+  "lat": 13.7340061,
+  "lon": 100.5069323,
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยสารพัดช่างธนบุรี",
+    "name:en": "Thonburi Polytechnic College",
+    "name:th": "วิทยาลัยสารพัดช่างธนบุรี",
+    "website": "https://www.tpc.ac.th"
+  }
+},
+{
+  "type": "node",
+  "id": 12618308150,
+  "lat": 13.7394004,
+  "lon": 100.5293732,
+  "tags": {
+    "name": "สำนักงานจัดการทรัพย์สิน จุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Property Management of Chulalongkorn University",
+    "name:th": "สำนักงานจัดการทรัพย์สิน จุฬาลงกรณ์มหาวิทยาลัย",
+    "office": "government",
+    "wikidata": "Q104861900",
+    "wikipedia": "th:สำนักงานจัดการทรัพย์สิน จุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "node",
+  "id": 12618308151,
+  "lat": 13.7394483,
+  "lon": 100.5289431,
+  "tags": {
+    "name": "โรงพิมพ์แห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:th": "โรงพิมพ์แห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "office": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12885877969,
+  "lat": 13.8423258,
+  "lon": 100.5770870,
+  "tags": {
+    "name": "มหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University",
+    "name:ja": "カセサート大学駅",
+    "operator": "กรุงเทพธนาคม",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12885877970,
+  "lat": 13.8423024,
+  "lon": 100.5771229,
+  "tags": {
+    "name": "มหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University",
+    "name:ja": "カセサート大学駅",
+    "operator": "กรุงเทพธนาคม",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13015741571,
+  "lat": 13.7560534,
+  "lon": 100.4912137,
+  "tags": {
+    "amenity": "fast_food",
+    "fast_food": "cafeteria",
+    "name": "โรงอาหารวิทยาลัยสหวิทยาการ",
+    "name:en": "College of Interdisciplinary Studies Canteen",
+    "name:th": "โรงอาหารวิทยาลัยสหวิทยาการ"
+  }
+},
+{
+  "type": "node",
+  "id": 13015744432,
+  "lat": 13.7564357,
+  "lon": 100.4896101,
+  "tags": {
+    "name": "ศูนย์หนังสือมหาวิทยาลัยธรรมศาสตร์",
+    "name:en": "Thammasat University Bookstore",
+    "name:th": "ศูนย์หนังสือมหาวิทยาลัยธรรมศาสตร์",
+    "operator": "Thammasat University",
+    "shop": "books"
+  }
+},
+{
+  "type": "node",
+  "id": 13020178725,
+  "lat": 13.7446252,
+  "lon": 100.5635987,
+  "tags": {
+    "addr:district": "วัฒนา",
+    "addr:housenumber": "114",
+    "addr:place": "อาคารบริการ ศาสตราจารย์หม่อมหลวงปิ่น มาลากุล",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนอโศกมนตรี",
+    "addr:subdistrict": "คลองเตยเหนือ",
+    "air_conditioning": "yes",
+    "amenity": "conference_centre",
+    "contact:facebook": "https://www.facebook.com/swu.cas/",
+    "description": "CAS SWU Auditorium หอประชุมศูนย์บริการวิชาการ มหาวิทยาลัยศรีนครินทรวิโรฒ ชั้น 15 อาคารบริการ ศาสตราจารย์หม่อมหลวงปิ่น มาลากุล",
+    "email": "casswuac@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "หอประชุมศูนย์บริการวิชาการ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+    "name:en": "CAS SWU Auditorium",
+    "name:th": "หอประชุมศูนย์บริการวิชาการ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+    "operator": "ศูนย์บริการวิชาการ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+    "operator:type": "university",
+    "website": "https://cas.swu.ac.th/"
+  }
+},
+{
+  "type": "node",
+  "id": 13432107301,
+  "lat": 13.7226837,
+  "lon": 100.5345918,
+  "tags": {
+    "email": "bangkok-office@mfu.ac.th",
+    "name": "หน่วยประสานงานมหาวิทยาลัยแม่ฟ้าหลวง",
+    "name:en": "MFU Bangkok Coordinating Office",
+    "name:th": "หน่วยประสานงานมหาวิทยาลัยแม่ฟ้าหลวง",
+    "office": "university",
+    "phone": "+66 2-679-0038",
+    "website": "https://mfu.ac.th"
+  }
+},
+{
+  "type": "node",
+  "id": 13980371085,
+  "lat": 13.7590617,
+  "lon": 100.6179734,
+  "tags": {
+    "construction:railway": "station",
+    "name": "มหาวิทยาลัยรามคำแหง",
+    "name:en": "Ramkhamhaeng University",
+    "name:th": "มหาวิทยาลัยรามคำแหง",
+    "network": "Metropolitan Rapid Transit",
+    "network:short": "MRT",
+    "network:wikidata": "Q806485",
+    "note": "อย่าเพิ่มแท็ก railway=station และ/หรือ public_transport=station ก่อนที่จะเปิดให้บริการ | Do not add railway=station and/or public_transport=station tags before operational service",
+    "operator": "ทางด่วนและรถไฟฟ้ากรุงเทพ",
+    "public_transport": "station",
+    "ref": "OR17",
+    "station": "subway",
+    "status": "inactive",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13980371086,
+  "lat": 13.7589856,
+  "lon": 100.6179995,
+  "tags": {
+    "name": "มหาวิทยาลัยรามคำแหง",
+    "name:en": "Ramkhamhaeng University",
+    "name:th": "มหาวิทยาลัยรามคำแหง",
+    "network": "Metropolitan Rapid Transit",
+    "network:short": "MRT",
+    "network:wikidata": "Q806485",
+    "operator": "ทางด่วนและรถไฟฟ้ากรุงเทพ",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13980371087,
+  "lat": 13.7591461,
+  "lon": 100.6179418,
+  "tags": {
+    "name": "มหาวิทยาลัยรามคำแหง",
+    "name:en": "Ramkhamhaeng University",
+    "name:th": "มหาวิทยาลัยรามคำแหง",
+    "network": "Metropolitan Rapid Transit",
+    "network:short": "MRT",
+    "network:wikidata": "Q806485",
+    "operator": "ทางด่วนและรถไฟฟ้ากรุงเทพ",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 14286713968,
+  "lat": 13.8439132,
+  "lon": 100.5679271,
+  "tags": {
+    "name": "มหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University",
+    "name:th": "มหาวิทยาลัยเกษตรศาสตร์",
+    "network": "Metropolitan Rapid Transit",
+    "network:short": "MRT",
+    "network:wikidata": "Q806485",
+    "operator": "ทางด่วนและรถไฟฟ้ากรุงเทพ",
+    "proposed:monorail": "yes",
+    "proposed:public_transport": "station",
+    "proposed:railway": "station",
+    "proposed:station": "monorail",
+    "railway": "proposed",
+    "ref": "BR06"
+  }
+},
+{
+  "type": "node",
+  "id": 14286778471,
+  "lat": 13.7132285,
+  "lon": 100.5806022,
+  "tags": {
+    "name": "มหาวิทยาลัยกรุงเทพ",
+    "name:en": "Bangkok University",
+    "name:th": "มหาวิทยาลัยกรุงเทพ",
+    "network": "Metropolitan Rapid Transit",
+    "network:short": "MRT",
+    "network:wikidata": "Q806485",
+    "operator": "ทางด่วนและรถไฟฟ้ากรุงเทพ",
+    "proposed:monorail": "yes",
+    "proposed:public_transport": "station",
+    "proposed:railway": "station",
+    "proposed:station": "monorail",
+    "railway": "proposed",
+    "ref": "GY18"
+  }
+},
+{
+  "type": "node",
+  "id": 14286787511,
+  "lat": 13.7122225,
+  "lon": 100.5350930,
+  "tags": {
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+    "name:en": "Rajamangala University of Technology Krungthep",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+    "network": "Metropolitan Rapid Transit",
+    "network:short": "MRT",
+    "network:wikidata": "Q806485",
+    "operator": "ทางด่วนและรถไฟฟ้ากรุงเทพ",
+    "proposed:monorail": "yes",
+    "proposed:public_transport": "station",
+    "proposed:railway": "station",
+    "proposed:station": "monorail",
+    "railway": "proposed",
+    "ref": "GY27"
+  }
+},
+{
+  "type": "way",
+  "id": 25745849,
+  "center": {
+    "lat": 13.7373654,
+    "lon": 100.5257473
+  },
+  "tags": {
+    "alt_name": "สนามจุ๊บ",
+    "leisure": "stadium",
+    "name": "สนามกีฬาแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Chulalongkorn University Stadium",
+    "name:th": "สนามกีฬาแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "old_name": "สนามจารุเสถียร",
+    "wikidata": "Q840852",
+    "wikipedia": "th:สนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 30715477,
+  "center": {
+    "lat": 13.7135041,
+    "lon": 100.5376935
+  },
+  "tags": {
+    "alt_name": "UTK",
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+    "name:en": "Rajamangala University of Technology Krungthep",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+    "wikidata": "Q13018823",
+    "wikipedia": "th:มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ"
+  }
+},
+{
+  "type": "way",
+  "id": 31971450,
+  "center": {
+    "lat": 13.7401753,
+    "lon": 100.5341229
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนอังรีดูนังต์",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "school",
+    "name": "โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ ปทุมวัน",
+    "name:en": "Patumwan Demonstration School, Srinakharinwirot University",
+    "name:th": "โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ ปทุมวัน",
+    "operator": "มหาวิทยาลัยศรีนครินทรวิโรฒ",
+    "operator:type": "university",
+    "wikidata": "Q6673562",
+    "wikipedia": "th:โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ ปทุมวัน"
+  }
+},
+{
+  "type": "way",
+  "id": 31972720,
+  "center": {
+    "lat": 13.7418147,
+    "lon": 100.5311981
+  },
+  "tags": {
+    "addr:country": "ไทย",
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:province:en": "Bangkok",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคล วิทยาเขตอุเทนถวาย",
+    "name:en": "Rajamangala University of Technology Uthenthawai",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคล วิทยาเขตอุเทนถวาย"
+  }
+},
+{
+  "type": "way",
+  "id": 31973636,
+  "center": {
+    "lat": 13.7375383,
+    "lon": 100.5271306
+  },
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "name": "โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย ฝ่ายประถม",
+    "name:en": "Chulalongkorn University Demonstration School, primary section",
+    "name:th": "โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย ฝ่ายประถม"
+  }
+},
+{
+  "type": "way",
+  "id": 31973647,
+  "center": {
+    "lat": 13.7360441,
+    "lon": 100.5271831
+  },
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "name": "โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย ฝ่ายมัธยม",
+    "name:en": "Chulalongkorn University Demonstration School, secondary section",
+    "name:th": "โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย ฝ่ายมัธยม"
+  }
+},
+{
+  "type": "way",
+  "id": 38001215,
+  "center": {
+    "lat": 13.8479420,
+    "lon": 100.5693598
+  },
+  "tags": {
+    "addr:district": "จตุจักร",
+    "addr:district:en": "Chatuchak",
+    "addr:housenumber": "50",
+    "addr:postcode": "10900",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:province:en": "Bangkok",
+    "addr:street": "ถนนงามวงศ์วาน",
+    "addr:subdistrict": "ลาดยาว",
+    "addr:subdistrict:en": "Lat Yao",
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University",
+    "website": "https://www.ku.ac.th/",
+    "wikidata": "Q452406",
+    "wikipedia": "th:มหาวิทยาลัยเกษตรศาสตร์"
+  }
+},
+{
+  "type": "way",
+  "id": 38001585,
+  "center": {
+    "lat": 13.7428929,
+    "lon": 100.5430052
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "โรงเรียนมาแตร์เดอีวิทยาลัย",
+    "name:en": "Mater Dei School",
+    "name:th": "โรงเรียนมาแตร์เดอีวิทยาลัย",
+    "start_date": "1927-09-20",
+    "website": "http://www.materdei.ac.th",
+    "wikidata": "Q13027147",
+    "wikipedia": "th:โรงเรียนมาแตร์เดอีวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 39728050,
+  "center": {
+    "lat": 13.7171498,
+    "lon": 100.5222942
+  },
+  "tags": {
+    "addr:district": "สาทร",
+    "addr:housenumber": "19",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนสาทรใต้",
+    "addr:subdistrict": "ยานนาวา",
+    "amenity": "school",
+    "name": "วิทยาลัยเซนต์หลุยส์",
+    "name:en": "Saint Louis College",
+    "name:th": "วิทยาลัยเซนต์หลุยส์",
+    "old_name": "โรงเรียนเซนต์ไมเกิ้ล",
+    "website": "https://www.slc.ac.th/",
+    "wikidata": "Q25539496",
+    "wikipedia": "th:วิทยาลัยเซนต์หลุยส์"
+  }
+},
+{
+  "type": "way",
+  "id": 83608615,
+  "center": {
+    "lat": 13.7565868,
+    "lon": 100.4918979
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "building": "university",
+    "layer": "1",
+    "name": "หอประชุมมหาวิทยาลัยธรรมศาสตร์",
+    "name:en": "Thammasat University Auditorium",
+    "name:th": "หอประชุมมหาวิทยาลัยธรรมศาสตร์",
+    "operator": "มหาวิทยาลัยธรรมศาสตร์"
+  }
+},
+{
+  "type": "way",
+  "id": 123189922,
+  "center": {
+    "lat": 13.8455244,
+    "lon": 100.5765078
+  },
+  "tags": {
+    "building": "university",
+    "name": "Faculty of Veterinary Technology Kasetsart University"
+  }
+},
+{
+  "type": "way",
+  "id": 123190382,
+  "center": {
+    "lat": 13.8480682,
+    "lon": 100.5700214
+  },
+  "tags": {
+    "addr:postcode": "10900",
+    "building": "yes",
+    "building:levels": "8",
+    "name": "บัณฑิตวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 125738412,
+  "center": {
+    "lat": 13.7611706,
+    "lon": 100.5286624
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล",
+    "name:en": "Faculty of Pharmacy, Mahidol University",
+    "name:ja": "マヒドン大学 薬学部",
+    "name:th": "คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล"
+  }
+},
+{
+  "type": "way",
+  "id": 125738413,
+  "center": {
+    "lat": 13.7694695,
+    "lon": 100.5321342
+  },
+  "tags": {
+    "addr:district": "ราชเทวี",
+    "addr:housenumber": "2/1",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนราชวิถี",
+    "addr:subdistrict": "ทุ่งพญาไท",
+    "amenity": "college",
+    "education": "college",
+    "name": "วิทยาลัยพยาบาลบรมราชชนนี กรุงเทพ",
+    "name:en": "Boromarajonani College of Nursing, Bangkok",
+    "name:th": "วิทยาลัยพยาบาลบรมราชชนนี กรุงเทพ",
+    "wikidata": "Q118902477",
+    "wikipedia": "th:วิทยาลัยพยาบาลบรมราชชนนี กรุงเทพ"
+  }
+},
+{
+  "type": "way",
+  "id": 134106782,
+  "center": {
+    "lat": 13.7581215,
+    "lon": 100.4901670
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:housenumber": "2",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนพระจันทร์",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "building": "university",
+    "layer": "1",
+    "name": "สำนักหอสมุดมหาวิทยาลัยธรรมศาสตร์",
+    "name:en": "Thammasat University Library Office",
+    "name:th": "สำนักหอสมุดมหาวิทยาลัยธรรมศาสตร์",
+    "operator": "มหาวิทยาลัยธรรมศาสตร์",
+    "website": "https://library.tu.ac.th/"
+  }
+},
+{
+  "type": "way",
+  "id": 138949947,
+  "center": {
+    "lat": 13.7434337,
+    "lon": 100.4982680
+  },
+  "tags": {
+    "building": "school",
+    "name": "ตึก 123 ปี สวนกุหลาบวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 139354501,
+  "center": {
+    "lat": 13.7320154,
+    "lon": 100.4892830
+  },
+  "tags": {
+    "addr:housenumber": "1061",
+    "addr:postcode": "10600",
+    "addr:street": "อิสรภาพ 15",
+    "amenity": "university",
+    "name": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+    "name:en": "Bansomdejchaopraya Rajabhat University",
+    "name:th": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+    "website": "https://www.bsru.ac.th",
+    "wikidata": "Q16307033",
+    "wikipedia": "th:มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา"
+  }
+},
+{
+  "type": "way",
+  "id": 139359423,
+  "center": {
+    "lat": 13.7320163,
+    "lon": 100.4885739
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "โรงเรียนมัธยมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+    "name:en": "The Demonstration School of Bansomdejchaopraya Rajabhat University",
+    "name:th": "โรงเรียนมัธยมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+    "website": "https://satit.bsru.ac.th"
+  }
+},
+{
+  "type": "way",
+  "id": 139362149,
+  "center": {
+    "lat": 13.7314772,
+    "lon": 100.4872623
+  },
+  "tags": {
+    "amenity": "school",
+    "building": "yes",
+    "name": "โรงเรียนประถมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+    "name:th": "โรงเรียนประถมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา"
+  }
+},
+{
+  "type": "way",
+  "id": 149979928,
+  "center": {
+    "lat": 13.7341079,
+    "lon": 100.4916714
+  },
+  "tags": {
+    "addr:district": "ธนบุรี",
+    "addr:housenumber": "172",
+    "addr:postcode": "10600",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนอิสรภาพ",
+    "addr:subdistrict": "วัดกัลยาณ์",
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยราชภัฏธนบุรี",
+    "name:en": "Dhonburi Rajabhat University",
+    "name:th": "มหาวิทยาลัยราชภัฏธนบุรี",
+    "website": "https://dru1.dru.ac.th",
+    "wikidata": "Q13018775",
+    "wikimedia_commons": "Category:Dhonburi Rajabhat University",
+    "wikipedia": "th:มหาวิทยาลัยราชภัฏธนบุรี"
+  }
+},
+{
+  "type": "way",
+  "id": 156924966,
+  "center": {
+    "lat": 13.7641328,
+    "lon": 100.5332577
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยมหิดล",
+    "operator": "Mahidol University",
+    "short_name": "คณะทันตแพทยศาสตร์",
+    "short_name:en": "Fac. of Dentistry"
+  }
+},
+{
+  "type": "way",
+  "id": 156924992,
+  "center": {
+    "lat": 13.7647094,
+    "lon": 100.5254721
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "คณะวิทยาศาสตร์ มหาวิทยาลัยมหิดล",
+    "name:en": "Faculty of Science, Mahidol University",
+    "name:th": "คณะวิทยาศาสตร์ มหาวิทยาลัยมหิดล",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 157591132,
+  "center": {
+    "lat": 13.7382540,
+    "lon": 100.5326860
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "building": "university",
+    "building:colour": "#f0f0e4",
+    "building:levels": "2",
+    "name": "หอประชุมจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Chulalongkorn University Auditorium",
+    "name:th": "หอประชุมจุฬาลงกรณ์มหาวิทยาลัย",
+    "roof:colour": "#cc6333",
+    "roof:levels": "1",
+    "roof:shape": "hipped-and-gabled",
+    "wikidata": "Q20054411",
+    "wikipedia": "th:หอประชุมจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 158474985,
+  "center": {
+    "lat": 13.8190508,
+    "lon": 100.5138327
+  },
+  "tags": {
+    "building": "university",
+    "name": "บัณฑิตวิทยาลัยวิศวกรรมศาสตร์นานาชาติสิรินธรไทย-เยอรมัน",
+    "name:en": "The Sirindhorn International Thai-German Graduate School of Engineering",
+    "name:th": "บัณฑิตวิทยาลัยวิศวกรรมศาสตร์นานาชาติสิรินธรไทย-เยอรมัน",
+    "source": "aerial imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 164002724,
+  "center": {
+    "lat": 13.7592472,
+    "lon": 100.4905663
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "alt_name": "PBIC",
+    "building": "university",
+    "layer": "1",
+    "name": "วิทยาลัยนานาชาติปรีดี พนมยงค์",
+    "name:en": "Pridi Banomyong International College",
+    "name:th": "วิทยาลัยนานาชาติปรีดี พนมยงค์",
+    "operator": "มหาวิทยาลัยธรรมศาสตร์"
+  }
+},
+{
+  "type": "way",
+  "id": 164002729,
+  "center": {
+    "lat": 13.7568091,
+    "lon": 100.4908207
+  },
+  "tags": {
+    "access": "yes",
+    "leisure": "pitch",
+    "lit": "yes",
+    "name": "สนามฟุตบอลมหาวิทยาลัยธรรมศาสตร์",
+    "name:en": "Thammasat Football Pitch",
+    "name:th": "สนามฟุตบอลมหาวิทยาลัยธรรมศาสตร์",
+    "sport": "soccer",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 172948080,
+  "center": {
+    "lat": 13.7388144,
+    "lon": 100.5265258
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "ศูนย์กีฬาแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "CU Sports Complex",
+    "name:th": "ศูนย์กีฬาแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+    "official_name": "อาคารเฉลิมราชสุดากีฬาสถาน"
+  }
+},
+{
+  "type": "way",
+  "id": 176820827,
+  "center": {
+    "lat": 13.7619177,
+    "lon": 100.5136052
+  },
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร",
+    "name:en": "Rajamangala University of Technology Phra Nakhon",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร",
+    "wikidata": "Q13018812",
+    "wikipedia": "th:มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร"
+  }
+},
+{
+  "type": "way",
+  "id": 177938414,
+  "center": {
+    "lat": 13.7208335,
+    "lon": 100.4531953
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยสยาม",
+    "name:en": "Siam University",
+    "name:th": "มหาวิทยาลัยสยาม",
+    "wikidata": "Q4381437",
+    "wikipedia": "en:Siam University"
+  }
+},
+{
+  "type": "way",
+  "id": 178329974,
+  "center": {
+    "lat": 13.7530631,
+    "lon": 100.4903499
+  },
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยศิลปากร วังท่าพระ",
+    "name:cy": "Prifysgol Silpakorn",
+    "name:de": "Silpakorn-Universität",
+    "name:en": "Silpakorn University Tha Phra Palace",
+    "name:es": "Universidad de Silpakorn",
+    "name:fa": "دانشگاه سیلپاکورن",
+    "name:fr": "Université Silpakorn",
+    "name:ga": "Ollscoil Silpakorn",
+    "name:id": "Universitas Silpakorn",
+    "name:it": "Università Silpakorn",
+    "name:ja": "シルパコーン大学",
+    "name:ko": "신라빠꼰 대학교",
+    "name:lah": "سیلپاکورن یونیورسٹی",
+    "name:lo": "ມະຫາວິທະຍາໄລສິນລະປາກອນ",
+    "name:nl": "Silpakorn University",
+    "name:ru": "Университет Синлапакон",
+    "name:th": "มหาวิทยาลัยศิลปากร วังท่าพระ",
+    "name:ur": "سیلپاکورن یونیورسٹی",
+    "name:vi": "Đại học Silpakorn",
+    "name:zh": "泰國藝術大學",
+    "name:zh-Hans": "泰國藝術大學",
+    "wheelchair": "yes",
+    "wikidata": "Q1209824",
+    "wikipedia": "th:มหาวิทยาลัยศิลปากร"
+  }
+},
+{
+  "type": "way",
+  "id": 182520330,
+  "center": {
+    "lat": 13.7532314,
+    "lon": 100.6281450
+  },
+  "tags": {
+    "alt_name": "มหาลัยอัสสัมชัญ หัวหมาก",
+    "alt_name:en": "ABAC Huak Mhak",
+    "alt_name:th": "มหาลัยอัสสัมชัญ หัวหมาก",
+    "amenity": "university",
+    "check_date": "2024-03-13",
+    "name": "มหาวิทยาลัยอัสสัมชัญ",
+    "name:en": "Assumption University Hua Mak Campus",
+    "name:th": "มหาวิทยาลัยอัสสัมชัญ"
+  }
+},
+{
+  "type": "way",
+  "id": 195690619,
+  "center": {
+    "lat": 13.7391787,
+    "lon": 100.6277027
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเกษมบัณฑิต",
+    "name:en": "Kasem Bundit University",
+    "wikidata": "Q1734895",
+    "wikipedia": "en:Kasem Bundit University"
+  }
+},
+{
+  "type": "way",
+  "id": 200670984,
+  "center": {
+    "lat": 13.7395981,
+    "lon": 100.5323683
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "alt_name:en": "Exhibition Hall",
+    "building": "university",
+    "building:levels": "4",
+    "name": "พิพิธภัณฑ์มหาวิทยาลัย",
+    "name:en": "Chulalongkorn University Museum",
+    "name:th": "พิพิธภัณฑ์มหาวิทยาลัย",
+    "old_name": "ตึกเคมี 3",
+    "tourism": "museum",
+    "wikidata": "Q29343840"
+  }
+},
+{
+  "type": "way",
+  "id": 203906312,
+  "center": {
+    "lat": 13.7655325,
+    "lon": 100.5337771
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "คณะเวชศาสตร์เขตร้อน มหาวิทยาลัยมหิดล",
+    "name:en": "Faculty of Tropical Medicine, MU",
+    "operator": "Mahidol University",
+    "short_name": "คณะเวชศาสตร์เขตร้อน",
+    "short_name:en": "Fac. of Tropical Medicine"
+  }
+},
+{
+  "type": "way",
+  "id": 203906315,
+  "center": {
+    "lat": 13.7662768,
+    "lon": 100.5340769
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "คณะสาธารณสุขศาสตร์ มหาวิทยาลัยมหิดล",
+    "name:en": "Faculty of Public Health, MU",
+    "operator": "Mahidol University",
+    "short_name": "คณะสาธารณสุขศาสตร์",
+    "short_name:en": "Fac. of Public Health"
+  }
+},
+{
+  "type": "way",
+  "id": 203908554,
+  "center": {
+    "lat": 13.7625313,
+    "lon": 100.5362759
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยพยาบาลบรมราชชนนี",
+    "name:en": "Boromarajonani College of Nursing",
+    "short_name": "วิทยาลัยพยาบาลฯ",
+    "short_name:en": "Nursing College"
+  }
+},
+{
+  "type": "way",
+  "id": 232881801,
+  "center": {
+    "lat": 13.7426476,
+    "lon": 100.5267439
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "university",
+    "building:levels": "15",
+    "name": "อาคารวิจัยจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 232881803,
+  "center": {
+    "lat": 13.7429410,
+    "lon": 100.5267911
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "university",
+    "building:levels": "14",
+    "height": "57",
+    "name": "อาคารวิทยาลัยปิโตรเลียมและเคมี"
+  }
+},
+{
+  "type": "way",
+  "id": 236958957,
+  "center": {
+    "lat": 13.7615086,
+    "lon": 100.6059942
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยพาณิชการอินทราชัย"
+  }
+},
+{
+  "type": "way",
+  "id": 258879469,
+  "center": {
+    "lat": 13.8454633,
+    "lon": 100.5670375
+  },
+  "tags": {
+    "building": "yes",
+    "name": "ร้านสหกรณ์มหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University Co-operative Store",
+    "name:th": "ร้านสหกรณ์มหาวิทยาลัยเกษตรศาสตร์",
+    "shop": "supermarket",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 259853570,
+  "center": {
+    "lat": 13.8464451,
+    "lon": 100.5644128
+  },
+  "tags": {
+    "building": "yes",
+    "name": "สำนักงาน โครงการร่วมมือระหว่างมหาวิทยาลัยเกษตรศาสตร์ กับมหาวิทยาลัยเกษตรศาสตร์ โตเกียว",
+    "name:en": "KU TUA COOPERATIVE PROGRAM OFFICE",
+    "office": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 261079975,
+  "center": {
+    "lat": 13.7419828,
+    "lon": 100.5298745
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "สมาคมนิสิตเก่าจุฬาลงกรณ์มหาวิทยาลัย ในพระบรมราชูปถัมภ์",
+    "office": "association"
+  }
+},
+{
+  "type": "way",
+  "id": 296187657,
+  "center": {
+    "lat": 13.7427961,
+    "lon": 100.5359079
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "building": "college",
+    "name": "วิทยาลัยพยาบาลตำรวจ"
+  }
+},
+{
+  "type": "way",
+  "id": 299627964,
+  "center": {
+    "lat": 13.8034570,
+    "lon": 100.5127209
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยเทคโนโลยีพระรามหก",
+    "name:en": "Phra Ram Hok Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีพระรามหก",
+    "website": "https://www.ram6.ac.th/"
+  }
+},
+{
+  "type": "way",
+  "id": 300621950,
+  "center": {
+    "lat": 13.7845984,
+    "lon": 100.5334395
+  },
+  "tags": {
+    "amenity": "school",
+    "grades": "7-12",
+    "name": "โรงเรียนสามเสนวิทยาลัย",
+    "name:en": "Samsenwittayalai School",
+    "name:th": "โรงเรียนสามเสนวิทยาลัย",
+    "website": "https://www.samsenwit.ac.th/",
+    "wikidata": "Q13027285",
+    "wikipedia": "en:Samsenwittayalai School"
+  }
+},
+{
+  "type": "way",
+  "id": 301087418,
+  "center": {
+    "lat": 13.7560421,
+    "lon": 100.6180202
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยรามคำแหง (หัวหมาก)",
+    "name:en": "Ramkhamhaeng University (Hua Mak)",
+    "name:th": "มหาวิทยาลัยรามคำแหง (หัวหมาก)",
+    "wikidata": "Q1185548",
+    "wikipedia": "en:Ramkhamhaeng University"
+  }
+},
+{
+  "type": "way",
+  "id": 307255733,
+  "center": {
+    "lat": 13.7690757,
+    "lon": 100.4753416
+  },
+  "tags": {
+    "addr:city": "อรุณอมรินทร์",
+    "addr:housenumber": "18",
+    "addr:postcode": "10700",
+    "addr:street": "ซอย จรัญสนิทวงศ์ 41",
+    "amenity": "school",
+    "name": "วิทยาลัยเทคโนโลยีจรัลสนิทวงศ์"
+  }
+},
+{
+  "type": "way",
+  "id": 319130516,
+  "center": {
+    "lat": 13.7121639,
+    "lon": 100.5805267
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "ซอยมหาวิทยาลัยกรุงเทพ",
+    "name:en": "Soi Bangkok University",
+    "name:th": "ซอยมหาวิทยาลัยกรุงเทพ",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 329745926,
+  "center": {
+    "lat": 13.7448830,
+    "lon": 100.5649317
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยศรีนครินทรวิโรฒ ประสานมิตร",
+    "name:en": "Srinakharinwirot University Prasarnmit Campus",
+    "name:th": "มหาวิทยาลัยศรีนครินทรวิโรฒ ประสานมิตร",
+    "wikidata": "Q1047745",
+    "wikipedia": "th:มหาวิทยาลัยศรีนครินทรวิโรฒ"
+  }
+},
+{
+  "type": "way",
+  "id": 329745928,
+  "center": {
+    "lat": 13.7446700,
+    "lon": 100.5601422
+  },
+  "tags": {
+    "addr:district": "วัฒนา",
+    "addr:housenumber": "67",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยสุขุมวิท 19",
+    "addr:subdistrict": "คลองเตยเหนือ",
+    "amenity": "school",
+    "name": "โรงเรียนวัฒนาวิทยาลัย",
+    "name:en": "Wattana Wittaya Academy",
+    "name:th": "โรงเรียนวัฒนาวิทยาลัย",
+    "wikidata": "Q6673464",
+    "wikipedia": "th:โรงเรียนวัฒนาวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 347551556,
+  "center": {
+    "lat": 13.7707726,
+    "lon": 100.5038636
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์เทเวศร์",
+    "name:en": "Rajamangala University of Technology Phra Nakhon Thewet Campus",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์เทเวศร์"
+  }
+},
+{
+  "type": "way",
+  "id": 347571185,
+  "center": {
+    "lat": 13.7753986,
+    "lon": 100.5083453
+  },
+  "tags": {
+    "addr:district": "ดุสิต",
+    "addr:housenumber": "1",
+    "addr:postcode": "10300",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนอู่ทองนอก",
+    "addr:subdistrict": "ดุสิต",
+    "amenity": "university",
+    "fax": "+66 2 160 1010",
+    "name": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+    "name:en": "Suan Sunandha Rajabhat University",
+    "name:th": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+    "phone": "+66 2 160 1023",
+    "website": "https://ssru.ac.th/",
+    "wikidata": "Q13018783",
+    "wikipedia": "th:มหาวิทยาลัยราชภัฏสวนสุนันทา"
+  }
+},
+{
+  "type": "way",
+  "id": 348427336,
+  "center": {
+    "lat": 13.7810785,
+    "lon": 100.5080147
+  },
+  "tags": {
+    "addr:district": "ดุสิต",
+    "addr:housenumber": "681",
+    "addr:postcode": "10300",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนสามเสน",
+    "addr:subdistrict": "วชิรพยาบาล",
+    "amenity": "university",
+    "barrier": "fence",
+    "education": "university",
+    "name": "คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช",
+    "name:en": "Faculty of Medicine Vajira Hospital, Navamindradhiraj University",
+    "name:th": "คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช",
+    "website": "https://www.vajira.ac.th/",
+    "wikidata": "Q5429031"
+  }
+},
+{
+  "type": "way",
+  "id": 349647339,
+  "center": {
+    "lat": 13.7428666,
+    "lon": 100.4979770
+  },
+  "tags": {
+    "addr:city": "แขวงวังบูรพาภิรมย์",
+    "addr:housenumber": "88",
+    "addr:postcode": "10200",
+    "addr:street": "ถนนตรีเพชร",
+    "amenity": "school",
+    "education": "school",
+    "grades": "7-12",
+    "name": "โรงเรียนสวนกุหลาบวิทยาลัย",
+    "name:en": "Suankularb Wittayalai School",
+    "name:th": "โรงเรียนสวนกุหลาบวิทยาลัย",
+    "short_name:en": "Suankularb",
+    "short_name:th": "สวนกุหลาบ",
+    "website": "http://www.sk.ac.th/",
+    "wikidata": "Q203701",
+    "wikipedia": "th:โรงเรียนสวนกุหลาบวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 351091872,
+  "center": {
+    "lat": 13.7529197,
+    "lon": 100.4899673
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "building": "university",
+    "name": "หอศิลป์มหาวิทยาลัยศิลปากร",
+    "name:en": "Silpakorn University Art Gallery",
+    "name:th": "หอศิลป์มหาวิทยาลัยศิลปากร",
+    "tourism": "gallery",
+    "wikidata": "Q1792381",
+    "wikipedia": "th:หอศิลป์มหาวิทยาลัยศิลปากร"
+  }
+},
+{
+  "type": "way",
+  "id": 354927427,
+  "center": {
+    "lat": 13.7729618,
+    "lon": 100.5061770
+  },
+  "tags": {
+    "building": "yes",
+    "layer": "1",
+    "name": "สมาคมศิษย์เก่าสวนกุหลาบวิทยาลัย",
+    "name:en": "Suankularb Wittayalai Alumni Association",
+    "name:th": "สมาคมศิษย์เก่าสวนกุหลาบวิทยาลัย",
+    "office": "association"
+  }
+},
+{
+  "type": "way",
+  "id": 380866196,
+  "center": {
+    "lat": 13.7792730,
+    "lon": 100.6385491
+  },
+  "tags": {
+    "addr:district": "บางกะปิ",
+    "addr:housenumber": "305",
+    "addr:postcode": "10240",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยลาดพร้าว 107",
+    "addr:subdistrict": "คลองจั่น",
+    "amenity": "university",
+    "name": "มหาวิทยาลัยรัตนบัณฑิต",
+    "name:en": "Rattana Bundit University",
+    "name:th": "มหาวิทยาลัยรัตนบัณฑิต",
+    "website": "https://www.rbac.ac.th/",
+    "wikidata": "Q13018763",
+    "wikipedia": "th:มหาวิทยาลัยรัตนบัณฑิต"
+  }
+},
+{
+  "type": "way",
+  "id": 390019534,
+  "center": {
+    "lat": 13.8478464,
+    "lon": 100.5700567
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "วิทยาลัยบูรณาการศาสตร์",
+    "name:en": "School of Integrated Science (SIS)"
+  }
+},
+{
+  "type": "way",
+  "id": 393393437,
+  "center": {
+    "lat": 13.8365433,
+    "lon": 100.5585786
+  },
+  "tags": {
+    "building": "yes",
+    "name": "วิทยาลัยการตำรวจ",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 440081176,
+  "center": {
+    "lat": 13.7442742,
+    "lon": 100.5656201
+  },
+  "tags": {
+    "addr:district": "วัฒนา",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตยเหนือ",
+    "building": "university",
+    "building:levels": "2",
+    "height": "6",
+    "name": "หอประชุมใหญ่ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+    "name:en": "Main Auditorium Building",
+    "name:th": "หอประชุมใหญ่ มหาวิทยาลัยศรีนครินทรวิโรฒ"
+  }
+},
+{
+  "type": "way",
+  "id": 443471833,
+  "center": {
+    "lat": 13.7396260,
+    "lon": 100.5238071
+  },
+  "tags": {
+    "alt_name": "สวนจุฬาฯ ร้อยปี",
+    "alt_name:th": "สวนจุฬาฯ ร้อยปี",
+    "description": "ก่อสร้างเสร็จสิ้นและเปิดใช้เมื่อเดือน ส.ค. 2560",
+    "leisure": "park",
+    "name": "อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Chulalongkorn University Centennial Park",
+    "name:th": "อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย",
+    "short_name": "อุทยานจุฬาฯ 100 ปี",
+    "short_name:th": "อุทยานจุฬาฯ 100 ปี",
+    "wikidata": "Q61361132",
+    "wikipedia": "th:อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 533992744,
+  "center": {
+    "lat": 13.6965956,
+    "lon": 100.6061448
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "Bangkok College of Technology"
+  }
+},
+{
+  "type": "way",
+  "id": 536297287,
+  "center": {
+    "lat": 13.7730071,
+    "lon": 100.5062717
+  },
+  "tags": {
+    "landuse": "commercial",
+    "name": "สมาคมศิษย์เก่าสวนกุหลาบวิทยาลัย",
+    "name:th": "สมาคมศิษย์เก่าสวนกุหลาบวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 589746727,
+  "center": {
+    "lat": 13.8443479,
+    "lon": 100.5775222
+  },
+  "tags": {
+    "amenity": "veterinary",
+    "name": "โรงพยาบาลสัตว์ มหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University Veterinary Teaching Hospital",
+    "operator": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์"
+  }
+},
+{
+  "type": "way",
+  "id": 589767172,
+  "center": {
+    "lat": 13.8466719,
+    "lon": 100.5790083
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "สมาคมนิสิตเก่ามหาวิทยาลัยเกษตรศาสตร์ ในพระบรมราชูปถัมภ์"
+  }
+},
+{
+  "type": "way",
+  "id": 605773872,
+  "center": {
+    "lat": 13.7501405,
+    "lon": 100.5603491
+  },
+  "tags": {
+    "addr:city": "ราชเทวี",
+    "addr:housenumber": "1643/3",
+    "addr:postcode": "10400",
+    "addr:street": "ถนนเพชรบุรี",
+    "amenity": "school",
+    "name": "วิทยาลัยเทคโนโลยีดอนบอสโก",
+    "name:en": "Don Bosco Technological College",
+    "religion": "christian",
+    "smoking": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 616310543,
+  "center": {
+    "lat": 13.7443717,
+    "lon": 100.4987086
+  },
+  "tags": {
+    "addr:housenumber": "86",
+    "addr:street": "ถนนตรีเพชร",
+    "amenity": "college",
+    "barrier": "fence",
+    "education": "college",
+    "name": "วิทยาลัยเพาะช่าง มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์",
+    "name:en": "Poh-Chang Academy of Arts, Rajamangala University of Technology Rattanakosin",
+    "name:th": "วิทยาลัยเพาะช่าง มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์",
+    "old_name:th": "โรงเรียนเพาะช่าง",
+    "short_name": "วิทยาลัยเพาะช่าง",
+    "short_name:en": "Poh-Chang Academy of Arts",
+    "start_date": "1913-01-07",
+    "website": "http://www.pohchang.rmutr.ac.th/",
+    "wikidata": "Q16306516",
+    "wikipedia": "th:วิทยาลัยเพาะช่าง มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์"
+  }
+},
+{
+  "type": "way",
+  "id": 623495702,
+  "center": {
+    "lat": 13.7613101,
+    "lon": 100.5001175
+  },
+  "tags": {
+    "addr:housenumber": "241",
+    "alt_name:th": "มูลนิธิมหามกุฏราชวิทยาลัยในพระบรมราชูปถัมภ์",
+    "barrier": "wall",
+    "name": "มูลนิธิมหามกุฏราชวิทยาลัย",
+    "name:en": "Mahamakuta Rajavidyalaya Foundation",
+    "name:th": "มูลนิธิมหามกุฏราชวิทยาลัย",
+    "office": "foundation",
+    "official_name:en": "Mahamakuta Rajavidyalaya Foundation Under Royal Patronage",
+    "official_name:th": "มูลนิธิมหามกุฏราชวิทยาลัย ในพระบรมราชูปถัมภ์",
+    "phone": "+66 2 629 1417",
+    "start_date": "1893",
+    "website": "https://www.mahamakut.com/",
+    "wikidata": "Q16138816",
+    "wikipedia": "th:มูลนิธิมหามกุฏราชวิทยาลัย ในพระบรมราชูปถัมภ์"
+  }
+},
+{
+  "type": "way",
+  "id": 658344792,
+  "center": {
+    "lat": 13.8218672,
+    "lon": 100.4582905
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยราชพฤกษ์",
+    "name:en": "Rajapruk University",
+    "name:th": "มหาวิทยาลัยราชพฤกษ์",
+    "wikidata": "Q16306429",
+    "wikipedia": "th:มหาวิทยาลัยราชพฤกษ์"
+  }
+},
+{
+  "type": "way",
+  "id": 660415745,
+  "center": {
+    "lat": 13.8361382,
+    "lon": 100.4982067
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "วิทยาลัยเทคโนโลยีพงษ์สวัสดิ์",
+    "name:en": "Pongsawadi Technological College",
+    "website": "https://pongsawadi.ac.th/"
+  }
+},
+{
+  "type": "way",
+  "id": 665899009,
+  "center": {
+    "lat": 13.7373537,
+    "lon": 100.5257696
+  },
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "name": "ทางเดินรอบสนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:etymology:wikidata": "Q840852",
+    "name:th": "ทางเดินรอบสนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 676058129,
+  "center": {
+    "lat": 13.7688562,
+    "lon": 100.5498421
+  },
+  "tags": {
+    "addr:district": "พญาไท",
+    "addr:housenumber": "69",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนวิภาวดีรังสิต",
+    "addr:subdistrict": "สามเสนใน",
+    "amenity": "university",
+    "internet_access": "yes",
+    "name": "วิทยาลัยการจัดการ มหาวิทยาลัยมหิดล",
+    "name:en": "College of Management, Mahidol University",
+    "name:th": "วิทยาลัยการจัดการ มหาวิทยาลัยมหิดล",
+    "operator": "มหาวิทยาลัยมหิดล",
+    "website": "http://www.cmmu.mahidol.ac.th/cmmu/",
+    "wikidata": "Q5146755",
+    "wikipedia": "th:วิทยาลัยการจัดการ มหาวิทยาลัยมหิดล"
+  }
+},
+{
+  "type": "way",
+  "id": 704530596,
+  "center": {
+    "lat": 13.7330776,
+    "lon": 100.5129249
+  },
+  "tags": {
+    "addr:housenumber": "1130",
+    "addr:street": "ซอยวาณิช 2",
+    "alt_name:en": "Si Phraya Polytechnic College",
+    "alt_name:th": "วิทยาลัยสารพัดช่าง;สี่พระยา",
+    "amenity": "college",
+    "barrier": "wall",
+    "branch": "เอี่ยมละออ",
+    "colour": "orange",
+    "landuse": "institutional",
+    "name": "วิทยาลัยสารพัดช่างสี่พระยา",
+    "name:en": "Siphraya Polytechnic College",
+    "name:th": "วิทยาลัยสารพัดช่างสี่พระยา",
+    "note": "The specified color is the fence color.",
+    "phone": "+66 2 266 5449",
+    "website": "http://www.spy.ac.th/"
+  }
+},
+{
+  "type": "way",
+  "id": 765351118,
+  "center": {
+    "lat": 13.7141641,
+    "lon": 100.5365215
+  },
+  "tags": {
+    "highway": "service",
+    "name": "Rajamangala University of Technology Krungthep Rd"
+  }
+},
+{
+  "type": "way",
+  "id": 765351120,
+  "center": {
+    "lat": 13.7132942,
+    "lon": 100.5385727
+  },
+  "tags": {
+    "access": "private",
+    "highway": "service",
+    "name": "Rajamangala University of Technology Krungthep Rd",
+    "service": "driveway"
+  }
+},
+{
+  "type": "way",
+  "id": 803406584,
+  "center": {
+    "lat": 13.6973089,
+    "lon": 100.6487494
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยดุสิตธานี กรุงเทพ",
+    "name:en": "Dusit Thani College Bangkok",
+    "wikidata": "Q1267633",
+    "wikipedia": "en:Dusit Thani College"
+  }
+},
+{
+  "type": "way",
+  "id": 863188688,
+  "center": {
+    "lat": 13.7580267,
+    "lon": 100.5325207
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "โรงเรียนสันติราษฎร์วิทยาลัย",
+    "name:en": "Santiratwitthayalai School",
+    "name:ja": "サンティラートウィタヤーライ校"
+  }
+},
+{
+  "type": "way",
+  "id": 870421058,
+  "center": {
+    "lat": 13.8215600,
+    "lon": 100.5140832
+  },
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "name:en": "King Mongkut's University of Technology North Bangkok",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+    "name:ur": "شاہ مونگکوت یونیورسٹی آف ٹیکنالوجی شمالی بینکاک",
+    "name:zh": "北曼谷蒙固国王科技大学",
+    "name:zh-Hans": "北曼谷蒙固国王科技大学",
+    "name:zh-Hant": "北曼谷夢固國王科技大學",
+    "wikidata": "Q1742058",
+    "wikipedia": "th:มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ"
+  }
+},
+{
+  "type": "way",
+  "id": 885010238,
+  "center": {
+    "lat": 13.7551568,
+    "lon": 100.6329786
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "วิทยาลัยเทคโนโลยีช่างอุตสาหกรรมกรุงเทพ",
+    "name:en": "Bangkok College of Industrial Technology",
+    "name:th": "วิทยาลัยเทคโนโลยีช่างอุตสาหกรรมกรุงเทพ"
+  }
+},
+{
+  "type": "way",
+  "id": 892134480,
+  "center": {
+    "lat": 13.7451651,
+    "lon": 100.4595190
+  },
+  "tags": {
+    "access": "private",
+    "highway": "service",
+    "name": "ซอยอุบลรัตนราชกัญญาราชวิทยาลัย",
+    "name:etymology:wikidata": "Q1315769",
+    "name:th": "ซอยอุบลรัตนราชกัญญาราชวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 933744998,
+  "center": {
+    "lat": 13.8176013,
+    "lon": 100.5121398
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์พระนครเหนือ",
+    "name:en": "Rajamangala University of Technology Phra Nakhon, North Bangkok Campus",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์พระนครเหนือ"
+  }
+},
+{
+  "type": "way",
+  "id": 986219907,
+  "center": {
+    "lat": 13.8205654,
+    "lon": 100.5162380
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยเทคโนโลยีอุตสาหกรรม",
+    "name:en": "College of Industrial Technology",
+    "name:th": "วิทยาลัยเทคโนโลยีอุตสาหกรรม"
+  }
+},
+{
+  "type": "way",
+  "id": 986219918,
+  "center": {
+    "lat": 13.8227847,
+    "lon": 100.5127356
+  },
+  "tags": {
+    "building": "university",
+    "name": "วิทยาลัยนานาชาติ",
+    "name:en": "International College",
+    "name:th": "วิทยาลัยนานาชาติ"
+  }
+},
+{
+  "type": "way",
+  "id": 1193823644,
+  "center": {
+    "lat": 13.7183749,
+    "lon": 100.5253254
+  },
+  "tags": {
+    "addr:district": "สาทร",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ยานนาวา",
+    "building": "college",
+    "name": "อาคารราขัยวิถี วิทยาลัยเซนต์หลุยส์"
+  }
+},
+{
+  "type": "way",
+  "id": 1204961952,
+  "center": {
+    "lat": 13.6995725,
+    "lon": 100.5326969
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยเทคโนโลยีบริหารธุรกิจยานนาวา",
+    "name:en": "Yannawa Business Administration Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีบริหารธุรกิจยานนาวา"
+  }
+},
+{
+  "type": "way",
+  "id": 1211300776,
+  "center": {
+    "lat": 13.7174586,
+    "lon": 100.5405583
+  },
+  "tags": {
+    "addr:city": "แขวงทุ่งมหาเมฆ",
+    "addr:housenumber": "507/2",
+    "addr:postcode": "10120",
+    "addr:street": "ถนนสวนพลู",
+    "amenity": "college",
+    "email": "eamlaor_2012@hotmail.com",
+    "fax": "+662-2869713",
+    "name": "วิทยาลัยอาชีวศึกษาเอี่ยมละออ",
+    "name:en": "Eamla-or Vocational College",
+    "name:th": "วิทยาลัยอาชีวศึกษาเอี่ยมละออ",
+    "phone": "+662-2869712",
+    "start_date": "1939-09-25",
+    "website": "https://www.eovc.ac.th"
+  }
+},
+{
+  "type": "way",
+  "id": 1217275406,
+  "center": {
+    "lat": 13.7169842,
+    "lon": 100.5372646
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ เขตพื้นที่บพิตรพิมุข มหาเมฆ",
+    "name:en": "Rajamangala University of Technology Krungthep Borpitpimuk Mayamek Campus",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ เขตพื้นที่บพิตรพิมุข มหาเมฆ"
+  }
+},
+{
+  "type": "way",
+  "id": 1223168935,
+  "center": {
+    "lat": 13.7437580,
+    "lon": 100.5639781
+  },
+  "tags": {
+    "addr:district": "วัฒนา",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตยเหนือ",
+    "building": "university",
+    "building:levels": "5",
+    "height": "15",
+    "name": "บัณฑิตวิทยาลัย",
+    "name:en": "Graduate School",
+    "name:th": "บัณฑิตวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 1225042046,
+  "center": {
+    "lat": 13.7470497,
+    "lon": 100.5653474
+  },
+  "tags": {
+    "addr:district": "วัฒนา",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตยเหนือ",
+    "building": "university",
+    "building:levels": "1",
+    "height": "3",
+    "name": "อาคารวิทยาลัยนวัตกรรมสื่อสารสังคม",
+    "name:en": "College of Social Communication Innovation Building",
+    "name:th": "อาคารวิทยาลัยนวัตกรรมสื่อสารสังคม"
+  }
+},
+{
+  "type": "way",
+  "id": 1225042063,
+  "center": {
+    "lat": 13.7448653,
+    "lon": 100.5663718
+  },
+  "tags": {
+    "addr:district": "วัฒนา",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตยเหนือ",
+    "building": "university",
+    "building:levels": "2",
+    "height": "6",
+    "name": "อาคารวิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน",
+    "name:en": "International College for Sustainability Studies Building",
+    "name:th": "อาคารวิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน"
+  }
+},
+{
+  "type": "way",
+  "id": 1229757067,
+  "center": {
+    "lat": 13.7155821,
+    "lon": 100.5146821
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ พื้นที่พระนครใต้",
+    "name:en": "Rajamangala University of Technology Krungthep Phra Nakhon Tai ​Campus",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ พื้นที่พระนครใต้"
+  }
+},
+{
+  "type": "way",
+  "id": 1236622449,
+  "center": {
+    "lat": 13.7092433,
+    "lon": 100.5273180
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยเทคโนโลยีกิตติบริหารธุรกิจ",
+    "name:en": "Kitti Business College",
+    "name:th": "วิทยาลัยเทคโนโลยีกิตติบริหารธุรกิจ"
+  }
+},
+{
+  "type": "way",
+  "id": 1270933366,
+  "center": {
+    "lat": 13.7376081,
+    "lon": 100.4594396
+  },
+  "tags": {
+    "addr:district": "เขตภาษีเจริญ",
+    "addr:housenumber": "20",
+    "addr:postcode": "10160",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอย บางแวก 3",
+    "addr:subdistrict": "แขวงคูหาสวรรค์",
+    "amenity": "college",
+    "name": "วิทยาลัยพาณิชยการธนบุรี",
+    "name:en": "Thonburi Commercial College",
+    "name:th": "วิทยาลัยพาณิชยการธนบุรี",
+    "short_name": "พ.ธ.",
+    "short_name:en": "TCC",
+    "short_name:th": "พ.ธ.",
+    "website": "https://www.panitthon.ac.th",
+    "wikidata": "Q31352105",
+    "wikimedia_commons": "Category:Thonburi Commercial College",
+    "wikipedia": "th:วิทยาลัยพณิชยการธนบุรี สถาบันการอาชีวศึกษากรุงเทพมหานคร"
+  }
+},
+{
+  "type": "way",
+  "id": 1311534226,
+  "center": {
+    "lat": 13.7810271,
+    "lon": 100.5051751
+  },
+  "tags": {
+    "addr:district": "ดุสิต",
+    "addr:housenumber": "3",
+    "addr:postcode": "10300",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนขาว",
+    "addr:subdistrict": "วชิรพยาบาล",
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยนวมินทราธิราช",
+    "name:en": "Navamindradhiraj University",
+    "name:th": "มหาวิทยาลัยนวมินทราธิราช",
+    "website": "https://www.nmu.ac.th",
+    "wikidata": "Q3808815",
+    "wikipedia": "th:มหาวิทยาลัยนวมินทราธิราช"
+  }
+},
+{
+  "type": "way",
+  "id": 1323498560,
+  "center": {
+    "lat": 13.8204476,
+    "lon": 100.5780638
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre;pitch",
+    "name": "สนามกีฬาในร่ม มหาวิทยาลัยราชภัฏจันทรเกษม;สนามฟุตซอล มหาวิทยาลัยราชภัฏจันทรเกษม;สนามบาสเกตบอล มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "sport": "soccer;basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1323498561,
+  "center": {
+    "lat": 13.8200211,
+    "lon": 100.5775219
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "name": "สนามฟุตบอล มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "sport": "soccer",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 1326279304,
+  "center": {
+    "lat": 13.7643676,
+    "lon": 100.5583055
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยอาชีวศึกษาเทคนิควิทยา",
+    "name:th": "วิทยาลัยอาชีวศึกษาเทคนิควิทยา"
+  }
+},
+{
+  "type": "way",
+  "id": 1326465821,
+  "center": {
+    "lat": 13.7691378,
+    "lon": 100.5607482
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยอาชีวศึกษาพณิชยการจำนงค์",
+    "name:en": "Chamnong Commercial Voational College",
+    "name:th": "วิทยาลัยอาชีวศึกษาพณิชยการจำนงค์"
+  }
+},
+{
+  "type": "way",
+  "id": 1350722612,
+  "center": {
+    "lat": 13.8201014,
+    "lon": 100.5774864
+  },
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "amenity": "university",
+    "name": "มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "name:en": "Chandrakasem Rajabhat University",
+    "name:th": "มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "name:vi": "Đại học Chandrakasem Rajabhat",
+    "wikidata": "Q1132505",
+    "wikipedia": "th:มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "way",
+  "id": 1352544940,
+  "center": {
+    "lat": 13.6755858,
+    "lon": 100.5459190
+  },
+  "tags": {
+    "addr:district": "ยานนาวา",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนพระรามที่ 3",
+    "addr:subdistrict": "บางโพงพาง",
+    "amenity": "college",
+    "email": "center@tiftec.ac.th",
+    "fax": "+66 2-6682-8845",
+    "name": "วิทยาลัยเทคโนโลยีธุรกิจการอาหารไทยและนานาชาติ",
+    "name:en": "Thai & International Food Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีธุรกิจการอาหารไทยและนานาชาติ",
+    "phone": "+66 2-682-7644-6",
+    "short_name": "TIFTEC",
+    "website": "https://www.tiftec.ac.th/"
+  }
+},
+{
+  "type": "way",
+  "id": 1357909666,
+  "center": {
+    "lat": 13.7035432,
+    "lon": 100.5971626
+  },
+  "tags": {
+    "addr:district": "พระขโนง",
+    "addr:housenumber": "No.215",
+    "addr:place": "Westminster College Bangkok",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยแสงอุทัย, ถนนสุขุมวิท 50",
+    "addr:subdistrict": "คลองเตย",
+    "building": "college",
+    "building:levels": "6",
+    "name": "Westminster College Bangkok"
+  }
+},
+{
+  "type": "way",
+  "id": 1362542945,
+  "center": {
+    "lat": 13.7780567,
+    "lon": 100.5568015
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก เขตพื้นที่จักรพงษภูวนารถ",
+    "name:en": "Rajamangala University of Technology Tawan-ok Chakrabongse Bhuwanat",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก เขตพื้นที่จักรพงษภูวนารถ",
+    "short_name:en": "RMUTTO",
+    "wikidata": "Q13018814",
+    "wikipedia": "th:มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก วิทยาเขตจักรพงษภูวนารถ"
+  }
+},
+{
+  "type": "way",
+  "id": 1364010376,
+  "center": {
+    "lat": 13.7790305,
+    "lon": 100.5581923
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยป้องกันราชอาณาจักร",
+    "name:en": "National Defence College",
+    "name:th": "วิทยาลัยป้องกันราชอาณาจักร",
+    "website": "https://www.thaindc.org",
+    "wikidata": "Q844585",
+    "wikipedia": "th:วิทยาลัยป้องกันราชอาณาจักร"
+  }
+},
+{
+  "type": "way",
+  "id": 1364058023,
+  "center": {
+    "lat": 13.7649405,
+    "lon": 100.5507964
+  },
+  "tags": {
+    "addr:district": "ดินแดง",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ดินแดง",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "วิทยาลัยการแรงงาน",
+    "name:th": "วิทยาลัยการแรงงาน",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 1365347011,
+  "center": {
+    "lat": 13.7387255,
+    "lon": 100.5139626
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "โรงเรียนไตรมิตรวิทยาลัย",
+    "name:en": "Traimitwitthayalai School",
+    "name:th": "โรงเรียนไตรมิตรวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 1383252071,
+  "center": {
+    "lat": 13.7854225,
+    "lon": 100.5293650
+  },
+  "tags": {
+    "amenity": "college",
+    "landuse": "military",
+    "name": "วิทยาลัยการทัพบก",
+    "name:th": "วิทยาลัยการทัพบก"
+  }
+},
+{
+  "type": "way",
+  "id": 1383261475,
+  "center": {
+    "lat": 13.7853620,
+    "lon": 100.5109982
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยเทคโนโลยีวิมล ศรีย่าน",
+    "name:th": "วิทยาลัยเทคโนโลยีวิมล ศรีย่าน"
+  }
+},
+{
+  "type": "way",
+  "id": 1385059036,
+  "center": {
+    "lat": 13.7421741,
+    "lon": 100.5021924
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์ พื้นที่บพิตรพิมุข จักรวรรดิ",
+    "name:en": "Rajamangala University of Technology Rattanakosin Bophit Phimuk Chakkrawat Campus",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์ พื้นที่บพิตรพิมุข จักรวรรดิ",
+    "operator": "มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์",
+    "operator:type": "university",
+    "website": "https://www.rmutr.ac.th/bpc/"
+  }
+},
+{
+  "type": "way",
+  "id": 1387939732,
+  "center": {
+    "lat": 13.6761059,
+    "lon": 100.6162284
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยพณิชยการบางนา",
+    "name:en": "Bangna Commercial College",
+    "name:th": "วิทยาลัยพณิชยการบางนา"
+  }
+},
+{
+  "type": "way",
+  "id": 1391609051,
+  "center": {
+    "lat": 13.7927773,
+    "lon": 100.6264909
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยศิลปหัตถกรรมกรุงเทพ",
+    "name:en": "Bangkok Arts & Crafts College",
+    "name:th": "วิทยาลัยศิลปหัตถกรรมกรุงเทพ",
+    "website": "https://www.artsbkk.ac.th"
+  }
+},
+{
+  "type": "way",
+  "id": 1410382650,
+  "center": {
+    "lat": 13.7871765,
+    "lon": 100.5298421
+  },
+  "tags": {
+    "amenity": "college",
+    "name": "วิทยาลัยทันตแพทยศาสตร์นานาชาติ มหาวิทยาลัยวลัยลักษณ์",
+    "name:en": "International College of Dentistry Walailak University",
+    "name:th": "วิทยาลัยทันตแพทยศาสตร์นานาชาติ มหาวิทยาลัยวลัยลักษณ์",
+    "operator": "มหาวิทยาลัยวลัยลักษณ์"
+  }
+},
+{
+  "type": "way",
+  "id": 1414099233,
+  "center": {
+    "lat": 13.7763148,
+    "lon": 100.5101700
+  },
+  "tags": {
+    "building": "university",
+    "name": "อาคารสำนักงานมหาวิทยาลัยสวนดุสิต",
+    "name:th": "อาคารสำนักงานมหาวิทยาลัยสวนดุสิต"
+  }
+},
+{
+  "type": "way",
+  "id": 1414104713,
+  "center": {
+    "lat": 13.7734277,
+    "lon": 100.5074925
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "โรงเรียนสาธิตมหาวิทยาลัยราชภัฏสวนสุนันทา",
+    "name:th": "โรงเรียนสาธิตมหาวิทยาลัยราชภัฏสวนสุนันทา"
+  }
+},
+{
+  "type": "way",
+  "id": 1421092393,
+  "center": {
+    "lat": 13.8428887,
+    "lon": 100.5457172
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "วิทยาลัยเทคโนโลยีวราธิปบริหารธุรกิจ"
+  }
+},
+{
+  "type": "way",
+  "id": 1422844699,
+  "center": {
+    "lat": 13.8102897,
+    "lon": 100.5610362
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยเซนต์จอห์น"
+  }
+},
+{
+  "type": "way",
+  "id": 1429445412,
+  "center": {
+    "lat": 13.7132574,
+    "lon": 100.5805774
+  },
+  "tags": {
+    "area": "yes",
+    "junction": "yes",
+    "name": "แยกมหาวิทยาลัยกรุงเทพ",
+    "name:en": "Bangkok University Intersection",
+    "name:th": "แยกมหาวิทยาลัยกรุงเทพ"
+  }
+},
+{
+  "type": "way",
+  "id": 1430541779,
+  "center": {
+    "lat": 13.7607368,
+    "lon": 100.6062262
+  },
+  "tags": {
+    "name": "ลำรางหลังวิทยาลัยอินทราชัย",
+    "waterway": "canal"
+  }
+},
+{
+  "type": "way",
+  "id": 1436531273,
+  "center": {
+    "lat": 13.8215136,
+    "lon": 100.5775468
+  },
+  "tags": {
+    "addr:housenumber": "39/1",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "building": "university",
+    "name": "หอประชุมใหญ่มหาวิทยาลัยราชภัฏจันทรเกษม",
+    "name:th": "หอประชุมใหญ่มหาวิทยาลัยราชภัฏจันทรเกษม"
+  }
+},
+{
+  "type": "way",
+  "id": 1459510096,
+  "center": {
+    "lat": 13.8498388,
+    "lon": 100.5208170
+  },
+  "tags": {
+    "amenity": "college",
+    "education": "college",
+    "name": "วิทยาลัยพยาบาลบรมราชชนนี",
+    "name:th": "วิทยาลัยพยาบาลบรมราชชนนี"
+  }
+},
+{
+  "type": "way",
+  "id": 1472931637,
+  "center": {
+    "lat": 13.7349703,
+    "lon": 100.5368372
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:housenumber": "1873",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนพระรามที่ 4",
+    "addr:subdistrict": "ปทุมวัน",
+    "landuse": "residential",
+    "name": "หอพักนิสิตแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+    "residential": "dormitory"
+  }
+},
+{
+  "type": "way",
+  "id": 1483906696,
+  "center": {
+    "lat": 13.8369756,
+    "lon": 100.6469023
+  },
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "name": "วิทยาลัยการอาชีพนวมินทราชูทิศ",
+    "name:en": "Nawamintrachutit Industrial and Community College",
+    "name:th": "วิทยาลัยการอาชีพนวมินทราชูทิศ",
+    "website": "https://kme.nwm.ac.th"
+  }
+},
+{
+  "type": "way",
+  "id": 1484502195,
+  "center": {
+    "lat": 13.7895873,
+    "lon": 100.4087802
+  },
+  "tags": {
+    "amenity": "college",
+    "education": "college",
+    "name": "วิทยาลัยเทคโนโลยีโพลีกรุงเทพ",
+    "name:th": "วิทยาลัยเทคโนโลยีโพลีกรุงเทพ"
+  }
+},
+{
+  "type": "way",
+  "id": 1486142741,
+  "center": {
+    "lat": 13.7857883,
+    "lon": 100.4995713
+  },
+  "tags": {
+    "addr:district": "บางพลัด",
+    "addr:housenumber": "332",
+    "addr:postcode": "10700",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยจรัญสนิทวงศ์ 68 แยก 4-1",
+    "addr:subdistrict": "บางพลัด",
+    "amenity": "college",
+    "education": "college",
+    "name": "วิทยาลัยสารพัดช่างนครหลวง",
+    "name:th": "วิทยาลัยสารพัดช่างนครหลวง"
+  }
+},
+{
+  "type": "way",
+  "id": 1498976984,
+  "center": {
+    "lat": 13.7480294,
+    "lon": 100.4787821
+  },
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "name": "โรงเรียนชิโนรสวิทยาลัย",
+    "name:en": "Chinorotwittayalai School",
+    "name:th": "โรงเรียนชิโนรสวิทยาลัย",
+    "wikidata": "Q27963385",
+    "wikipedia": "th:โรงเรียนชิโนรสวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 1499360630,
+  "center": {
+    "lat": 13.7385264,
+    "lon": 100.4718778
+  },
+  "tags": {
+    "alt_name": "สยามเทค",
+    "alt_name:th": "สยามเทค",
+    "amenity": "college",
+    "education": "college",
+    "name": "วิทยาลัยเทคโนโลยีสยาม",
+    "name:en": "Siam Technology College",
+    "name:th": "วิทยาลัยเทคโนโลยีสยาม",
+    "short_name": "วทส.",
+    "short_name:en": "STC",
+    "short_name:th": "วทส.",
+    "website": "https://siamtechno.ac.th",
+    "wikidata": "Q16433849",
+    "wikipedia": "th:วิทยาลัยเทคโนโลยีสยาม (สยามเทค)"
+  }
+},
+{
+  "type": "way",
+  "id": 1501742286,
+  "center": {
+    "lat": 13.7641498,
+    "lon": 100.4904527
+  },
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยมหิดล (เชิงสะพานสมเด็จพระปิ่นเกล้า)",
+    "name:th": "มหาวิทยาลัยมหิดล (เชิงสะพานสมเด็จพระปิ่นเกล้า)"
+  }
+},
+{
+  "type": "way",
+  "id": 1552957085,
+  "center": {
+    "lat": 13.7445369,
+    "lon": 100.4935474
+  },
+  "tags": {
+    "amenity": "college",
+    "education": "college",
+    "name": "วิทยาลัยเทคโนโลยีตั้งตรงจิตรพณิชยการ",
+    "name:en": "Tangtrongchit Commercial Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีตั้งตรงจิตรพณิชยการ"
+  }
+},
+{
+  "type": "way",
+  "id": 1556399090,
+  "center": {
+    "lat": 13.7128889,
+    "lon": 100.4174569
+  },
+  "tags": {
+    "addr:district": "บางแค",
+    "addr:housenumber": "374",
+    "addr:postcode": "10160",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนเพชรเกษม",
+    "addr:subdistrict": "บางแคเหนือ",
+    "amenity": "college",
+    "name": "วิทยาลัยเทคโนโลยีพณิชยการภาษานุสรณ์บางแค",
+    "name:en": "Pasanusornbangkae Commercial Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีพณิชยการภาษานุสรณ์บางแค"
+  }
+},
+{
+  "type": "way",
+  "id": 1556492841,
+  "center": {
+    "lat": 13.7452268,
+    "lon": 100.4597783
+  },
+  "tags": {
+    "amenity": "college",
+    "education": "college",
+    "name": "อุบลรัตนราชกัญญาราชวิทยาลัย",
+    "name:en": "Princess Ubolratana Rajakanya’s College",
+    "name:etymology:wikidata": "Q1315769",
+    "name:th": "อุบลรัตนราชกัญญาราชวิทยาลัย",
+    "website": "https://www.purcbkk.ac.th"
+  }
+},
+{
+  "type": "way",
+  "id": 1558373677,
+  "center": {
+    "lat": 13.7533520,
+    "lon": 100.6184145
+  },
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "grades": "7-12",
+    "name": "โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง (ฝ่ายมัธยม)",
+    "name:en": "Ramkhamhaeng University Demonstration School",
+    "name:th": "โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง (ฝ่ายมัธยม)",
+    "website": "https://ds.ru.ac.th",
+    "wikidata": "Q16307346",
+    "wikipedia": "th:โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง"
+  }
+},
+{
+  "type": "way",
+  "id": 1558373678,
+  "center": {
+    "lat": 13.7550070,
+    "lon": 100.6144097
+  },
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "grades": "0-6",
+    "name": "โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง (ฝ่ายประถม)",
+    "name:en": "Ramkhamhaeng University Demonstration School (Elementary Level)",
+    "name:th": "โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง (ฝ่ายประถม)",
+    "website": "https://kids.ru.ac.th",
+    "wikidata": "Q16307351",
+    "wikipedia": "th:โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง ฝ่ายประถม"
+  }
+},
+{
+  "type": "way",
+  "id": 1562718220,
+  "center": {
+    "lat": 13.7549405,
+    "lon": 100.4975958
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:housenumber": "99",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนบุญศิริ",
+    "addr:subdistrict": "ศาลเจ้าพ่อเสือ",
+    "amenity": "college",
+    "education": "college",
+    "name": "วิทยาลัยเทคโนโลยีพระนครพณิชยการ",
+    "name:en": "Pranakorn Technological College",
+    "name:th": "วิทยาลัยเทคโนโลยีพระนครพณิชยการ",
+    "phone": "+66 2035-7215",
+    "short_name": "PCC"
+  }
+},
+{
+  "type": "way",
+  "id": 1568435332,
+  "center": {
+    "lat": 13.7695484,
+    "lon": 100.5300711
+  },
+  "tags": {
+    "addr:city": "กรุงเทพมหานคร",
+    "addr:country": "TH",
+    "addr:district": "ราชเทวี",
+    "addr:housenumber": "317",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนราชวิถี",
+    "addr:subdistrict": "ทุ่งพญาไท",
+    "alt_name": "วิทยาลัยพยาบาลทหารบก",
+    "alt_name:en": "Royal Thai Army Nursing College",
+    "alt_name:th": "วิทยาลัยพยาบาลทหารบก",
+    "amenity": "college",
+    "education": "college",
+    "name": "วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า",
+    "name:en": "Phramongkutklao College of Medicine",
+    "name:th": "วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า",
+    "operator": "กรมแพทย์ทหารบก",
+    "operator:type": "military",
+    "phone": "+66 2354 7826",
+    "website": "https://pcm.ac.th",
+    "wikidata": "Q18388380",
+    "wikipedia": "th:วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า"
+  }
+},
+{
+  "type": "way",
+  "id": 1569468058,
+  "center": {
+    "lat": 13.7505253,
+    "lon": 100.5023441
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:housenumber": "136/1-2",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยศิริชัย",
+    "addr:subdistrict": "สำราญราษฎร์",
+    "amenity": "school",
+    "education": "school",
+    "name": "โรงเรียนภารตวิทยาลัย",
+    "name:th": "โรงเรียนภารตวิทยาลัย"
+  }
+},
+{
+  "type": "way",
+  "id": 1574419602,
+  "center": {
+    "lat": 13.7722015,
+    "lon": 100.5026766
+  },
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์โชติเวช",
+    "name:en": "Rajamangala University of Technology Phra Nakhon Chotivet Campus",
+    "name:th": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์โชติเวช"
+  }
+},
+{
+  "type": "relation",
+  "id": 90337,
+  "center": {
+    "lat": 13.7385748,
+    "lon": 100.5312406
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:housenumber": "254",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนพญาไท",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "university",
+    "contact:facebook": "https://www.facebook.com/ChulalongkornUniversity",
+    "education": "university",
+    "email": "pr@chula.ac.th",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "name:ar": "جامعة شولالونغكورن",
+    "name:arz": "جامعة شولالونجكورن",
+    "name:ban": "Univérsitas Chulalongkorn",
+    "name:ca": "Universitat Chulalongkorn",
+    "name:cs": "Čulalongkornova Univerzita",
+    "name:cy": "Prifysgol Chulalongkorn",
+    "name:da": "Chulalongkorn Universitet",
+    "name:de": "Chulalongkorn-Universität",
+    "name:en": "Chulalongkorn University",
+    "name:eo": "Universitato Ĉulalonkon",
+    "name:es": "Universidad Chulalongkorn",
+    "name:fa": "دانشگاه چولالونگکورن",
+    "name:fi": "Chulalongkornin yliopisto",
+    "name:fr": "Université Chulalongkorn",
+    "name:ga": "Ollscoil Chulalongkorn",
+    "name:gl": "Universidade Chulalongkorn",
+    "name:he": "אוניברסיטת צ'ולונגונגקורן",
+    "name:hy": "Չուլալոնգքորնի համալսարան",
+    "name:id": "Universitas Chulalongkorn",
+    "name:it": "Università Chulalongkorn",
+    "name:ja": "チュラーロンコーン大学",
+    "name:km": "សាកលវិទ្យាល័យចូឡាលង្ករណ៍",
+    "name:ko": "쭐랄롱꼰 대학교",
+    "name:la": "Universitas Chulalongkorn",
+    "name:lo": "ຈຸລາລົງກອນມະຫາວິທະຍາໄລ",
+    "name:lzh": "朱拉隆功大學",
+    "name:ms": "Universiti Chulalongkorn",
+    "name:my": "Chulalongkorn University",
+    "name:nb": "Chulalongkornuniversitetet",
+    "name:nl": "Chulalongkorn-universiteit",
+    "name:pl": "Uniwersytet Chulalongkorn",
+    "name:pt": "Universidade de Chulalongkorn",
+    "name:ru": "Университет Чулалонгкорна",
+    "name:sl": "Univerza Chulalongkorn",
+    "name:sv": "Chulalongkornuniversitetet",
+    "name:th": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "name:th-Latn": "Chulalongkon Mahawitthayalai",
+    "name:tl": "Pamantasang Chulalongkorn",
+    "name:ur": "چولالونگکورن یونیورسٹی",
+    "name:vi": "Đại học Chulalongkorn",
+    "name:yue": "朱拉隆功大學",
+    "name:zh": "朱拉隆功大学",
+    "name:zh-Hans": "朱拉隆功大学",
+    "name:zh-Hant": "朱拉隆功大学",
+    "not:name": "ชูล่า",
+    "phone": "+66 2218 2000",
+    "short_name": "จุฬา",
+    "start_date": "1917-03-26",
+    "type": "multipolygon",
+    "website": "https://www.chula.ac.th/",
+    "wikidata": "Q855730",
+    "wikipedia": "th:จุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "relation",
+  "id": 2100320,
+  "center": {
+    "lat": 13.7649995,
+    "lon": 100.5289564
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยมหิดล (วิทยาเขตพญาไท)",
+    "name:en": "Mahidol University (Phaya Thai Campus)",
+    "type": "site"
+  }
+},
+{
+  "type": "relation",
+  "id": 6584859,
+  "center": {
+    "lat": 13.7373654,
+    "lon": 100.5257473
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "stadium",
+    "building:levels": "3",
+    "name": "สนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Chulalongkorn University Stadium",
+    "name:th": "สนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย",
+    "type": "multipolygon",
+    "wikidata": "Q840852",
+    "wikipedia": "th:สนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "relation",
+  "id": 13724637,
+  "center": {
+    "lat": 13.6768238,
+    "lon": 100.4752476
+  },
+  "tags": {
+    "colour": "hotpink",
+    "name": "141 (4-24E) อู่แสมดำ - จุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "141 (4-24E) Samae Dam Bus Depot - Chulalongkorn University",
+    "name:th": "141 (4-24E) อู่แสมดำ - จุฬาลงกรณ์มหาวิทยาลัย",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "network:wikipedia": "th:องค์การขนส่งมวลชนกรุงเทพ",
+    "operator": "BMTA",
+    "ref": "141 (4-24E)",
+    "route": "bus",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 13724638,
+  "center": {
+    "lat": 13.6804078,
+    "lon": 100.4737264
+  },
+  "tags": {
+    "colour": "hotpink",
+    "name": "141 (4-24E) จุฬาลงกรณ์มหาวิทยาลัย - อู่แสมดำ",
+    "name:en": "141 (4-24E) Chulalongkorn University - Samae Dam Bus Depot",
+    "name:th": "141 (4-24E) จุฬาลงกรณ์มหาวิทยาลัย - อู่แสมดำ",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "operator": "BMTA",
+    "ref": "141 (4-24E)",
+    "route": "bus",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 14454796,
+  "center": {
+    "lat": 13.7381797,
+    "lon": 100.5296661
+  },
+  "tags": {
+    "colour": "#DE5C8E",
+    "name": "ทางปั่นจักรยานในจุฬาลงกรณ์มหาวิทยาลัย",
+    "network": "lcn",
+    "route": "bicycle",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 14461248,
+  "center": {
+    "lat": 13.7401420,
+    "lon": 100.5327994
+  },
+  "tags": {
+    "colour": "#d72400",
+    "from": "ศาลาพระเกี้ยว",
+    "loc_name": "รถป็อป สาย 1",
+    "loc_name:en": "Pop Bus Line 1",
+    "loc_name:th": "รถป็อป สาย 1",
+    "name": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 1",
+    "name:en": "Chulalongkorn University Shuttle Bus Line 1",
+    "name:th": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 1",
+    "network": "รถโดยสารภายในจุฬาฯ",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "ref": "CUPOP 1",
+    "roundtrip": "yes",
+    "route": "bus",
+    "short_name": "รถโดยสารภายในจุฬาฯ สาย 1",
+    "short_name:en": "CU Shuttle Bus Line 1",
+    "short_name:th": "รถโดยสารภายในจุฬาฯ สาย 1",
+    "to": "BTS สยาม",
+    "type": "route",
+    "website": "https://www.chula.ac.th/about/green-university/cu-shuttle-bus/"
+  }
+},
+{
+  "type": "relation",
+  "id": 14461249,
+  "center": {
+    "lat": 13.7406557,
+    "lon": 100.5294534
+  },
+  "tags": {
+    "colour": "#0056d6",
+    "from": "ศาลาพระเกี้ยว",
+    "loc_name": "รถป็อป สาย 2",
+    "loc_name:en": "Pop Bus Line 2",
+    "loc_name:th": "รถป็อป สาย 2",
+    "name": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 2",
+    "name:en": "Chulalongkorn University Shuttle Bus Line 2",
+    "name:th": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 2",
+    "network": "รถโดยสารภายในจุฬาฯ",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "ref": "CUPOP 2",
+    "roundtrip": "yes",
+    "route": "bus",
+    "short_name": "รถโดยสารภายในจุฬาฯ สาย 2",
+    "short_name:en": "CU Shuttle Bus Line 2",
+    "short_name:th": "รถโดยสารภายในจุฬาฯ สาย 2",
+    "to": "BTS สนามกีฬาฯ",
+    "type": "route",
+    "via": "สนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย;หอพักนิสิตฯ"
+  }
+},
+{
+  "type": "relation",
+  "id": 15559782,
+  "center": {
+    "lat": 13.7380902,
+    "lon": 100.5294988
+  },
+  "tags": {
+    "colour": "#863287",
+    "from": "ศาลาพระเกี้ยว",
+    "loc_name": "รถป็อป สาย 5",
+    "loc_name:en": "Pop Bus Line 5",
+    "loc_name:th": "รถป็อป สาย 5",
+    "name": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 5",
+    "name:en": "Chulalongkorn University Shuttle Bus Line 5",
+    "name:th": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 5",
+    "network": "รถโดยสารภายในจุฬาฯ",
+    "operator": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "ref": "CUPOP 5",
+    "roundtrip": "yes",
+    "route": "bus",
+    "short_name": "รถโดยสารภายในจุฬาฯ สาย 5",
+    "short_name:en": "CU Shuttle Bus Line 5",
+    "short_name:th": "รถโดยสารภายในจุฬาฯ สาย 5",
+    "to": "ระเบียงจามจุรี",
+    "type": "route",
+    "via": "สนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย;เรือนวิรัชมิตร"
+  }
+},
+{
+  "type": "relation",
+  "id": 15559804,
+  "center": {
+    "lat": 13.7379475,
+    "lon": 100.5316367
+  },
+  "tags": {
+    "colour": "#75a856",
+    "from": "ศาลาพระเกี้ยว",
+    "loc_name": "รถป็อป สาย 3",
+    "loc_name:en": "Pop Bus Line 3",
+    "loc_name:th": "รถป็อป สาย 3",
+    "name": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 3",
+    "name:en": "Chulalongkorn University Shuttle Bus Line 3",
+    "name:th": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 3",
+    "network": "รถโดยสารภายในจุฬาฯ",
+    "operator": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "ref": "CUPOP 3",
+    "route": "bus",
+    "short_name": "รถโดยสารภายในจุฬาฯ สาย 3",
+    "short_name:en": "CU Shuttle Bus Line 3",
+    "short_name:th": "รถโดยสารภายในจุฬาฯ สาย 3",
+    "to": "คณะแพทยศาสตร์",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 15559837,
+  "center": {
+    "lat": 13.7401420,
+    "lon": 100.5309722
+  },
+  "tags": {
+    "colour": "#f4d147",
+    "from": "ศาลาพระเกี้ยว",
+    "loc_name": "รถป็อป สาย 4",
+    "loc_name:en": "Pop Bus Line 4",
+    "loc_name:th": "รถป็อป สาย 4",
+    "name": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 4",
+    "name:en": "Chulalongkorn University Shuttle Bus Line 4",
+    "name:th": "รถโดยสารภายในจุฬาลงกรณ์มหาวิทยาลัย สาย 4",
+    "network": "รถโดยสารภายในจุฬาฯ",
+    "operator": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "ref": "CUPOP 4",
+    "route": "bus",
+    "short_name": "รถโดยสารภายในจุฬาฯ สาย 4",
+    "short_name:en": "CU Shuttle Bus Line 4",
+    "short_name:th": "รถโดยสารภายในจุฬาฯ สาย 4",
+    "to": "สามย่านมิตรทาวน์",
+    "type": "route",
+    "via": "BTS สยาม"
+  }
+},
+{
+  "type": "relation",
+  "id": 16559631,
+  "center": {
+    "lat": 13.6537025,
+    "lon": 100.5160659
+  },
+  "tags": {
+    "colour": "hotpink",
+    "from": "วัดคู่สร้าง",
+    "name": "21E (4-7E) วัดคู่สร้าง - จุฬาลงกรณ์มหาวิทยาลัย (ทางด่วน)",
+    "name:en": "21E (4-7E) Wat Kusang - Chulalongkorn University (Expressway)",
+    "name:th": "21E (4-7E) วัดคู่สร้าง - จุฬาลงกรณ์มหาวิทยาลัย (ทางด่วน)",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "operator": "BMTA",
+    "ref": "21E (4-7E)",
+    "route": "bus",
+    "to": "จุฬาลงกรณ์มหาวิทยาลัย",
+    "type": "route",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "relation",
+  "id": 16559632,
+  "center": {
+    "lat": 13.6598801,
+    "lon": 100.5162279
+  },
+  "tags": {
+    "colour": "hotpink",
+    "from": "จุฬาลงกรณ์ฯ",
+    "name": "21E (4-7E) จุฬาลงกรณ์มหาวิทยาลัย - วัดคู่สร้าง (ทางด่วน)",
+    "name:en": "21E (4-7E) Chulalongkorn University - Wat Kusang (Expressway)",
+    "name:th": "21E (4-7E) จุฬาลงกรณ์มหาวิทยาลัย - วัดคู่สร้าง (ทางด่วน)",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "operator": "BMTA",
+    "ref": "21E (4-7E)",
+    "route": "bus",
+    "to": "วัดคู่สร้าง",
+    "type": "route",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "relation",
+  "id": 17907219,
+  "center": {
+    "lat": 13.7028351,
+    "lon": 100.5081851
+  },
+  "tags": {
+    "colour": "hotpink",
+    "name": "37 (4-9) ท่าน้ำพระประแดง - จุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "37 (4-9) Phra Pradaeng Pier - Chulalongkorn University",
+    "name:th": "37 (4-9) ท่าน้ำพระประแดง - จุฬาลงกรณ์มหาวิทยาลัย",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "operator": "BMTA",
+    "ref": "37 (4-9)",
+    "route": "bus",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 17907220,
+  "center": {
+    "lat": 13.7035292,
+    "lon": 100.5085156
+  },
+  "tags": {
+    "colour": "hotpink",
+    "name": "37 (4-9) จุฬาลงกรณ์มหาวิทยาลัย - ท่าน้ำพระประแดง",
+    "name:en": "37 (4-9) Chulalongkorn University - Phra Pradaeng Pier",
+    "name:th": "37 (4-9) จุฬาลงกรณ์มหาวิทยาลัย - ท่าน้ำพระประแดง",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "ref": "37 (4-9)",
+    "route": "bus",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 17983787,
+  "center": {
+    "lat": 13.8083477,
+    "lon": 100.5526444
+  },
+  "tags": {
+    "colour": "blue",
+    "name": "24 (2-39) ประชานิเวศน์ 3 - จุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "24 (2-39) Prachaniwet 3 - Chulalongkorn University",
+    "name:th": "24 (2-39) ประชานิเวศน์ 3 - จุฬาลงกรณ์มหาวิทยาลัย",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "operator": "BMTA",
+    "ref": "24 (2-39)",
+    "route": "bus",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 17983789,
+  "center": {
+    "lat": 13.8060903,
+    "lon": 100.5526110
+  },
+  "tags": {
+    "colour": "blue",
+    "name": "24 (2-39) จุฬาลงกรณ์มหาวิทยาลัย - ประชานิเวศน์ 3",
+    "name:en": "24 (2-39) Chulalongkorn University - Prachaniwet 3",
+    "name:th": "24 (2-39) จุฬาลงกรณ์มหาวิทยาลัย - ประชานิเวศน์ 3",
+    "network": "BMTA",
+    "network:wikidata": "Q4855217",
+    "operator": "BMTA",
+    "ref": "24 (2-39)",
+    "route": "bus",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 18774182,
+  "center": {
+    "lat": 13.7797232,
+    "lon": 100.5605535
+  },
+  "tags": {
+    "amenity": "university",
+    "internet_access": "yes",
+    "name": "มหาวิทยาลัยหอการค้าไทย",
+    "name:en": "University of Thai Chamber of Commerce",
+    "name:th": "มหาวิทยาลัยหอการค้าไทย",
+    "type": "multipolygon",
+    "website": "https://www.utcc.ac.th/",
+    "wikidata": "Q1799929",
+    "wikipedia": "en:University of the Thai Chamber of Commerce"
+  }
+},
+{
+  "type": "relation",
+  "id": 19209856,
+  "center": {
+    "lat": 13.8423067,
+    "lon": 100.5771023
+  },
+  "tags": {
+    "name": "สถานีมหาวิทยาลัยเกษตรศาสตร์",
+    "name:en": "Kasetsart University Station",
+    "name:th": "สถานีมหาวิทยาลัยเกษตรศาสตร์",
+    "network": "BTS",
+    "operator": "ระบบขนส่งมวลชนกรุงเทพ",
+    "operator:en": "Bangkok Mass Transit System;BTSC",
+    "public_transport": "stop_area",
+    "ref": "N13",
+    "type": "public_transport",
+    "wikidata": "Q76973081",
+    "wikipedia": "th:สถานีมหาวิทยาลัยเกษตรศาสตร์"
+  }
+},
+{
+  "type": "relation",
+  "id": 19305796,
+  "center": {
+    "lat": 13.7761677,
+    "lon": 100.5180002
+  },
+  "tags": {
+    "amenity": "school",
+    "leisure": "garden",
+    "name": "โรงเรียนวชิราวุธวิทยาลัย",
+    "name:en": "Vajiravudh College",
+    "name:th": "โรงเรียนวชิราวุธวิทยาลัย",
+    "type": "multipolygon",
+    "wikidata": "Q2507561",
+    "wikimedia_commons": "Category:Vajiravudh College",
+    "wikipedia": "th:วชิราวุธวิทยาลัย"
+  }
+},
+{
+  "type": "relation",
+  "id": 19404976,
+  "center": {
+    "lat": 13.7559435,
+    "lon": 100.4912925
+  },
+  "tags": {
+    "building": "university",
+    "name": "วิทยาลัยสหวิทยาการ",
+    "name:en": "College of Interdisciplinary Studies",
+    "name:th": "วิทยาลัยสหวิทยาการ",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 19408133,
+  "center": {
+    "lat": 13.7771514,
+    "lon": 100.5113225
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "มหาวิทยาลัยสวนดุสิต",
+    "name:en": "Suan Dusit University",
+    "name:th": "มหาวิทยาลัยสวนดุสิต",
+    "type": "multipolygon",
+    "website": "https://www.dusit.ac.th",
+    "wikidata": "Q13018784",
+    "wikipedia": "th:มหาวิทยาลัยสวนดุสิต"
+  }
+},
+{
+  "type": "relation",
+  "id": 20058967,
+  "center": {
+    "lat": 13.7367650,
+    "lon": 100.5271831
+  },
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "name": "โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Chulalongkorn University Demonstration School",
+    "name:th": "โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย",
+    "type": "multipolygon",
+    "wikidata": "Q13027268",
+    "wikipedia": "th:โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย"
+  }
+},
+{
+  "type": "relation",
+  "id": 20425793,
+  "center": {
+    "lat": 13.7209439,
+    "lon": 100.5226896
+  },
+  "tags": {
+    "amenity": "school",
+    "education": "school",
+    "grades": "1-12",
+    "name": "โรงเรียนกรุงเทพคริสเตียนวิทยาลัย",
+    "name:en": "Bangkok Christian College",
+    "name:fr": "Collège catholique de Bangkok",
+    "name:th": "โรงเรียนกรุงเทพคริสเตียนวิทยาลัย",
+    "religion": "christian",
+    "start_date": "1852",
+    "type": "multipolygon",
+    "website": "http://www.bcc.ac.th/",
+    "wikidata": "Q4855194",
+    "wikipedia": "th:โรงเรียนกรุงเทพคริสเตียนวิทยาลัย"
+  }
+},
+{
+  "type": "relation",
+  "id": 20505830,
+  "center": {
+    "lat": 13.7576194,
+    "lon": 100.4906636
+  },
+  "tags": {
+    "addr:city": "แขวงพระบรมมหาราชวัง เขตพระนคร กรุงเทพมหานคร",
+    "addr:housenumber": "2",
+    "addr:postcode": "10200",
+    "addr:street": "ถนนพระจันทร์",
+    "amenity": "university",
+    "education": "university",
+    "name": "มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์",
+    "name:en": "Thammasat University Tha Phra Chan",
+    "name:th": "มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์",
+    "old_name": "University of Moral and Political Sciences",
+    "type": "multipolygon",
+    "website": "https://tu.ac.th",
+    "wheelchair": "limited",
+    "wikidata": "Q1209733",
+    "wikimedia_commons": "Category:Thammasat University, Tha Phra Chan",
+    "wikipedia": "th:มหาวิทยาลัยธรรมศาสตร์"
+  }
+},
+{
+  "type": "relation",
+  "id": 21051855,
+  "center": {
+    "lat": 13.7590658,
+    "lon": 100.6179706
+  },
+  "tags": {
+    "colour": "#FF6610",
+    "name": "มหาวิทยาลัยรามคำแหง",
+    "name:en": "Ramkhamhaeng University",
+    "name:th": "มหาวิทยาลัยรามคำแหง",
+    "network": "Metropolitan Rapid Transit",
+    "network:short": "MRT",
+    "network:wikidata": "Q806485",
+    "operator": "ทางด่วนและรถไฟฟ้ากรุงเทพ",
+    "public_transport": "stop_area",
+    "ref": "OR17",
+    "type": "public_transport"
+  }
+}
+
+  ]
+}

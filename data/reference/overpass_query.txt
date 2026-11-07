@@ -1,0 +1,1 @@
+[out:json][timeout:50];nwr["amenity"~"^(school|university|college)$"](13.67327,100.36861,13.84894,100.65554999999999);out center tags;
