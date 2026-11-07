@@ -1,0 +1,9 @@
+{
+  "radius_m": 1500,
+  "borderline_band_m": 100,
+  "expected_camera_count": 100,
+  "dedup_distance_m": 250,
+  "camera_file": "data/raw/cctv_info.csv",
+  "team_folder": "data/raw/webscraping",
+  "osm_file": "data/reference/osm_education.json"
+}
