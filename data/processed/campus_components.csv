@@ -1,0 +1,36 @@
+﻿source_id,component_name,parent_source_id,parent_name,rule
+node/444402341,คณะวิศวกรรมศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402355,คณะวิทยาศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402357,คณะสถาปัตยกรรมศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402359,คณะอักษรศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402360,คณะศิลปกรรมศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402362,คณะรัฐศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402369,คณะเศรษฐศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402371,คณะพาณิชยศาสตร์และการบัญชี,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402373,คณะครุศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402374,คณะนิเทศศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402376,คณะนิติศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402382,สำนักวิทยาศาสตร์การกีฬา,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402383,คณะเภสัชศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402384,คณะทันตแพทยศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/444402385,คณะสัตวแพทยศาสตร์,relation/90337,จุฬาลงกรณ์มหาวิทยาลัย,component_inside_mapped_campus
+node/1374641597,คณะเศรษฐศาสตร์,way/38001215,มหาวิทยาลัยเกษตรศาสตร์,component_inside_mapped_campus
+way/75496098,คณะวิทยาศาสตร์,way/38001215,มหาวิทยาลัยเกษตรศาสตร์,component_inside_mapped_campus
+way/75719557,คณะวิศวกรรมศาสตร์,way/38001215,มหาวิทยาลัยเกษตรศาสตร์,component_inside_mapped_campus
+way/125738412,คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล,relation/2100320,มหาวิทยาลัยมหิดล (วิทยาเขตพญาไท),component_inside_mapped_campus
+way/156924966,คณะทันตแพทยศาสตร์ มหาวิทยาลัยมหิดล,relation/2100320,มหาวิทยาลัยมหิดล (วิทยาเขตพญาไท),component_inside_mapped_campus
+way/156924992,คณะวิทยาศาสตร์ มหาวิทยาลัยมหิดล,relation/2100320,มหาวิทยาลัยมหิดล (วิทยาเขตพญาไท),component_inside_mapped_campus
+way/173271563,ศูนย์เรียนรวม 1,way/38001215,มหาวิทยาลัยเกษตรศาสตร์,component_inside_mapped_campus
+way/182520326,Administrative Building,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182520327,Salle D' Expo,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182520329,St. Philip & Bernard Hall,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182520332,Assumption Hall,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182520333,De Montfort Hall,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182520337,Information Building,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182522188,St. Gabriel's Hall (Central Library),way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182522190,Martin De Tours Hall,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182522191,Coronation Hall,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182522192,Queen's Building,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182522194,St. Louis Hall,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/182522196,Engineering Building,way/182520330,มหาวิทยาลัยอัสสัมชัญ,component_inside_mapped_campus
+way/589880230,คณะวนศาสตร์,way/38001215,มหาวิทยาลัยเกษตรศาสตร์,component_inside_mapped_campus

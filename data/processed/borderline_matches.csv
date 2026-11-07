@@ -1,0 +1,555 @@
+﻿camera_id,institution_id,institution_name,distance_m,inside_radius,issue
+915,edu_9563694addc9,โรงเรียนวัดราชคฤห์,1416.728,True,within_100m_of_cutoff
+915,edu_effe9d2574eb,โรงเรียนซางตาครู้สศึกษา,1423.032,True,within_100m_of_cutoff
+915,edu_cfdb7b1c2af3,วัดโพธินิมิตร,1445.459,True,within_100m_of_cutoff
+915,edu_87401ffa4248,วัดเศวตฉัตร,1483.411,True,within_100m_of_cutoff
+915,edu_611d914e76de,โรงเรียนวัดสุทธาราม,1486.878,True,within_100m_of_cutoff
+915,edu_0beaa0af8076,วัดทองเพลง,1488.218,True,within_100m_of_cutoff
+915,edu_7d75157d2e74,โรงเรียนมัธยมวัดสุทธาราม,1536.378,False,within_100m_of_cutoff
+915,edu_f0c459cebd0c,วัดบุคคโล,1539.118,False,within_100m_of_cutoff
+915,edu_4cdd928bef19,โรงเรียนวัดกัลยาณมิตร,1540.351,False,within_100m_of_cutoff
+137,edu_e2ee8136e452,โรงเรียนสตรีวรนาถบางเขน,1431.57,True,within_100m_of_cutoff
+137,edu_f92651ad5adf,โรงเรียนหอวัง,1445.284,True,within_100m_of_cutoff
+137,edu_7bd55b8ea165,Unnamed school (way/1348158696),1521.025,False,within_100m_of_cutoff
+219,edu_78e880a2e344,มหาวิทยาลัยหอการค้าไทย,1461.206,True,within_100m_of_cutoff
+219,edu_e69f08ed88a5,บางกอกทวิวิทย์ แผนกประถมศึกษาและมัธยมศึกษา,1522.404,False,within_100m_of_cutoff
+332,edu_70cf44ad75f7,โรงเรียนสอนคนตาบอด,1446.916,True,within_100m_of_cutoff
+332,edu_940ac2986c6f,วัดเทวราชกุญชร,1486.085,True,within_100m_of_cutoff
+332,edu_cc40895fe901,โรงเรียนราชินีบน,1487.106,True,within_100m_of_cutoff
+332,edu_9876c290ec64,โรงเรียนวัดจันทรสโมสร,1489.521,True,within_100m_of_cutoff
+332,edu_8ec93aeafc0f,วิทยาลัยพยาบาลบรมราชชนนี กรุงเทพ,1540.182,False,within_100m_of_cutoff
+332,edu_787de12908a7,คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช,1553.634,False,within_100m_of_cutoff
+332,edu_a754ae1fc4c5,มหาวิทยาลัยราชภัฏสวนสุนันทา,1575.898,False,within_100m_of_cutoff
+332,edu_1c35cedc49e3,สถาบันเทคโนโลยีจิตรลดา,1581.911,False,within_100m_of_cutoff
+542,edu_1df2fd74c45c,โรงเรียนเตรียมอุดมศึกษา,1404.785,True,within_100m_of_cutoff
+542,edu_3211771ff80c,โรงเรียนพุทธจักรวิทยา,1446.956,True,within_100m_of_cutoff
+542,edu_422b8904c42a,สถาบันดนตรี เคพีเอ็น มิวสิค,1450.26,True,within_100m_of_cutoff
+542,edu_5ff0a763956b,มหาวิทยาลัยเทคโนโลยีราชมงคล วิทยาเขตอุเทนถวาย,1453.126,True,within_100m_of_cutoff
+542,edu_2219bc41aba9,โรงเรียนวัดหัวลำโพง,1483.411,True,within_100m_of_cutoff
+542,edu_42455a5425e9,ปลูกจิต,1484.252,True,within_100m_of_cutoff
+542,edu_562106684393,วัดชัยมงคล,1518.367,False,within_100m_of_cutoff
+542,edu_915383534128,โรงเรียนคริสต์ศาสนศาสตร์แบ๊บติสต์,1522.865,False,within_100m_of_cutoff
+542,edu_2d568e0b7db0,โรงเรียนวัดปทุมวนาราม,1560.362,False,within_100m_of_cutoff
+136,edu_e2ee8136e452,โรงเรียนสตรีวรนาถบางเขน,1416.272,True,within_100m_of_cutoff
+136,edu_f92651ad5adf,โรงเรียนหอวัง,1434.404,True,within_100m_of_cutoff
+136,edu_7bd55b8ea165,Unnamed school (way/1348158696),1534.098,False,within_100m_of_cutoff
+136,edu_ee0fb22b458c,มหาวิทยาลัยราชภัฏจันทรเกษม,1589.967,False,within_100m_of_cutoff
+1103,edu_d3d2a3a6e735,วัดราชสิทธาราม,1429.912,True,within_100m_of_cutoff
+1103,edu_25bd466e7900,Unnamed school (way/375807121),1434.372,True,within_100m_of_cutoff
+1103,edu_68e9c0ff9eb6,โรงเรียนสุภาคมศึกษา,1541.078,False,within_100m_of_cutoff
+1103,edu_611d914e76de,โรงเรียนวัดสุทธาราม,1572.951,False,within_100m_of_cutoff
+1103,edu_87401ffa4248,วัดเศวตฉัตร,1575.748,False,within_100m_of_cutoff
+1103,edu_0beaa0af8076,วัดทองเพลง,1581.785,False,within_100m_of_cutoff
+32,edu_489ff93e456c,โรงเรียนธนบุรีวรเทพีพลารักษ์,1406.871,True,within_100m_of_cutoff
+32,edu_481c40f1fd66,โรงเรียนกันตทาราราม (สืบ-ลูกจันทร์ จึงประไพ),1408.121,True,within_100m_of_cutoff
+32,edu_16276b0eab74,วัดบางสะแกใน,1427.253,True,within_100m_of_cutoff
+32,edu_8b52bf28add6,โรงเรียนวัดหงส์รัตนาราม,1458.633,True,within_100m_of_cutoff
+32,edu_2812bf378eb6,โรงเรียนวัดหงส์รัตนารามราชวรวิหาร,1459.028,True,within_100m_of_cutoff
+32,edu_e3cf3bbfd1b7,วัดสุทธาราม,1501.745,False,within_100m_of_cutoff
+32,edu_9415c63aead0,โรงเรียนวัดทองเพลง,1513.092,False,within_100m_of_cutoff
+32,edu_effe9d2574eb,โรงเรียนซางตาครู้สศึกษา,1515.504,False,within_100m_of_cutoff
+32,edu_f0c459cebd0c,วัดบุคคโล,1543.064,False,within_100m_of_cutoff
+32,edu_4cdd928bef19,โรงเรียนวัดกัลยาณมิตร,1548.888,False,within_100m_of_cutoff
+32,edu_f2c319a53259,โรงเรียนนานาชาติอินเตอร์เนชั่นแนลไพโอเนียร์ส,1561.876,False,within_100m_of_cutoff
+413,edu_430b50c70860,โรงเรียนโฆสิตสโมสร,1407.366,True,within_100m_of_cutoff
+413,edu_080b0659940f,โรงเรียนประถมทวีธาภิเศก,1485.151,True,within_100m_of_cutoff
+413,edu_776f16978cb7,มหาวิทยาลัยมหิดล (เชิงสะพานสมเด็จพระปิ่นเกล้า),1496.511,True,within_100m_of_cutoff
+413,edu_842ec1270d36,โรงเรียนมัธยมวัดดุสิตาราม,1511.902,False,within_100m_of_cutoff
+413,edu_4f7b4d974897,วัดอินทรวิหาร,1561.736,False,within_100m_of_cutoff
+413,edu_9439efa0ad40,โรงเรียนวัดคณิกาผล,1565.251,False,within_100m_of_cutoff
+413,edu_676a5baf8198,วัดมหาธาตุ,1574.442,False,within_100m_of_cutoff
+413,edu_4cdd928bef19,โรงเรียนวัดกัลยาณมิตร,1585.576,False,within_100m_of_cutoff
+413,edu_f0c459cebd0c,วัดบุคคโล,1592.23,False,within_100m_of_cutoff
+206,edu_30fa0cd09c2b,ลา เปติท อีโคล แบงค็อก,1448.003,True,within_100m_of_cutoff
+206,edu_6731a8c64c62,โรงเรียนวัดช่องนนทรี,1468.098,True,within_100m_of_cutoff
+206,edu_c65b6425e9b8,วัดพระยายัง,1481.916,True,within_100m_of_cutoff
+206,edu_c3718c315673,โรงเรียนวาสุเทวี,1520.174,False,within_100m_of_cutoff
+206,edu_32486ffbcd9c,โรงเรียนเปรมฤดีศึกษา,1561.703,False,within_100m_of_cutoff
+18,edu_451d04d3e712,โรงเรียนวัดน้อยนพคุณ,1421.721,True,within_100m_of_cutoff
+18,edu_a5bb745d1d28,โรงเรียนเศรษฐเสถียร,1479.988,True,within_100m_of_cutoff
+18,edu_366a2eadb866,โรงเรียนเศรษฐเสถียร ในพระราชูปถัมภ์,1488.019,True,within_100m_of_cutoff
+18,edu_168ef0901d1c,โรงเรียนกันตะบุตร,1541.204,False,within_100m_of_cutoff
+1361,edu_776f16978cb7,มหาวิทยาลัยมหิดล (เชิงสะพานสมเด็จพระปิ่นเกล้า),1404.863,True,within_100m_of_cutoff
+1361,edu_cde65297b49b,มหาวิทยาลัยนวมินทราธิราช,1415.03,True,within_100m_of_cutoff
+1361,edu_9f99ae5aab22,วัดไทร,1460.816,True,within_100m_of_cutoff
+1361,edu_2d55d02703cc,โรงเรียนวัดราชนัดดาราม,1462.59,True,within_100m_of_cutoff
+1361,edu_45d82fde99ec,โรงเรียนราชวินิต มัธยม,1468.157,True,within_100m_of_cutoff
+1361,edu_787de12908a7,คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช,1509.808,False,within_100m_of_cutoff
+1361,edu_127338cf51e3,บางยี่ขันวิทยาคม,1512.877,False,within_100m_of_cutoff
+1361,edu_28fd87e24e30,วัดอาวุธวิกสิตาราม,1527.501,False,within_100m_of_cutoff
+1361,edu_efc5b3bb4b60,โรงเรียนวัดเปาโรหิตย์,1534.118,False,within_100m_of_cutoff
+1361,edu_591e091cc7dd,สถาบันบัณฑิตพัฒนศิลป์,1560.529,False,within_100m_of_cutoff
+1361,edu_c786e2a2894e,วัดลาดบัวขาว,1576.445,False,within_100m_of_cutoff
+1361,edu_842ec1270d36,โรงเรียนมัธยมวัดดุสิตาราม,1585.091,False,within_100m_of_cutoff
+126,edu_7bd55b8ea165,Unnamed school (way/1348158696),1447.361,True,within_100m_of_cutoff
+126,edu_ac6a0752777c,วัดเสมียนนารี,1483.18,True,within_100m_of_cutoff
+126,edu_52190a877fd3,มหาวิทยาลัยเซนต์จอห์น,1538.326,False,within_100m_of_cutoff
+126,edu_4466a04b65b1,Unnamed university (way/121199872),1562.62,False,within_100m_of_cutoff
+301,edu_6dad64f3870e,โรงเรียนอัมพวันศิกษา,1413.736,True,within_100m_of_cutoff
+301,edu_f23ee805d991,วัดราชผาติการาม,1450.197,True,within_100m_of_cutoff
+301,edu_63840015075b,โรงเรียนสุโขทัย,1454.328,True,within_100m_of_cutoff
+301,edu_46d91ca03189,Canadian International School of Thailand,1470.758,True,within_100m_of_cutoff
+301,edu_be6ce22c3672,วิทยาลัยเทคโนโลยีวิมล ศรีย่าน,1478.716,True,within_100m_of_cutoff
+301,edu_4f8317db538b,โรงเรียนราชวัตรวิทยา,1514.798,False,within_100m_of_cutoff
+301,edu_437dd3124272,วัดประชาระบือธรรม,1559.451,False,within_100m_of_cutoff
+158,edu_25a788e21048,วัดประยุรวงค์,1408.382,True,within_100m_of_cutoff
+158,edu_f2c319a53259,โรงเรียนนานาชาติอินเตอร์เนชั่นแนลไพโอเนียร์ส,1476.546,True,within_100m_of_cutoff
+70,edu_cde65297b49b,มหาวิทยาลัยนวมินทราธิราช,1411.896,True,within_100m_of_cutoff
+70,edu_776f16978cb7,มหาวิทยาลัยมหิดล (เชิงสะพานสมเด็จพระปิ่นเกล้า),1415.379,True,within_100m_of_cutoff
+70,edu_45d82fde99ec,โรงเรียนราชวินิต มัธยม,1459.047,True,within_100m_of_cutoff
+70,edu_9f99ae5aab22,วัดไทร,1461.02,True,within_100m_of_cutoff
+70,edu_2d55d02703cc,โรงเรียนวัดราชนัดดาราม,1462.804,True,within_100m_of_cutoff
+70,edu_787de12908a7,คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช,1504.667,False,within_100m_of_cutoff
+70,edu_127338cf51e3,บางยี่ขันวิทยาคม,1521.681,False,within_100m_of_cutoff
+70,edu_28fd87e24e30,วัดอาวุธวิกสิตาราม,1532.337,False,within_100m_of_cutoff
+70,edu_efc5b3bb4b60,โรงเรียนวัดเปาโรหิตย์,1538.82,False,within_100m_of_cutoff
+70,edu_591e091cc7dd,สถาบันบัณฑิตพัฒนศิลป์,1569.571,False,within_100m_of_cutoff
+70,edu_c786e2a2894e,วัดลาดบัวขาว,1580.02,False,within_100m_of_cutoff
+70,edu_842ec1270d36,โรงเรียนมัธยมวัดดุสิตาราม,1595.527,False,within_100m_of_cutoff
+1408,edu_235799625793,โรงเรียนกุนนทีรุทธารามวิทยาคม,1412.944,True,within_100m_of_cutoff
+1408,edu_397ef81ffcfb,โรงเรียนเตรียมอุดมศึกษาน้อมเกล้ากุนนที,1441.562,True,within_100m_of_cutoff
+1408,edu_9dbfe58d8abe,โรงเรียนนานาชาติเซ็นทรัล,1480.411,True,within_100m_of_cutoff
+1408,edu_15b240713ea8,โรงเรียนจำนงค์พิทยา,1569.356,False,within_100m_of_cutoff
+603,edu_95d76c138f10,จุฬาลงกรณ์มหาวิทยาลัย,1420.644,True,within_100m_of_cutoff
+603,edu_467dc3a8ad0e,โรงเรียนสตรีวัดมหาพฤฒาราม,1422.13,True,within_100m_of_cutoff
+603,edu_0c1c84c3b906,โรงเรียนอัสสัมชัญศึกษา,1422.728,True,within_100m_of_cutoff
+603,edu_915383534128,โรงเรียนคริสต์ศาสนศาสตร์แบ๊บติสต์,1434.578,True,within_100m_of_cutoff
+603,edu_3e4b77f567ee,มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ เขตพื้นที่บพิตรพิมุข มหาเมฆ,1434.631,True,within_100m_of_cutoff
+603,edu_e88f86b52225,โรงเรียนสตรีวัดมหาพฤฒาราม ในพระบรมราชินู,1468.254,True,within_100m_of_cutoff
+603,edu_c12be131e1ce,โรงเรียนอัสสัมชัญคอนแวนต์,1527.575,False,within_100m_of_cutoff
+603,edu_506c789ab7eb,โรงเรียนประเสริฐธรรมวิทยา,1587.531,False,within_100m_of_cutoff
+124,edu_ac6a0752777c,วัดเสมียนนารี,1414.852,True,within_100m_of_cutoff
+124,edu_52190a877fd3,มหาวิทยาลัยเซนต์จอห์น,1570.714,False,within_100m_of_cutoff
+1589,edu_5d6c24cc6e55,โรงเรียนเผยอิง,1417.277,True,within_100m_of_cutoff
+1589,edu_f6c63d996d72,โรงเรียนวัดพระยายัง,1417.964,True,within_100m_of_cutoff
+1589,edu_a30169dacb19,โรงเรียนมัธยมวัดมกุฏกษัตริย์,1420.427,True,within_100m_of_cutoff
+1589,edu_5ba30535df71,วัดสุทัศน์,1422.233,True,within_100m_of_cutoff
+1589,edu_662417c5b15e,วัดเลียบราษฎร์บำรุง,1425.6,True,within_100m_of_cutoff
+1589,edu_57b025073af2,วัดมกุฏกษัตริยาราม,1501.725,False,within_100m_of_cutoff
+1589,edu_3568a0fda362,โรงเรียนเบญจมบพิตร,1512.068,False,within_100m_of_cutoff
+1589,edu_9ce5a903e786,วัดดวงแข,1513.472,False,within_100m_of_cutoff
+1589,edu_9d022562ff90,วัดสวัสดิ์วารีสีมาราม,1515.095,False,within_100m_of_cutoff
+1589,edu_0816b42a1752,โรงเรียนวัดสัมพันธวงศ์,1517.779,False,within_100m_of_cutoff
+1589,edu_62d4b0aeb54a,โรงเรียนสวนกุหลาบวิทยาลัย,1532.849,False,within_100m_of_cutoff
+1589,edu_32486feb51c8,วัดดิสานุการาม,1547.646,False,within_100m_of_cutoff
+1589,edu_a52c74da06c1,โรงเรียนไตรมิตรวิทยาลัย,1584.852,False,within_100m_of_cutoff
+1589,edu_2a05d8dd00d2,โรงเรียนวัดดวงแข,1591.707,False,within_100m_of_cutoff
+177,edu_0a594260a27b,โรงเรียนบีคอนเฮาส์ แย้มสอาดลาดพร้าว,1513.332,False,within_100m_of_cutoff
+595,edu_0757e837f320,วัดบางน้ำชน,1436.733,True,within_100m_of_cutoff
+595,edu_5ba30535df71,วัดสุทัศน์,1458.735,True,within_100m_of_cutoff
+595,edu_4bd824bf8a2e,มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์ พื้นที่บพิตรพิมุข จักรวรรดิ,1502.722,False,within_100m_of_cutoff
+595,edu_e68d80ff8428,วิทยาลัยเทคโนโลยีตั้งตรงจิตรพณิชยการ,1538.62,False,within_100m_of_cutoff
+595,edu_bee30bfb1c8d,โรงเรียนวัดโพธินิมิตร,1542.304,False,within_100m_of_cutoff
+595,edu_61e06263f31c,วัดเวฬุราชิณ,1552.947,False,within_100m_of_cutoff
+595,edu_08e770bc3a2e,วิทยาลัยเพาะช่าง มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์,1573.569,False,within_100m_of_cutoff
+595,edu_636bf3234256,โรงเรียนวัดอินทาราม,1577.037,False,within_100m_of_cutoff
+595,edu_1147eee386ca,โรงเรียนวัดราชบพิธ,1598.729,False,within_100m_of_cutoff
+1132,edu_a945b105a0ee,วัดช่องนนทรี,1407.973,True,within_100m_of_cutoff
+1132,edu_0318b6600931,โรงเรียนวัดดอน,1410.323,True,within_100m_of_cutoff
+1132,edu_991d7a137f5d,วัดหัวลำโพง,1416.005,True,within_100m_of_cutoff
+1132,edu_736650370786,สวนลุมพินี,1438.048,True,within_100m_of_cutoff
+1132,edu_9dfe776dfaf3,โรงเรียนวัดปทุมคงคา,1453.882,True,within_100m_of_cutoff
+1132,edu_87e1f169bfd7,โรงเรียนกรุงเทพคริสเตียนวิทยาลัย,1499.221,True,within_100m_of_cutoff
+1132,edu_c816ab956d6a,โรงเรียนนิพัทธ์วิทยา,1528.003,False,within_100m_of_cutoff
+1132,edu_d34f13a46263,โรงเรียนมัธยมปัญญารัตน์,1556.674,False,within_100m_of_cutoff
+1132,edu_5a5d8158ff14,โรงเรียนนานาชาติโชรส์เบอรี กรุงเทพ,1564.205,False,within_100m_of_cutoff
+1132,edu_0816b42a1752,โรงเรียนวัดสัมพันธวงศ์,1599.375,False,within_100m_of_cutoff
+1112,edu_93c03fe90c41,โรงเรียนจิตอาสาพระราชทาน,1409.56,True,within_100m_of_cutoff
+1112,edu_235799625793,โรงเรียนกุนนทีรุทธารามวิทยาคม,1413.438,True,within_100m_of_cutoff
+1112,edu_5c940842097e,สถาบันการบินพลเรือน,1456.249,True,within_100m_of_cutoff
+1112,edu_2001ebdbea9c,สามเสนนอก (ประชาราษฎร์อนุกูล),1520.793,False,within_100m_of_cutoff
+1112,edu_df417866f2f9,โรงเรียนสามเสนนอก,1535.57,False,within_100m_of_cutoff
+1112,edu_7bd55b8ea165,Unnamed school (way/1348158696),1561.449,False,within_100m_of_cutoff
+572,edu_0774d507b572,วัดรัชฎาธิฐาน,1579.814,False,within_100m_of_cutoff
+572,edu_78519881fdf4,โรงเรียนวัดช่างเหล็ก,1581.98,False,within_100m_of_cutoff
+112,edu_235799625793,โรงเรียนกุนนทีรุทธารามวิทยาคม,1401.005,True,within_100m_of_cutoff
+112,edu_397ef81ffcfb,โรงเรียนเตรียมอุดมศึกษาน้อมเกล้ากุนนที,1429.367,True,within_100m_of_cutoff
+112,edu_9dbfe58d8abe,โรงเรียนนานาชาติเซ็นทรัล,1478.291,True,within_100m_of_cutoff
+112,edu_15b240713ea8,โรงเรียนจำนงค์พิทยา,1530.713,False,within_100m_of_cutoff
+1078,edu_a945b105a0ee,วัดช่องนนทรี,1414.861,True,within_100m_of_cutoff
+1078,edu_0318b6600931,โรงเรียนวัดดอน,1417.244,True,within_100m_of_cutoff
+1078,edu_991d7a137f5d,วัดหัวลำโพง,1426.928,True,within_100m_of_cutoff
+1078,edu_736650370786,สวนลุมพินี,1441.059,True,within_100m_of_cutoff
+1078,edu_9dfe776dfaf3,โรงเรียนวัดปทุมคงคา,1456.771,True,within_100m_of_cutoff
+1078,edu_87e1f169bfd7,โรงเรียนกรุงเทพคริสเตียนวิทยาลัย,1511.615,False,within_100m_of_cutoff
+1078,edu_c816ab956d6a,โรงเรียนนิพัทธ์วิทยา,1535.472,False,within_100m_of_cutoff
+1078,edu_5a5d8158ff14,โรงเรียนนานาชาติโชรส์เบอรี กรุงเทพ,1563.234,False,within_100m_of_cutoff
+1078,edu_d34f13a46263,โรงเรียนมัธยมปัญญารัตน์,1569.666,False,within_100m_of_cutoff
+556,edu_a5bb745d1d28,โรงเรียนเศรษฐเสถียร,1410.139,True,within_100m_of_cutoff
+556,edu_63840015075b,โรงเรียนสุโขทัย,1435.59,True,within_100m_of_cutoff
+556,edu_f23ee805d991,วัดราชผาติการาม,1438.082,True,within_100m_of_cutoff
+556,edu_46d91ca03189,Canadian International School of Thailand,1511.799,False,within_100m_of_cutoff
+556,edu_efc5b3bb4b60,โรงเรียนวัดเปาโรหิตย์,1582.41,False,within_100m_of_cutoff
+556,edu_28fd87e24e30,วัดอาวุธวิกสิตาราม,1597.865,False,within_100m_of_cutoff
+363,edu_168ef0901d1c,โรงเรียนกันตะบุตร,1426.604,True,within_100m_of_cutoff
+363,edu_be6ce22c3672,วิทยาลัยเทคโนโลยีวิมล ศรีย่าน,1434.445,True,within_100m_of_cutoff
+363,edu_c26ce0385564,โรงเรียนมัธยมวัดเบญจมบพิตร,1456.554,True,within_100m_of_cutoff
+363,edu_787de12908a7,คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช,1457.68,True,within_100m_of_cutoff
+363,edu_b86d41d32d4a,โรงเรียนสาธิตมหาวิทยาลัยราชภัฏสวนสุนันทา,1464.08,True,within_100m_of_cutoff
+363,edu_8ec93aeafc0f,วิทยาลัยพยาบาลบรมราชชนนี กรุงเทพ,1465.449,True,within_100m_of_cutoff
+363,edu_7c47dc395eab,โรงเรียนราชวินิต,1502.992,False,within_100m_of_cutoff
+363,edu_9d022562ff90,วัดสวัสดิ์วารีสีมาราม,1510.303,False,within_100m_of_cutoff
+363,edu_3568a0fda362,โรงเรียนเบญจมบพิตร,1515.603,False,within_100m_of_cutoff
+363,edu_9283095ee0f6,โรงเรียนเซนต์คาเบรียล,1537.99,False,within_100m_of_cutoff
+363,edu_7aec84080abb,โรงเรียนวัดประชาระบือธรรม,1541.253,False,within_100m_of_cutoff
+363,edu_f128466a42fc,วัดม่วงแค,1542.822,False,within_100m_of_cutoff
+363,edu_e91af67d7c49,วิทยาลัยทันตแพทยศาสตร์นานาชาติ มหาวิทยาลัยวลัยลักษณ์,1544.427,False,within_100m_of_cutoff
+363,edu_33df0ebaf1da,มหาวิทยาลัยมหิดล (วิทยาเขตพญาไท),1562.66,False,within_100m_of_cutoff
+75,edu_cb3c76aab033,โรงเรียนยานนาเวศวิทยาคม,1442.381,True,within_100m_of_cutoff
+75,edu_9925af30143e,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ ยานนาเวศ,1479.152,True,within_100m_of_cutoff
+75,edu_861fb956c795,มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ,1490.045,True,within_100m_of_cutoff
+604,edu_0c1c84c3b906,โรงเรียนอัสสัมชัญศึกษา,1404.371,True,within_100m_of_cutoff
+604,edu_f977be47f658,โรงเรียนโสตศึกษาทุ่งมหาเมฆ,1405.214,True,within_100m_of_cutoff
+604,edu_95d76c138f10,จุฬาลงกรณ์มหาวิทยาลัย,1416.802,True,within_100m_of_cutoff
+604,edu_e88f86b52225,โรงเรียนสตรีวัดมหาพฤฒาราม ในพระบรมราชินู,1443.545,True,within_100m_of_cutoff
+604,edu_3e4b77f567ee,มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ เขตพื้นที่บพิตรพิมุข มหาเมฆ,1457.684,True,within_100m_of_cutoff
+604,edu_915383534128,โรงเรียนคริสต์ศาสนศาสตร์แบ๊บติสต์,1459.366,True,within_100m_of_cutoff
+604,edu_c12be131e1ce,โรงเรียนอัสสัมชัญคอนแวนต์,1508.153,False,within_100m_of_cutoff
+604,edu_506c789ab7eb,โรงเรียนประเสริฐธรรมวิทยา,1568.971,False,within_100m_of_cutoff
+150,edu_048e444ab810,โรงเรียนช่างอากาศอำรุง,1453.867,True,within_100m_of_cutoff
+150,edu_451d04d3e712,โรงเรียนวัดน้อยนพคุณ,1520.289,False,within_100m_of_cutoff
+150,edu_63840015075b,โรงเรียนสุโขทัย,1575.654,False,within_100m_of_cutoff
+150,edu_f23ee805d991,วัดราชผาติการาม,1581.641,False,within_100m_of_cutoff
+432,edu_a33dc7d74a06,โรงเรียนอัสสัมชัญคอนแวนต์ สีลม,1417.578,True,within_100m_of_cutoff
+432,edu_a3fd6639ab43,โรงเรียนสีตบุตรบำรุง,1431.496,True,within_100m_of_cutoff
+432,edu_87e1f169bfd7,โรงเรียนกรุงเทพคริสเตียนวิทยาลัย,1460.44,True,within_100m_of_cutoff
+432,edu_2a05d8dd00d2,โรงเรียนวัดดวงแข,1467.689,True,within_100m_of_cutoff
+432,edu_422b8904c42a,สถาบันดนตรี เคพีเอ็น มิวสิค,1486.672,True,within_100m_of_cutoff
+432,edu_aa34e1b54adb,แบงคอค เอฟ เอ,1502.891,False,within_100m_of_cutoff
+432,edu_32486feb51c8,วัดดิสานุการาม,1511.376,False,within_100m_of_cutoff
+432,edu_efb901138d67,ศูนย์ฝึกอาชีพสวนลุมพินี,1534.337,False,within_100m_of_cutoff
+178,edu_cf025b78b6ee,โรงเรียนโกวิทธำรง,1406.032,True,within_100m_of_cutoff
+178,edu_4f7444c8467b,Maple Bear International School,1510.035,False,within_100m_of_cutoff
+178,edu_caaa49d264a7,โรงเรียนวิชากร กรุงเทพมหานคร,1539.946,False,within_100m_of_cutoff
+178,edu_173c779af7b3,โรงเรียนสันติราษฎร์วิทยาลัย,1557.469,False,within_100m_of_cutoff
+178,edu_f5e48bbfa524,คลองกลันตัน(มีสุวรรณอนุสรณ์),1576.58,False,within_100m_of_cutoff
+178,edu_7359220ce3d6,Tantimedh Kindergarten,1585.526,False,within_100m_of_cutoff
+371,edu_45d82fde99ec,โรงเรียนราชวินิต มัธยม,1410.085,True,within_100m_of_cutoff
+371,edu_46c878b950bc,โรงเรียนวัดชนะสงคราม,1412.406,True,within_100m_of_cutoff
+371,edu_28fd87e24e30,วัดอาวุธวิกสิตาราม,1514.38,False,within_100m_of_cutoff
+371,edu_efc5b3bb4b60,โรงเรียนวัดเปาโรหิตย์,1518.649,False,within_100m_of_cutoff
+371,edu_9f99ae5aab22,วัดไทร,1563.093,False,within_100m_of_cutoff
+371,edu_776f16978cb7,มหาวิทยาลัยมหิดล (เชิงสะพานสมเด็จพระปิ่นเกล้า),1564.871,False,within_100m_of_cutoff
+371,edu_2d55d02703cc,โรงเรียนวัดราชนัดดาราม,1564.974,False,within_100m_of_cutoff
+371,edu_0ac160ba455a,โรงเรียนเขมะสิริอนุสสรณ์,1565.09,False,within_100m_of_cutoff
+371,edu_127338cf51e3,บางยี่ขันวิทยาคม,1578.966,False,within_100m_of_cutoff
+1039,edu_615c4822f2ef,โรงเรียนวัดใหม่อมตรส,1408.041,True,within_100m_of_cutoff
+1039,edu_f6cd94c01541,วัดพระเชตุพน,1419.84,True,within_100m_of_cutoff
+1039,edu_89cc41754ca8,โรงเรียนสายปัญญา ในพระบรมราชินูปถัมภ์,1429.072,True,within_100m_of_cutoff
+1039,edu_8e245a1177d7,โรงเรียนสายปัญญา ในพระราชินูปถัมภ์,1432.564,True,within_100m_of_cutoff
+1039,edu_5011a91ebaef,โรงเรียนวัดจักรวรรดิ,1468.214,True,within_100m_of_cutoff
+1039,edu_6eb51f19e212,โรงเรียนสตรีวรนาถ,1476.879,True,within_100m_of_cutoff
+1039,edu_08d6340a2bef,วัดสระบัว,1493.395,True,within_100m_of_cutoff
+1039,edu_1c35cedc49e3,สถาบันเทคโนโลยีจิตรลดา,1493.626,True,within_100m_of_cutoff
+1039,edu_676a5baf8198,วัดมหาธาตุ,1544.797,False,within_100m_of_cutoff
+233,edu_b062907f3d7b,วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า,1417.136,True,within_100m_of_cutoff
+233,edu_723d46f3dc6a,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์เทเวศร์,1418.628,True,within_100m_of_cutoff
+233,edu_eb14750908ed,โรงเรียนเซนต์ฟรังซีสเซเวียร์,1452.144,True,within_100m_of_cutoff
+233,edu_d7e991db202c,โรงเรียนวัดราชาธิวาส,1468.217,True,within_100m_of_cutoff
+233,edu_366a2eadb866,โรงเรียนเศรษฐเสถียร ในพระราชูปถัมภ์,1505.864,False,within_100m_of_cutoff
+233,edu_a5bb745d1d28,โรงเรียนเศรษฐเสถียร,1511.57,False,within_100m_of_cutoff
+233,edu_5a0358474e62,โรงเรียนทีปังกรวิทยาพัฒน์(วัดโบสถ์),1553.492,False,within_100m_of_cutoff
+233,edu_80c4a66a817b,โรงเรียนโยนออฟอาร์ค,1557.692,False,within_100m_of_cutoff
+233,edu_69caa29e9bff,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์โชติเวช,1567.0,False,within_100m_of_cutoff
+233,edu_95cb93b1e40a,โรงเรียนทีปังกรวิทยาพัฒน์,1572.258,False,within_100m_of_cutoff
+233,edu_326a96094e7f,โรงเรียนอำนวยศิลป์,1582.642,False,within_100m_of_cutoff
+233,edu_787de12908a7,คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช,1593.882,False,within_100m_of_cutoff
+939,edu_17eb519e0058,วัดศรีบุญเรือง,1402.117,True,within_100m_of_cutoff
+630,edu_be6ce22c3672,วิทยาลัยเทคโนโลยีวิมล ศรีย่าน,1464.655,True,within_100m_of_cutoff
+630,edu_5a0358474e62,โรงเรียนทีปังกรวิทยาพัฒน์(วัดโบสถ์),1470.528,True,within_100m_of_cutoff
+630,edu_95cb93b1e40a,โรงเรียนทีปังกรวิทยาพัฒน์,1475.361,True,within_100m_of_cutoff
+630,edu_5b96597f2eff,โรงเรียนอนุบาลสามเสน,1530.945,False,within_100m_of_cutoff
+630,edu_a7b366a077f8,โรงเรียนโยธินบูรณะ,1545.397,False,within_100m_of_cutoff
+630,edu_a5519d244d43,มหาวิทยาลัยสวนดุสิต,1571.027,False,within_100m_of_cutoff
+913,edu_29aa08185130,วัดราชนัดดา,1420.108,True,within_100m_of_cutoff
+913,edu_effe9d2574eb,โรงเรียนซางตาครู้สศึกษา,1445.306,True,within_100m_of_cutoff
+913,edu_0757e837f320,วัดบางน้ำชน,1458.803,True,within_100m_of_cutoff
+913,edu_32486feb51c8,วัดดิสานุการาม,1485.131,True,within_100m_of_cutoff
+913,edu_f63fddbc108f,โรงเรียนสตรีวิทยา,1486.398,True,within_100m_of_cutoff
+913,edu_7774ec6771fb,พิชัยพัฒนา,1512.066,False,within_100m_of_cutoff
+913,edu_dad1fb436279,โรงเรียนวัดประยุรวงศาวาส,1517.995,False,within_100m_of_cutoff
+913,edu_4972640f3082,โรงเรียนวัดบวรนิเวศ,1519.821,False,within_100m_of_cutoff
+913,edu_918c3944a038,โรงเรียนพระตำหนักสวนกุหลาบ,1532.265,False,within_100m_of_cutoff
+913,edu_2a05d8dd00d2,โรงเรียนวัดดวงแข,1540.438,False,within_100m_of_cutoff
+913,edu_be8d83b33055,โรงเรียนซางตาครู้สคอนแวนท์,1562.736,False,within_100m_of_cutoff
+913,edu_4cdd928bef19,โรงเรียนวัดกัลยาณมิตร,1566.553,False,within_100m_of_cutoff
+913,edu_f0c459cebd0c,วัดบุคคโล,1579.281,False,within_100m_of_cutoff
+913,edu_60a6ebbd9d3d,โรงเรียนพิมานวิทย์,1593.252,False,within_100m_of_cutoff
+913,edu_6d208684c043,วิทยาลัยสารพัดช่างสี่พระยา,1598.586,False,within_100m_of_cutoff
+212,edu_ac5a15e2558f,วิทยาลัยอาชีวศึกษาเทคนิควิทยา,1488.648,True,within_100m_of_cutoff
+212,edu_e69f08ed88a5,บางกอกทวิวิทย์ แผนกประถมศึกษาและมัธยมศึกษา,1500.713,False,within_100m_of_cutoff
+212,edu_77a432342e37,ประชาราษฎร์บำเพ็ญ,1583.078,False,within_100m_of_cutoff
+212,edu_79ee7f95c650,โรงเรียนสามัคคีบํารุงวิทยา,1590.098,False,within_100m_of_cutoff
+212,edu_235799625793,โรงเรียนกุนนทีรุทธารามวิทยาคม,1597.89,False,within_100m_of_cutoff
+212,edu_408889e2b582,วิชูทิศ,1598.506,False,within_100m_of_cutoff
+11,edu_326a96094e7f,โรงเรียนอำนวยศิลป์,1491.847,True,within_100m_of_cutoff
+11,edu_35e899de7980,โรงเรียนธำรงวิทย์,1515.039,False,within_100m_of_cutoff
+11,edu_ac054f2acc69,โรงเรียนสวนบัว,1572.179,False,within_100m_of_cutoff
+11,edu_caaa49d264a7,โรงเรียนวิชากร กรุงเทพมหานคร,1574.644,False,within_100m_of_cutoff
+82,edu_610a70ab8d1e,Rasami British International School Bangkok,1436.054,True,within_100m_of_cutoff
+82,edu_9885c869db2c,โรงเรียนพิบูลประชาสรรค์,1442.88,True,within_100m_of_cutoff
+82,edu_23fe267420b2,MORU Epidemiology,1517.571,False,within_100m_of_cutoff
+82,edu_264e916f2289,Siam Singapore International School,1522.464,False,within_100m_of_cutoff
+82,edu_5305d0d65e5c,โรงเรียนพญาไท,1549.187,False,within_100m_of_cutoff
+82,edu_6cd00e7b164e,คณะเวชศาสตร์เขตร้อน มหาวิทยาลัยมหิดล,1595.117,False,within_100m_of_cutoff
+88,edu_c816ab956d6a,โรงเรียนนิพัทธ์วิทยา,1402.355,True,within_100m_of_cutoff
+88,edu_80e22d87c57d,วิทยาลัยเซนต์หลุยส์,1426.506,True,within_100m_of_cutoff
+88,edu_04765156fd0c,โรงเรียนเซนต์หลุยส์ศึกษา,1462.384,True,within_100m_of_cutoff
+88,edu_0318b6600931,โรงเรียนวัดดอน,1536.221,False,within_100m_of_cutoff
+88,edu_a945b105a0ee,วัดช่องนนทรี,1539.767,False,within_100m_of_cutoff
+88,edu_3e4b77f567ee,มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ เขตพื้นที่บพิตรพิมุข มหาเมฆ,1542.838,False,within_100m_of_cutoff
+251,edu_50ae94e69b44,วัดประชาศรัทธาธรรม,1494.471,True,within_100m_of_cutoff
+251,edu_8bb1605a02b7,โรงเรียนนานาชาติบีเอสบีบริติชไพรแมรี่,1506.396,False,within_100m_of_cutoff
+251,edu_006a7f8fef3a,โรงเรียนนิธิปริญญา,1512.493,False,within_100m_of_cutoff
+251,edu_7042913db232,GoodWill Foundation,1516.335,False,within_100m_of_cutoff
+251,edu_9885c869db2c,โรงเรียนพิบูลประชาสรรค์,1543.122,False,within_100m_of_cutoff
+251,edu_545ccbefed3a,หลักสูตรนานาชาติ รร.สาธิต มศว ประสานมิตร(ฝ่ายมัธยม),1547.227,False,within_100m_of_cutoff
+251,edu_949c087848d0,มหาวิทยาลัยศรีนครินทรวิโรฒ ประสานมิตร,1554.349,False,within_100m_of_cutoff
+251,edu_2d568e0b7db0,โรงเรียนวัดปทุมวนาราม,1560.317,False,within_100m_of_cutoff
+135,edu_f92651ad5adf,โรงเรียนหอวัง,1572.674,False,within_100m_of_cutoff
+500,edu_0bb36b8202fe,โรงเรียนดุสิตพาณิชยการ,1411.665,True,within_100m_of_cutoff
+500,edu_aeecae19b468,วิทยาลัยพยาบาลบรมราชชนนี,1483.971,True,within_100m_of_cutoff
+500,edu_1df2fd74c45c,โรงเรียนเตรียมอุดมศึกษา,1535.402,False,within_100m_of_cutoff
+500,edu_264e916f2289,Siam Singapore International School,1539.312,False,within_100m_of_cutoff
+500,edu_006a7f8fef3a,โรงเรียนนิธิปริญญา,1561.455,False,within_100m_of_cutoff
+500,edu_aecded646c06,โรงเรียนกิ่งเพชร,1569.483,False,within_100m_of_cutoff
+500,edu_7dfd694dbfc3,วัดมัชฌันติการาม,1570.391,False,within_100m_of_cutoff
+500,edu_6ef8d5c9b52d,โรงเรียนนานาชาติ อาร์ซี,1575.31,False,within_100m_of_cutoff
+500,edu_8e4e665ae687,The Brain,1584.044,False,within_100m_of_cutoff
+1188,edu_45903cc89d09,โรงเรียนเพลินพัฒนา,1474.31,True,within_100m_of_cutoff
+576,edu_2ee35f89af9c,โรงเรียนพระปริยัติธรรม หอติสสเทวาภิธาน,1472.143,True,within_100m_of_cutoff
+576,edu_61118fc3f3b9,โรงเรียนวัดสิตาราม,1472.289,True,within_100m_of_cutoff
+576,edu_7c47dc395eab,โรงเรียนราชวินิต,1476.54,True,within_100m_of_cutoff
+576,edu_b83c32b4b147,วัดราชบูรณะ,1486.161,True,within_100m_of_cutoff
+576,edu_e5193bd272ac,วัดไทร (ถาวรพรหมานุกูล),1504.73,False,within_100m_of_cutoff
+576,edu_30a4c234c3cc,โรงเรียนวัดสุทัศน์,1506.892,False,within_100m_of_cutoff
+576,edu_df8228c5815f,โรงเรียนวัดสระเกศ,1515.591,False,within_100m_of_cutoff
+576,edu_d7e991db202c,โรงเรียนวัดราชาธิวาส,1562.424,False,within_100m_of_cutoff
+576,edu_b86d41d32d4a,โรงเรียนสาธิตมหาวิทยาลัยราชภัฏสวนสุนันทา,1598.57,False,within_100m_of_cutoff
+228,edu_f6c63d996d72,โรงเรียนวัดพระยายัง,1476.12,True,within_100m_of_cutoff
+228,edu_4bb6f8043215,วิทยาลัยสารพัดช่างธนบุรี,1479.865,True,within_100m_of_cutoff
+228,edu_662417c5b15e,วัดเลียบราษฎร์บำรุง,1483.781,True,within_100m_of_cutoff
+228,edu_bd3b27e1c039,วัดใหญ่ศรีสุพรรณ,1488.981,True,within_100m_of_cutoff
+228,edu_519c93ff5f7e,โรงเรียนวัดทองธรรมชาติ,1494.966,True,within_100m_of_cutoff
+228,edu_ffc4ec4c98ea,โรงเรียนวัดชัยมงคล,1503.566,False,within_100m_of_cutoff
+228,edu_a3a308037c7a,ชูสินทองประดิษฐ์อนุสรณ์,1511.311,False,within_100m_of_cutoff
+228,edu_4972640f3082,โรงเรียนวัดบวรนิเวศ,1533.87,False,within_100m_of_cutoff
+228,edu_f63fddbc108f,โรงเรียนสตรีวิทยา,1533.879,False,within_100m_of_cutoff
+228,edu_b71d142bcfd5,วิทยาลัยเทคโนโลยีพระนครพณิชยการ,1548.724,False,within_100m_of_cutoff
+228,edu_1147eee386ca,โรงเรียนวัดราชบพิธ,1567.996,False,within_100m_of_cutoff
+228,edu_437dd3124272,วัดประชาระบือธรรม,1597.793,False,within_100m_of_cutoff
+228,edu_506c789ab7eb,โรงเรียนประเสริฐธรรมวิทยา,1598.065,False,within_100m_of_cutoff
+179,edu_cf025b78b6ee,โรงเรียนโกวิทธำรง,1409.423,True,within_100m_of_cutoff
+179,edu_4f7444c8467b,Maple Bear International School,1521.158,False,within_100m_of_cutoff
+179,edu_173c779af7b3,โรงเรียนสันติราษฎร์วิทยาลัย,1546.568,False,within_100m_of_cutoff
+179,edu_caaa49d264a7,โรงเรียนวิชากร กรุงเทพมหานคร,1556.972,False,within_100m_of_cutoff
+179,edu_7359220ce3d6,Tantimedh Kindergarten,1578.439,False,within_100m_of_cutoff
+179,edu_f5e48bbfa524,คลองกลันตัน(มีสุวรรณอนุสรณ์),1593.664,False,within_100m_of_cutoff
+250,edu_d471311e6c33,โรงเรียนมักกะสันพิทยา,1434.029,True,within_100m_of_cutoff
+250,edu_7219f6af60e2,สมาคมส่งเสริมเทคโนโลยี (สส่ท),1471.922,True,within_100m_of_cutoff
+250,edu_5762920db026,โรงเรียนนานาชาติไอวี่บาวนด์,1489.548,True,within_100m_of_cutoff
+250,edu_77ab10087290,วัดทองสุทธาราม,1533.284,False,within_100m_of_cutoff
+1076,edu_907abba9e6d2,โรงเรียนประถมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา,1504.139,False,within_100m_of_cutoff
+1076,edu_21bbc87161a5,โรงเรียนวัดสังข์กระจาย (แจ่มวิชาสอน),1525.721,False,within_100m_of_cutoff
+1076,edu_f342c9111752,โรงเรียนสตรีวัดอัปสรสวรรค์,1537.798,False,within_100m_of_cutoff
+1076,edu_4003e666b00e,รร.เกื้อวิทยา,1558.57,False,within_100m_of_cutoff
+1076,edu_c1bf6cf9d60d,โรงเรียนวัดประดู่ในทรงธรรม,1567.963,False,within_100m_of_cutoff
+1076,edu_49b0d2aeb12c,รร.อนุบาลสุวาวรรณ,1573.128,False,within_100m_of_cutoff
+188,edu_861fb956c795,มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ,1458.161,True,within_100m_of_cutoff
+188,edu_f3c623279a55,วิทยาลัยเทคโนโลยีบริหารธุรกิจยานนาวา,1480.334,True,within_100m_of_cutoff
+186,edu_cb3c76aab033,โรงเรียนยานนาเวศวิทยาคม,1419.931,True,within_100m_of_cutoff
+186,edu_9925af30143e,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ ยานนาเวศ,1450.572,True,within_100m_of_cutoff
+186,edu_f87cb566dc61,โรงเรียนนานาชาติคิงส์คอลเลจกรุงเทพ,1559.123,False,within_100m_of_cutoff
+186,edu_32486ffbcd9c,โรงเรียนเปรมฤดีศึกษา,1570.747,False,within_100m_of_cutoff
+186,edu_c3718c315673,โรงเรียนวาสุเทวี,1591.054,False,within_100m_of_cutoff
+1063,edu_b062907f3d7b,วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า,1413.868,True,within_100m_of_cutoff
+1063,edu_723d46f3dc6a,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์เทเวศร์,1422.147,True,within_100m_of_cutoff
+1063,edu_eb14750908ed,โรงเรียนเซนต์ฟรังซีสเซเวียร์,1456.691,True,within_100m_of_cutoff
+1063,edu_d7e991db202c,โรงเรียนวัดราชาธิวาส,1472.511,True,within_100m_of_cutoff
+1063,edu_366a2eadb866,โรงเรียนเศรษฐเสถียร ในพระราชูปถัมภ์,1507.568,False,within_100m_of_cutoff
+1063,edu_a5bb745d1d28,โรงเรียนเศรษฐเสถียร,1513.213,False,within_100m_of_cutoff
+1063,edu_5a0358474e62,โรงเรียนทีปังกรวิทยาพัฒน์(วัดโบสถ์),1557.89,False,within_100m_of_cutoff
+1063,edu_80c4a66a817b,โรงเรียนโยนออฟอาร์ค,1562.284,False,within_100m_of_cutoff
+1063,edu_69caa29e9bff,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์โชติเวช,1570.789,False,within_100m_of_cutoff
+1063,edu_95cb93b1e40a,โรงเรียนทีปังกรวิทยาพัฒน์,1576.655,False,within_100m_of_cutoff
+1063,edu_326a96094e7f,โรงเรียนอำนวยศิลป์,1578.0,False,within_100m_of_cutoff
+1063,edu_787de12908a7,คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช,1598.499,False,within_100m_of_cutoff
+120,edu_2001ebdbea9c,สามเสนนอก (ประชาราษฎร์อนุกูล),1415.752,True,within_100m_of_cutoff
+120,edu_df417866f2f9,โรงเรียนสามเสนนอก,1453.203,True,within_100m_of_cutoff
+414,edu_9dfe776dfaf3,โรงเรียนวัดปทุมคงคา,1454.504,True,within_100m_of_cutoff
+414,edu_736650370786,สวนลุมพินี,1470.166,True,within_100m_of_cutoff
+414,edu_b7a43dc329fa,โรงเรียนวัดดิสานุการาม,1473.553,True,within_100m_of_cutoff
+414,edu_4c4f1798e34e,วัดใหม่อมตรส,1474.487,True,within_100m_of_cutoff
+414,edu_80ef9431bd8d,วัดตลิ่งชัน(ปิ่นทองสัณฐาคาร),1475.915,True,within_100m_of_cutoff
+414,edu_06abbae40040,โรงเรียนวัดราชสิทธาราม,1478.609,True,within_100m_of_cutoff
+414,edu_907abba9e6d2,โรงเรียนประถมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา,1503.895,False,within_100m_of_cutoff
+414,edu_41d879f72f5d,โรงเรียนวัดมหรรณพาราม,1569.053,False,within_100m_of_cutoff
+1060,edu_bd3b27e1c039,วัดใหญ่ศรีสุพรรณ,1411.411,True,within_100m_of_cutoff
+1060,edu_b68dde23d80b,โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย,1415.404,True,within_100m_of_cutoff
+1060,edu_519c93ff5f7e,โรงเรียนวัดทองธรรมชาติ,1415.949,True,within_100m_of_cutoff
+1060,edu_0757e837f320,วัดบางน้ำชน,1419.817,True,within_100m_of_cutoff
+1060,edu_943d8c9c9cd5,โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย ฝ่ายมัธยม,1456.042,True,within_100m_of_cutoff
+1060,edu_4bd824bf8a2e,มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์ พื้นที่บพิตรพิมุข จักรวรรดิ,1464.765,True,within_100m_of_cutoff
+1060,edu_b83c32b4b147,วัดราชบูรณะ,1489.156,True,within_100m_of_cutoff
+1060,edu_aecded646c06,โรงเรียนกิ่งเพชร,1505.355,False,within_100m_of_cutoff
+1060,edu_61118fc3f3b9,โรงเรียนวัดสิตาราม,1515.105,False,within_100m_of_cutoff
+1060,edu_7dfd694dbfc3,วัดมัชฌันติการาม,1522.286,False,within_100m_of_cutoff
+127,edu_7bd55b8ea165,Unnamed school (way/1348158696),1443.114,True,within_100m_of_cutoff
+127,edu_ac6a0752777c,วัดเสมียนนารี,1499.047,True,within_100m_of_cutoff
+127,edu_52190a877fd3,มหาวิทยาลัยเซนต์จอห์น,1520.016,False,within_100m_of_cutoff
+127,edu_4466a04b65b1,Unnamed university (way/121199872),1544.354,False,within_100m_of_cutoff
+277,edu_ac054f2acc69,โรงเรียนสวนบัว,1519.341,False,within_100m_of_cutoff
+277,edu_264e916f2289,Siam Singapore International School,1531.912,False,within_100m_of_cutoff
+277,edu_35e899de7980,โรงเรียนธำรงวิทย์,1541.521,False,within_100m_of_cutoff
+370,edu_46c878b950bc,โรงเรียนวัดชนะสงคราม,1408.986,True,within_100m_of_cutoff
+370,edu_45d82fde99ec,โรงเรียนราชวินิต มัธยม,1432.145,True,within_100m_of_cutoff
+370,edu_28fd87e24e30,วัดอาวุธวิกสิตาราม,1493.396,True,within_100m_of_cutoff
+370,edu_efc5b3bb4b60,โรงเรียนวัดเปาโรหิตย์,1497.764,True,within_100m_of_cutoff
+370,edu_0ac160ba455a,โรงเรียนเขมะสิริอนุสสรณ์,1546.172,False,within_100m_of_cutoff
+370,edu_776f16978cb7,มหาวิทยาลัยมหิดล (เชิงสะพานสมเด็จพระปิ่นเกล้า),1552.661,False,within_100m_of_cutoff
+370,edu_127338cf51e3,บางยี่ขันวิทยาคม,1557.202,False,within_100m_of_cutoff
+370,edu_9f99ae5aab22,วัดไทร,1575.408,False,within_100m_of_cutoff
+370,edu_2d55d02703cc,โรงเรียนวัดราชนัดดาราม,1577.276,False,within_100m_of_cutoff
+619,edu_01ee59265786,สถาบันบัณฑิตบริหารธุรกิจศศินทร์,1473.736,True,within_100m_of_cutoff
+619,edu_991d7a137f5d,วัดหัวลำโพง,1521.224,False,within_100m_of_cutoff
+619,edu_a3ce8ebb321f,สถาบันเกอเธ่,1524.202,False,within_100m_of_cutoff
+619,edu_422b8904c42a,สถาบันดนตรี เคพีเอ็น มิวสิค,1541.036,False,within_100m_of_cutoff
+619,edu_b679ba282bfe,โรงเรียนยุหมินพัฒนา,1560.124,False,within_100m_of_cutoff
+619,edu_506c789ab7eb,โรงเรียนประเสริฐธรรมวิทยา,1560.227,False,within_100m_of_cutoff
+1071,edu_112238a626df,โรงเรียนรุจิเสรีวิทยา,1490.744,True,within_100m_of_cutoff
+256,edu_a064e8064906,โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ ปทุมวัน,1492.336,True,within_100m_of_cutoff
+256,edu_006a7f8fef3a,โรงเรียนนิธิปริญญา,1507.936,False,within_100m_of_cutoff
+256,edu_0bb36b8202fe,โรงเรียนดุสิตพาณิชยการ,1519.748,False,within_100m_of_cutoff
+256,edu_173c779af7b3,โรงเรียนสันติราษฎร์วิทยาลัย,1563.169,False,within_100m_of_cutoff
+395,edu_591e091cc7dd,สถาบันบัณฑิตพัฒนศิลป์,1410.493,True,within_100m_of_cutoff
+395,edu_615c4822f2ef,โรงเรียนวัดใหม่อมตรส,1463.003,True,within_100m_of_cutoff
+395,edu_b46385d1cae1,โรงเรียนวัดโสมนัส,1471.421,True,within_100m_of_cutoff
+395,edu_f6cd94c01541,วัดพระเชตุพน,1474.108,True,within_100m_of_cutoff
+395,edu_93ca3a3e036c,โรงเรียนวัดสังเวช,1477.233,True,within_100m_of_cutoff
+395,edu_4c32f7fb6025,Baanchao Yoga,1485.261,True,within_100m_of_cutoff
+395,edu_5d6c24cc6e55,โรงเรียนเผยอิง,1490.841,True,within_100m_of_cutoff
+395,edu_a30169dacb19,โรงเรียนมัธยมวัดมกุฏกษัตริย์,1568.688,False,within_100m_of_cutoff
+1028,edu_451d04d3e712,โรงเรียนวัดน้อยนพคุณ,1425.605,True,within_100m_of_cutoff
+1028,edu_a5bb745d1d28,โรงเรียนเศรษฐเสถียร,1484.36,True,within_100m_of_cutoff
+1028,edu_366a2eadb866,โรงเรียนเศรษฐเสถียร ในพระราชูปถัมภ์,1492.372,True,within_100m_of_cutoff
+1028,edu_168ef0901d1c,โรงเรียนกันตะบุตร,1543.73,False,within_100m_of_cutoff
+569,edu_e5193bd272ac,วัดไทร (ถาวรพรหมานุกูล),1401.232,True,within_100m_of_cutoff
+569,edu_30a4c234c3cc,โรงเรียนวัดสุทัศน์,1403.229,True,within_100m_of_cutoff
+569,edu_4c32f7fb6025,Baanchao Yoga,1432.83,True,within_100m_of_cutoff
+569,edu_5c475fe88f5e,วัดมหรรณพาราม ในพระราชูปถัมภ์สมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี,1435.787,True,within_100m_of_cutoff
+569,edu_2ee35f89af9c,โรงเรียนพระปริยัติธรรม หอติสสเทวาภิธาน,1450.109,True,within_100m_of_cutoff
+569,edu_69caa29e9bff,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์โชติเวช,1462.548,True,within_100m_of_cutoff
+569,edu_b86d41d32d4a,โรงเรียนสาธิตมหาวิทยาลัยราชภัฏสวนสุนันทา,1497.616,True,within_100m_of_cutoff
+569,edu_c2e2e5bbef8d,โรงเรียนวัดเทวราชกุญชร,1587.655,False,within_100m_of_cutoff
+569,edu_b18b851a03b5,วัดแก้วแจ่มฟ้า,1587.917,False,within_100m_of_cutoff
+411,edu_127338cf51e3,บางยี่ขันวิทยาคม,1433.879,True,within_100m_of_cutoff
+411,edu_1fcf0885c3e3,โรงเรียนวัดบวรมงคล,1510.043,False,within_100m_of_cutoff
+411,edu_430b50c70860,โรงเรียนโฆสิตสโมสร,1512.254,False,within_100m_of_cutoff
+411,edu_a4c95320124c,วัดบางขุนเทียนนอก,1514.315,False,within_100m_of_cutoff
+411,edu_46d91ca03189,Canadian International School of Thailand,1519.66,False,within_100m_of_cutoff
+411,edu_79e5060f2895,โรงเรียนสตรีวัดระฆัง,1562.737,False,within_100m_of_cutoff
+411,edu_ebd730f472cb,โรงเรียนทิวไผ่งาม,1567.138,False,within_100m_of_cutoff
+411,edu_5208333601a0,โรงเรียนเบญจมราชาลัย ในพระราชอุปถัมภ์,1572.058,False,within_100m_of_cutoff
+411,edu_5c475fe88f5e,วัดมหรรณพาราม ในพระราชูปถัมภ์สมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี,1580.457,False,within_100m_of_cutoff
+411,edu_7c365f4a76ff,โรงเรียนเบญจมราชาลัย,1581.96,False,within_100m_of_cutoff
+176,edu_0a594260a27b,โรงเรียนบีคอนเฮาส์ แย้มสอาดลาดพร้าว,1477.92,True,within_100m_of_cutoff
+139,edu_ee0fb22b458c,มหาวิทยาลัยราชภัฏจันทรเกษม,1574.586,False,within_100m_of_cutoff
+230,edu_9071743d8437,โรงเรียนวัดสวัสดิ์วารีสีมาราม,1451.853,True,within_100m_of_cutoff
+230,edu_b36ca87dfeca,วัดมหาพฤฒาราม,1455.569,True,within_100m_of_cutoff
+230,edu_cc40895fe901,โรงเรียนราชินีบน,1500.282,False,within_100m_of_cutoff
+230,edu_b5baad97372b,วัดเบญจมบพิตร,1523.773,False,within_100m_of_cutoff
+230,edu_47f21f1a04e2,Unnamed school (way/1418628953),1579.669,False,within_100m_of_cutoff
+1368,edu_f63fddbc108f,โรงเรียนสตรีวิทยา,1454.274,True,within_100m_of_cutoff
+1368,edu_7303f0b1cfcd,วัดพระพิเรนทร์,1464.797,True,within_100m_of_cutoff
+1368,edu_a754ae1fc4c5,มหาวิทยาลัยราชภัฏสวนสุนันทา,1468.084,True,within_100m_of_cutoff
+1368,edu_f6c63d996d72,โรงเรียนวัดพระยายัง,1512.91,False,within_100m_of_cutoff
+1368,edu_662417c5b15e,วัดเลียบราษฎร์บำรุง,1516.129,False,within_100m_of_cutoff
+1368,edu_c3fb687a40b7,โรงเรียนวชิราวุธวิทยาลัย,1525.847,False,within_100m_of_cutoff
+1368,edu_69caa29e9bff,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์โชติเวช,1538.626,False,within_100m_of_cutoff
+1368,edu_a5519d244d43,มหาวิทยาลัยสวนดุสิต,1571.867,False,within_100m_of_cutoff
+1368,edu_326a96094e7f,โรงเรียนอำนวยศิลป์,1580.685,False,within_100m_of_cutoff
+412,edu_127338cf51e3,บางยี่ขันวิทยาคม,1433.185,True,within_100m_of_cutoff
+412,edu_1fcf0885c3e3,โรงเรียนวัดบวรมงคล,1509.027,False,within_100m_of_cutoff
+412,edu_430b50c70860,โรงเรียนโฆสิตสโมสร,1513.804,False,within_100m_of_cutoff
+412,edu_a4c95320124c,วัดบางขุนเทียนนอก,1515.784,False,within_100m_of_cutoff
+412,edu_46d91ca03189,Canadian International School of Thailand,1518.421,False,within_100m_of_cutoff
+412,edu_79e5060f2895,โรงเรียนสตรีวัดระฆัง,1564.273,False,within_100m_of_cutoff
+412,edu_ebd730f472cb,โรงเรียนทิวไผ่งาม,1566.062,False,within_100m_of_cutoff
+412,edu_5208333601a0,โรงเรียนเบญจมราชาลัย ในพระราชอุปถัมภ์,1572.478,False,within_100m_of_cutoff
+412,edu_5c475fe88f5e,วัดมหรรณพาราม ในพระราชูปถัมภ์สมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี,1581.168,False,within_100m_of_cutoff
+412,edu_7c365f4a76ff,โรงเรียนเบญจมราชาลัย,1582.368,False,within_100m_of_cutoff
+119,edu_2001ebdbea9c,สามเสนนอก (ประชาราษฎร์อนุกูล),1406.784,True,within_100m_of_cutoff
+119,edu_df417866f2f9,โรงเรียนสามเสนนอก,1444.039,True,within_100m_of_cutoff
+118,edu_2001ebdbea9c,สามเสนนอก (ประชาราษฎร์อนุกูล),1409.564,True,within_100m_of_cutoff
+118,edu_df417866f2f9,โรงเรียนสามเสนนอก,1446.701,True,within_100m_of_cutoff
+68,edu_b46385d1cae1,โรงเรียนวัดโสมนัส,1406.154,True,within_100m_of_cutoff
+68,edu_9dfe776dfaf3,โรงเรียนวัดปทุมคงคา,1424.387,True,within_100m_of_cutoff
+68,edu_1147eee386ca,โรงเรียนวัดราชบพิธ,1424.486,True,within_100m_of_cutoff
+68,edu_48e0d2b004b0,วัดลาดบัวขาว,1433.201,True,within_100m_of_cutoff
+68,edu_990a182267a8,โรงเรียนมหาวีรานุวัตร,1436.731,True,within_100m_of_cutoff
+68,edu_736650370786,สวนลุมพินี,1444.398,True,within_100m_of_cutoff
+68,edu_32486feb51c8,วัดดิสานุการาม,1470.402,True,within_100m_of_cutoff
+68,edu_437dd3124272,วัดประชาระบือธรรม,1506.583,False,within_100m_of_cutoff
+68,edu_2a05d8dd00d2,โรงเรียนวัดดวงแข,1520.698,False,within_100m_of_cutoff
+68,edu_78d3d9cc0b60,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร,1550.437,False,within_100m_of_cutoff
+68,edu_f6c63d996d72,โรงเรียนวัดพระยายัง,1597.084,False,within_100m_of_cutoff
+196,edu_e5e8e64bb017,โรงเรียนนานาชาติเครซเซนต์,1478.897,True,within_100m_of_cutoff
+196,edu_0c736bc72c5f,โรงเรียนสารสาสน์พิทยา,1543.48,False,within_100m_of_cutoff
+194,edu_04765156fd0c,โรงเรียนเซนต์หลุยส์ศึกษา,1409.456,True,within_100m_of_cutoff
+194,edu_360f6ecb6f85,โรงเรียนนานาชาติการ์เด้น,1437.906,True,within_100m_of_cutoff
+194,edu_85c01291a38f,โรงเรียนสวนลุมพินี,1450.933,True,within_100m_of_cutoff
+194,edu_1105e8632673,วัดคณิกาผล,1451.026,True,within_100m_of_cutoff
+194,edu_87e1f169bfd7,โรงเรียนกรุงเทพคริสเตียนวิทยาลัย,1467.759,True,within_100m_of_cutoff
+194,edu_a33dc7d74a06,โรงเรียนอัสสัมชัญคอนแวนต์ สีลม,1544.202,False,within_100m_of_cutoff
+194,edu_6dafa6d39233,Royal Symphony Music,1552.891,False,within_100m_of_cutoff
+194,edu_35a28e07ddf0,โรงเรียนปลูกจิต,1586.816,False,within_100m_of_cutoff
+211,edu_f5e48bbfa524,คลองกลันตัน(มีสุวรรณอนุสรณ์),1405.874,True,within_100m_of_cutoff
+211,edu_caaa49d264a7,โรงเรียนวิชากร กรุงเทพมหานคร,1428.517,True,within_100m_of_cutoff
+211,edu_649f36e3bd58,วิทยาลัยเทคโนโลยีดอนบอสโก,1461.874,True,within_100m_of_cutoff
+211,edu_6af047e6c9a1,วัดศรีนวลธรรมวิมล,1501.114,False,within_100m_of_cutoff
+211,edu_5b1cba739c20,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ รัชดา,1504.611,False,within_100m_of_cutoff
+211,edu_18dd6205cc06,Samsen Nok School,1535.848,False,within_100m_of_cutoff
+211,edu_fa1c8441b980,Shrewsbury International School City Campus,1576.832,False,within_100m_of_cutoff
+1362,edu_a0cfe990dbb5,โรงเรียนสวนมิสกวัน,1417.806,True,within_100m_of_cutoff
+1362,edu_9071743d8437,โรงเรียนวัดสวัสดิ์วารีสีมาราม,1461.721,True,within_100m_of_cutoff
+1362,edu_b36ca87dfeca,วัดมหาพฤฒาราม,1466.168,True,within_100m_of_cutoff
+1362,edu_47f21f1a04e2,Unnamed school (way/1418628953),1466.598,True,within_100m_of_cutoff
+1362,edu_7aec84080abb,โรงเรียนวัดประชาระบือธรรม,1541.348,False,within_100m_of_cutoff
+1362,edu_f128466a42fc,วัดม่วงแค,1543.015,False,within_100m_of_cutoff
+239,edu_991d7a137f5d,วัดหัวลำโพง,1435.393,True,within_100m_of_cutoff
+239,edu_8a0baf2ab67e,โรงเรียนมาแตร์เดอีวิทยาลัย,1458.554,True,within_100m_of_cutoff
+239,edu_b8041a80c9ef,วัดสิตาราม,1527.527,False,within_100m_of_cutoff
+239,edu_efb901138d67,ศูนย์ฝึกอาชีพสวนลุมพินี,1592.667,False,within_100m_of_cutoff
+215,edu_78d7dc4d6773,วิทยาลัยอาชีวศึกษาพณิชยการจำนงค์,1411.763,True,within_100m_of_cutoff
+215,edu_cdddf2d0d6d8,โรงเรียนจันทร์หุ่นบำเพ็ญ,1448.765,True,within_100m_of_cutoff
+215,edu_78e880a2e344,มหาวิทยาลัยหอการค้าไทย,1578.05,False,within_100m_of_cutoff
+36,edu_68e9c0ff9eb6,โรงเรียนสุภาคมศึกษา,1482.552,True,within_100m_of_cutoff
+36,edu_0f067d49d8df,วัดประดิษฐาราม,1484.722,True,within_100m_of_cutoff
+36,edu_b6b05727efb1,โรงเรียนวัดเวฬุราชิณ,1521.645,False,within_100m_of_cutoff
+36,edu_0d288cd00855,โรงเรียนวัดนวลนรดิศ,1546.037,False,within_100m_of_cutoff
+938,edu_06649761594d,โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง (ฝ่ายมัธยม),1493.904,True,within_100m_of_cutoff
+938,edu_f965f65c2618,วิทยาลัยพาณิชการอินทราชัย,1545.483,False,within_100m_of_cutoff
+938,edu_b84adf289eb6,วิจิตรวิทยา,1552.838,False,within_100m_of_cutoff
+938,edu_e1b339092e04,ไขศรีปราโมชอนุสรณ์,1565.62,False,within_100m_of_cutoff
+938,edu_9f18e7abee8a,โรงเรียนเทพลีลา,1592.441,False,within_100m_of_cutoff
+599,edu_2219bc41aba9,โรงเรียนวัดหัวลำโพง,1412.978,True,within_100m_of_cutoff
+599,edu_42455a5425e9,ปลูกจิต,1426.755,True,within_100m_of_cutoff
+599,edu_485bc057f9f3,โรงเรียนทุ่งมหาเมฆ,1538.907,False,within_100m_of_cutoff
+546,edu_f63fddbc108f,โรงเรียนสตรีวิทยา,1450.131,True,within_100m_of_cutoff
+546,edu_a754ae1fc4c5,มหาวิทยาลัยราชภัฏสวนสุนันทา,1463.995,True,within_100m_of_cutoff
+546,edu_7303f0b1cfcd,วัดพระพิเรนทร์,1469.413,True,within_100m_of_cutoff
+546,edu_f6c63d996d72,โรงเรียนวัดพระยายัง,1517.96,False,within_100m_of_cutoff
+546,edu_662417c5b15e,วัดเลียบราษฎร์บำรุง,1521.193,False,within_100m_of_cutoff
+546,edu_c3fb687a40b7,โรงเรียนวชิราวุธวิทยาลัย,1525.483,False,within_100m_of_cutoff
+546,edu_69caa29e9bff,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์โชติเวช,1533.084,False,within_100m_of_cutoff
+546,edu_a5519d244d43,มหาวิทยาลัยสวนดุสิต,1568.879,False,within_100m_of_cutoff
+546,edu_326a96094e7f,โรงเรียนอำนวยศิลป์,1586.442,False,within_100m_of_cutoff
+170,edu_34bc0c5eb076,วิทยาลัยป้องกันราชอาณาจักร,1417.869,True,within_100m_of_cutoff
+1815,edu_fa1c8441b980,Shrewsbury International School City Campus,1428.72,True,within_100m_of_cutoff
+1815,edu_46076d5c0e5a,รร. สาธิต มศว ประสานมิตร (ฝ่ายมัธยม),1462.535,True,within_100m_of_cutoff
+1815,edu_bda85982da4b,Anglo Singapore International School,1465.411,True,within_100m_of_cutoff
+1815,edu_f45268039df2,โรงเรียนนานาชาติโมเดิร์น,1476.504,True,within_100m_of_cutoff
+1815,edu_79ee7f95c650,โรงเรียนสามัคคีบํารุงวิทยา,1485.472,True,within_100m_of_cutoff
+1815,edu_d471311e6c33,โรงเรียนมักกะสันพิทยา,1513.959,False,within_100m_of_cutoff
+1815,edu_78d7dc4d6773,วิทยาลัยอาชีวศึกษาพณิชยการจำนงค์,1526.369,False,within_100m_of_cutoff
+1815,edu_408889e2b582,วิชูทิศ,1553.492,False,within_100m_of_cutoff

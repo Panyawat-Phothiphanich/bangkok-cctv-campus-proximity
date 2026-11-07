@@ -1,0 +1,1251 @@
+﻿institution_id,source,source_id,source_file,source_url,source_year,latitude,longitude,institution_name
+edu_622e11fe9724,OBEC,10022007,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.78726428409098,100.90515489840264,โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) 4
+edu_8751c4329079,OBEC,10022035,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.90171090951537,100.74107885025504,โรงเรียนนวมินทราชินูทิศ สตรีวิทยา 2
+edu_16cdc7915d02,OBEC,10032019,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.528265961059027,100.41805979887852,โรงเรียนพิทยาลงกรณ์พิทยาคม
+edu_1e8753440ebd,OBEC,10032039,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.645607192609503,100.34603146112184,โรงเรียนนวลนรดิศวิทยาคม รัช6งคลาภิเษก
+edu_11a76d13cb08,OBEC,10022010,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.746220250646704,100.75790248635026,โรงเรียนเทพศิรินทร์ร่มเกล้า
+edu_d97f0fd732aa,OBEC,10022009,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.725964353504349,100.78534581725488,โรงเรียนพรตพิทยพยัต
+edu_b60a9283f1f1,OBEC,10032021,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.582125731769436,100.41979323320456,โรงเรียนทวีธาภิเศก บางขุนเทียน
+edu_86e4114e2308,OBEC,10032027,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.67545361490895,100.33922541413789,โรงเรียนมัธยมวัดหนองแขม(สหราษฎร์บูรณะ)
+edu_ae08e6484076,OBEC,10022004,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.854288399883728,100.86029671518506,โรงเรียนมัธยมวัดหนองจอก
+edu_38bd3f10cf5b,OBEC,10022034,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.890869807824805,100.693686675232,โรงเรียนนวมินทราชินูทิศ เบญจมราชาลัย
+edu_077fc6e7e62d,OBEC,10022029,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.744777909739168,100.69507248046034,โรงเรียนศรีพฤฒา
+edu_7907a49131f3,OBEC,10032035,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.773564938695122,100.35556453540968,โรงเรียนนวมินทราชินูทิศสตรีวิทยา พุทธมณฑ
+edu_b09399183b8a,OBEC,10032034,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.750469330765885,100.34881879735434,โรงเรียนทีปังกรวิทยาพัฒน์ (ทวีวัฒนา)
+edu_eaba6cf6a232,OBEC,10032038,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.633579374333484,100.3647548362483,โรงเรียนศึกษานารีวิทยา
+edu_03da6c13fe41,OBEC,10022003,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.813888778394452,100.73333685166608,โรงเรียนสตรีเศรษฐบุตรบำเพ็ญ
+edu_4e29d0412c82,OBEC,10020007,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.891357604042364,100.64623966365797,โรงเรียนไทยรัฐวิทยา 75 เฉลิมพระเกียรติ
+edu_0fe5185fd841,OBEC,10022001,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.87119272470189,100.64474040326256,โรงเรียนรัตนโกสินทร์สมโภช บางเขน
+edu_8bfcfa14e947,OBEC,10022008,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.794312779421745,100.62579706893156,โรงเรียนมัธยมวัดบึงทองหลาง
+edu_8bfcfa14e947,OSM,way/1216274732,data/reference/osm_education.json,https://www.openstreetmap.org/way/1216274732,,13.79424,100.6262798,โรงเรียนมัธยมวัดบึงทองหลาง
+edu_a7bb8c0c609d,OBEC,10022019,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.682257606055126,100.67924823526216,โรงเรียนราชดำริ
+edu_562e937a7ead,OBEC,10032031,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.809948009181475,100.51337892390362,โรงเรียนวิมุตยารามพิทยากร
+edu_562e937a7ead,OSM,way/477559466,data/reference/osm_education.json,https://www.openstreetmap.org/way/477559466,,13.810132,100.5132336,โรงเรียนวิมุตยารามพิทยากร
+edu_9c4e722df218,OBEC,10012021,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.694582925852226,100.59067562729952,โรงเรียนพระโขนงพิทยาลัย
+edu_9c4e722df218,OSM,node/12279532669,data/reference/osm_education.json,https://www.openstreetmap.org/node/12279532669,,13.6952529,100.5915429,โรงเรียนพระโขนงพิทยาลัย
+edu_b2d094511fee,OBEC,10012023,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.706709233842291,100.54667482791466,โรงเรียนนนทรีวิทยา
+edu_b2d094511fee,OSM,way/198801994,data/reference/osm_education.json,https://www.openstreetmap.org/way/198801994,,13.7070942,100.5467449,โรงเรียนนนทรีวิทยา
+edu_f5a3ea7cb1b8,OBEC,10032009,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.767885724598534,100.42712234809356,โรงเรียนโพธิสารพิทยากร
+edu_f5a3ea7cb1b8,OSM,way/1461884224,data/reference/osm_education.json,https://www.openstreetmap.org/way/1461884224,,13.7679264,100.4277063,โรงเรียนโพธิสารพิทยากร
+edu_ade4f039270b,OBEC,10032036,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.650865979880177,100.47473533515644,โรงเรียนวัดพุทธบูชา
+edu_ec6db4164830,OBEC,10032020,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.646313941000525,100.42000052631604,โรงเรียนรัตนโกสินทร์สมโภชบางขุนเทียน
+edu_ae037cea0d62,OBEC,10022006,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.814405692278743,100.71403680652914,โรงเรียนเศรษฐบุตรบำเพ็ญ
+edu_60dece71319e,OBEC,10022027,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.906493289494245,100.61938761201944,โรงเรียนฤทธิยะวรรณาลัย
+edu_bbc33add26dd,OBEC,10022014,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.829240152364454,100.65070034923647,โรงเรียนนวมินทราชูทิศ กรุงเทพมหานคร
+edu_bbc33add26dd,OSM,way/1474041254,data/reference/osm_education.json,https://www.openstreetmap.org/way/1474041254,,13.8291535,100.6512313,โรงเรียนนวมินทราชูทิศ กรุงเทพมหานคร
+edu_b3b35b60fbae,OBEC,10022024,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.845831390876876,100.60438365609892,โรงเรียนลาดปลาเค้าพิทยาคม
+edu_b3b35b60fbae,OSM,way/1524942233,data/reference/osm_education.json,https://www.openstreetmap.org/way/1524942233,,13.8456778,100.6044251,โรงเรียนลาดปลาเค้าพิทยาคม
+edu_d0f18bb187c3,OBEC,10022025,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.825798175591272,100.61670958616293,โรงเรียนสตรีวิทยา 2
+edu_d0f18bb187c3,OSM,way/1390451750,data/reference/osm_education.json,https://www.openstreetmap.org/way/1390451750,,13.8273784,100.6155816,โรงเรียนสตรีวิทยา 2
+edu_f8a9d7ba32d9,OBEC,10022030,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.784790783156778,100.69185317430184,โรงเรียนเตรียมอุดมศึกษาน้อมเกล้า
+edu_cb760abaef91,OBEC,10022031,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.7555749475461,100.68046580814148,โรงเรียนนวมินทราชินูทิศ เตรียมอุดมศึกษาน
+edu_a866e5b20a51,OBEC,10022032,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.767377143506664,100.615194334081,โรงเรียนบดินทรเดชา  (สิงห์ สิงหเสนี)
+edu_a866e5b20a51,OSM,way/562122686,data/reference/osm_education.json,https://www.openstreetmap.org/way/562122686,,13.768606,100.615196,โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี)
+edu_c40d47589e33,OBEC,10020008,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.764562238013609,100.609405583028,โรงเรียนพระยาประเสริฐสุนทราศรัย
+edu_9f18e7abee8a,OBEC,10022005,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.75867971736941,100.61526425944577,โรงเรียนเทพลีลา
+edu_9f18e7abee8a,OSM,way/390637286,data/reference/osm_education.json,https://www.openstreetmap.org/way/390637286,,13.7583454,100.6154379,โรงเรียนเทพลีลา
+edu_c1942b2949fc,OBEC,10022020,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.7294200902567,100.64666443181396,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ
+edu_c1942b2949fc,OSM,way/274287224,data/reference/osm_education.json,https://www.openstreetmap.org/way/274287224,,13.7292131,100.6463765,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ
+edu_2d7296ab8b1b,OBEC,10020005,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.67706919393336,100.65857211484452,โรงเรียนบ้านหนองบอน (นัยนานนท์อนุสรณ์)
+edu_29b3c7f6a52c,OBEC,10020006,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.713900014409283,100.60717672754924,โรงเรียนวัดมหาบุศย์ (พิทักษ์ถาวรคุณ)
+edu_da54e33e9fb9,OBEC,10022023,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.914889946937514,100.59277061264646,โรงเรียนดอนเมืองจาตุรจินดา
+edu_5f81a214406c,OBEC,10022018,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.851120424312787,100.58438203195333,โรงเรียนสารวิทยา
+edu_f92651ad5adf,OBEC,10022017,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.819632717283142,100.55928673929776,โรงเรียนหอวัง
+edu_f92651ad5adf,OSM,way/208501778,data/reference/osm_education.json,https://www.openstreetmap.org/way/208501778,,13.8187811,100.560922,โรงเรียนหอวัง
+edu_9b9a3cd62322,OBEC,10012027,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.776086307274984,100.55567146801422,โรงเรียนสุรศักดิ์มนตรี
+edu_9b9a3cd62322,OSM,way/606076667,data/reference/osm_education.json,https://www.openstreetmap.org/way/606076667,,13.7753011,100.5556257,โรงเรียนสุรศักดิ์มนตรี
+edu_4d57d77b1a41,OBEC,10020001,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.749580125147618,100.56958172104434,โรงเรียนวัดอุทัยธาราม
+edu_4d57d77b1a41,OSM,node/12282629875,data/reference/osm_education.json,https://www.openstreetmap.org/node/12282629875,,13.7497172,100.5694573,โรงเรียนวัดอุทัยธาราม
+edu_d471311e6c33,OBEC,10012041,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.749106942523747,100.55271589297692,โรงเรียนมักกะสันพิทยา
+edu_d471311e6c33,OSM,way/1560093908,data/reference/osm_education.json,https://www.openstreetmap.org/way/1560093908,,13.7488694,100.5524545,โรงเรียนมักกะสันพิทยา
+edu_5b96597f2eff,OBEC,10010012,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.788764514139656,100.53742981284186,โรงเรียนอนุบาลสามเสน
+edu_5b96597f2eff,OSM,way/865358412,data/reference/osm_education.json,https://www.openstreetmap.org/way/865358412,,13.7886268,100.5375986,โรงเรียนอนุบาลสามเสน
+edu_bddf6990aed1,OBEC,10012026,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.784561701324543,100.53367487363536,โรงเรียนสามเสนวิทยาลัย
+edu_bddf6990aed1,OSM,way/300621950,data/reference/osm_education.json,https://www.openstreetmap.org/way/300621950,,13.7845984,100.5334395,โรงเรียนสามเสนวิทยาลัย
+edu_d7e991db202c,OBEC,10012005,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.774875494194704,100.50445623286636,โรงเรียนวัดราชาธิวาส
+edu_d7e991db202c,OSM,way/536283154,data/reference/osm_education.json,https://www.openstreetmap.org/way/536283154,,13.7747548,100.5045767,โรงเรียนวัดราชาธิวาส
+edu_4ba920b4f5cb,OBEC,10012024,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.67343107925791,100.53587875636404,โรงเรียนเจ้าพระยาวิทยาคม
+edu_4ba920b4f5cb,OSM,way/1353397379,data/reference/osm_education.json,https://www.openstreetmap.org/way/1353397379,,13.6725812,100.5353647,โรงเรียนเจ้าพระยาวิทยาคม
+edu_be0a57f7d23d,OBEC,10010009,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.67244124740342,100.54065206856386,โรงเรียนวัดด่าน
+edu_c203aaa64c1f,OBEC,10032029,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.675364881125144,100.51892127138971,โรงเรียนแจงร้อนวิทยา
+edu_c203aaa64c1f,OSM,node/975843246,data/reference/osm_education.json,https://www.openstreetmap.org/node/975843246,,13.6753442,100.5189278,โรงเรียนแจงร้อนวิทยา
+edu_7bcd8c9c7379,OBEC,10032017,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.775075809299144,100.47208816101713,โรงเรียนมัธยมวัดนายโรง
+edu_7bcd8c9c7379,OSM,way/1347945766,data/reference/osm_education.json,https://www.openstreetmap.org/way/1347945766,,13.7753547,100.4722972,โรงเรียนมัธยมวัดนายโรง
+edu_b5e170608e0b,OBEC,10032006,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.791872342194557,100.46572595007154,โรงเรียนทีปังกรวิทยาพัฒน์(วัดน้อยใน)
+edu_0c30c9ea40eb,OBEC,10032012,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.777812338043084,100.44650989244197,โรงเรียนมหรรณพาราม
+edu_a10660081bea,OBEC,10032025,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.735440834388651,100.43331104896508,โรงเรียนไชยฉิมพลีวิทยาคม
+edu_a10660081bea,OSM,way/1347119076,data/reference/osm_education.json,https://www.openstreetmap.org/way/1347119076,,13.7354734,100.4333142,โรงเรียนไชยฉิมพลีวิทยาคม
+edu_c7ef1e43c5cd,OBEC,10032042,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.681099760695307,100.4652749155719,โรงเรียนบางมดวิทยา(สีสุกหวาดจวนอุปถัมภ์)
+edu_1f9ec95841f9,OBEC,10032040,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.685101137220457,100.4462909445219,โรงเรียนมัธยมวัดสิงห์
+edu_1f9ec95841f9,OSM,way/1198081638,data/reference/osm_education.json,https://www.openstreetmap.org/way/1198081638,,13.6843912,100.4470897,โรงเรียนมัธยมวัดสิงห์
+edu_8dfb0221d472,OBEC,10030009,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.716272818662844,100.42239171760303,โรงเรียนราชวินิตประถมบางแค
+edu_8dfb0221d472,OSM,node/2084120768,data/reference/osm_education.json,https://www.openstreetmap.org/node/2084120768,,13.7161064,100.4224367,โรงเรียนราชวินิตประถมบางแค
+edu_d9ac6152c426,OBEC,10022021,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.931339646430445,100.60586745140591,โรงเรียนดอนเมืองทหารอากาศบำรุง
+edu_06ff310d8a18,OBEC,10022022,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.9245206151736,100.59414095287694,โรงเรียนสีกัน (วัฒนานันท์อุปถัมภ์)
+edu_17eeaf9c0cb3,OBEC,10022015,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.814448528569873,100.65533590897908,โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี)2
+edu_17eeaf9c0cb3,OSM,relation/20160704,data/reference/osm_education.json,https://www.openstreetmap.org/relation/20160704,,13.8144542,100.6557626,โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) 2
+edu_6469d9c8e719,OBEC,10022011,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.759399561105695,100.73064143904982,โรงเรียนรัตนโกสินทร์สมโภชลาดกระบัง
+edu_2ae2ecbc2219,OBEC,10022002,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.771440710938036,100.65150400306966,โรงเรียนบางกะปิ
+edu_2ae2ecbc2219,OSM,way/31141099,data/reference/osm_education.json,https://www.openstreetmap.org/way/31141099,,13.7709681,100.6510901,โรงเรียนบางกะปิ
+edu_ad24191416ea,OBEC,10022033,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.79180697180045,100.60595051066517,โรงเรียนนวมินทราชินูทิศ บดินทรเดชา
+edu_ad24191416ea,OSM,way/1377349937,data/reference/osm_education.json,https://www.openstreetmap.org/way/1377349937,,13.791612,100.6060763,โรงเรียนนวมินทราชินูทิศ บดินทรเดชา
+edu_4b73925f5dfe,OBEC,10012022,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.6912968134354,100.63301799569358,โรงเรียนวชิรธรรมสาธิต
+edu_4b73925f5dfe,OSM,way/1315379859,data/reference/osm_education.json,https://www.openstreetmap.org/way/1315379859,,13.6916254,100.6333679,โรงเรียนวชิรธรรมสาธิต
+edu_74c6b288ece7,OBEC,10010018,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.720666307307456,100.5928456465247,โรงเรียนอนุบาลพิบูลเวศม์
+edu_47d1ed309d33,OBEC,10012043,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.67577691370412,100.62446370530353,โรงเรียนสิริรัตนาธร
+edu_47d1ed309d33,OSM,way/316211936,data/reference/osm_education.json,https://www.openstreetmap.org/way/316211936,,13.6756058,100.6243109,โรงเรียนสิริรัตนาธร
+edu_cab4a109ffde,OBEC,10022026,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.858458711207888,100.55446336512604,โรงเรียนราชวินิตบางเขน
+edu_ba3d037cb9f2,OBEC,10012035,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.833454896402822,100.52916251100515,โรงเรียนโยธินบูรณะ2(สุวรรณสุทธาราม)
+edu_ba3d037cb9f2,OSM,way/1434322100,data/reference/osm_education.json,https://www.openstreetmap.org/way/1434322100,,13.8336293,100.5291615,โรงเรียนโยธินบูรณะ 2 (สุวรรณสุทธาราม)
+edu_56eb0d02a756,OBEC,10020003,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.79702491374703,100.5884155948088,โรงเรียนพิบูลอุปถัมภ์
+edu_cdddf2d0d6d8,OBEC,10022012,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.779279429201315,100.58488879918649,โรงเรียนจันทร์หุ่นบำเพ็ญ
+edu_cdddf2d0d6d8,OSM,way/1422846357,data/reference/osm_education.json,https://www.openstreetmap.org/way/1422846357,,13.7797287,100.5850666,โรงเรียนจันทร์หุ่นบำเพ็ญ
+edu_397ef81ffcfb,OBEC,10012028,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.782316966058488,100.57244431707277,โรงเรียนเตรียมอุดมศึกษาน้อมเกล้ากุนนที
+edu_5b1cba739c20,OBEC,10022013,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.773066447055331,100.5743421510959,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ รัชดา
+edu_5b1cba739c20,OSM,way/274287223,data/reference/osm_education.json,https://www.openstreetmap.org/way/274287223,,13.7729296,100.5747047,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ รัชดา
+edu_9885c869db2c,OBEC,10012029,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.76366949454069,100.55017384317811,โรงเรียนพิบูลประชาสรรค์
+edu_9885c869db2c,OSM,way/605778962,data/reference/osm_education.json,https://www.openstreetmap.org/way/605778962,,13.7628882,100.5514513,โรงเรียนพิบูลประชาสรรค์
+edu_a7b366a077f8,OBEC,10012008,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.79667428723142,100.5203654145807,โรงเรียนโยธินบูรณะ
+edu_451d04d3e712,OBEC,10012011,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.784450232538704,100.5205377421289,โรงเรียนวัดน้อยนพคุณ
+edu_451d04d3e712,OSM,way/1423249267,data/reference/osm_education.json,https://www.openstreetmap.org/way/1423249267,,13.7842821,100.5208899,โรงเรียนวัดน้อยนพคุณ
+edu_366a2eadb866,OBEC,10012016,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.782000192368994,100.52271648596738,โรงเรียนเศรษฐเสถียร ในพระราชูปถัมภ์
+edu_5a0358474e62,OBEC,10010005,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.78231082628012,100.51082445403226,โรงเรียนทีปังกรวิทยาพัฒน์(วัดโบสถ์)
+edu_173c779af7b3,OBEC,10012040,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.757988124510767,100.53246978763322,โรงเรียนสันติราษฎร์วิทยาลัย
+edu_173c779af7b3,OSM,way/863188688,data/reference/osm_education.json,https://www.openstreetmap.org/way/863188688,,13.7580267,100.5325207,โรงเรียนสันติราษฎร์วิทยาลัย
+edu_a1c6801f09a1,OBEC,10012039,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.758375790180994,100.53882155362533,โรงเรียนศรีอยุธยา ในพระอุปถัมภ์ฯ
+edu_a30169dacb19,OBEC,10012014,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.764662766180184,100.50747123205204,โรงเรียนมัธยมวัดมกุฏกษัตริย์
+edu_a30169dacb19,OSM,way/203053776,data/reference/osm_education.json,https://www.openstreetmap.org/way/203053776,,13.7642131,100.5079095,โรงเรียนมัธยมวัดมกุฎกษัตริย์
+edu_c26ce0385564,OBEC,10012002,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.765937003760609,100.51272232303556,โรงเรียนมัธยมวัดเบญจมบพิตร
+edu_c26ce0385564,OSM,way/348422628,data/reference/osm_education.json,https://www.openstreetmap.org/way/348422628,,13.7659764,100.512699,โรงเรียนมัธยมวัดเบญจมบพิตร
+edu_45d82fde99ec,OBEC,10012013,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.762553028881715,100.51476605088382,โรงเรียนราชวินิต มัธยม
+edu_45d82fde99ec,OSM,way/349019456,data/reference/osm_education.json,https://www.openstreetmap.org/way/349019456,,13.762938,100.5147196,โรงเรียนราชวินิต มัธยม
+edu_7c47dc395eab,OBEC,10010004,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.77190165500912,100.5075906113447,โรงเรียนราชวินิต
+edu_7c47dc395eab,OSM,relation/19401911,data/reference/osm_education.json,https://www.openstreetmap.org/relation/19401911,,13.7716644,100.5081753,โรงเรียนราชวินิต
+edu_93ca3a3e036c,OBEC,10012015,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.764170790560842,100.49702519582058,โรงเรียนวัดสังเวช
+edu_93ca3a3e036c,OSM,way/342454536,data/reference/osm_education.json,https://www.openstreetmap.org/way/342454536,,13.7639615,100.4971553,โรงเรียนวัดสังเวช
+edu_1ea31e7cdc47,OBEC,10012042,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.720621226677556,100.58559843218914,โรงเรียนมัธยมวัดธาตุทอง
+edu_9c7e46b840b6,OBEC,10010016,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.718367879220336,100.58316151768727,โรงเรียนดาราคาม
+edu_fffb2e30876a,OBEC,10012037,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.718187556824123,100.58124303611766,โรงเรียนปทุมคงคา
+edu_dd5969159da7,OBEC,10010015,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.727923985678986,100.56543354144162,โรงเรียนสายน้ำทิพย์
+edu_dd5969159da7,OSM,way/1388177710,data/reference/osm_education.json,https://www.openstreetmap.org/way/1388177710,,13.7277116,100.5655589,โรงเรียนสายน้ำทิพย์
+edu_115be3479663,OBEC,10012038,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.72716830174056,100.56414191485456,โรงเรียนสายน้ำผึ้ง ในพระอุปถัมภ์ฯ
+edu_90f09ca424ec,OBEC,10010008,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.712653172364208,100.5523615261665,โรงเรียนประถมนนทรี
+edu_90f09ca424ec,OSM,way/53272498,data/reference/osm_education.json,https://www.openstreetmap.org/way/53272498,,13.7128459,100.5520114,โรงเรียนประถมนนทรี
+edu_f977be47f658,OBEC,10012033,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.715880993948009,100.5351368186908,โรงเรียนโสตศึกษาทุ่งมหาเมฆ
+edu_f977be47f658,OSM,way/1217309542,data/reference/osm_education.json,https://www.openstreetmap.org/way/1217309542,,13.7160149,100.5352013,โรงเรียนโสตศึกษาทุ่งมหาเมฆ
+edu_b1512a768efa,OBEC,10032028,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.683598066102295,100.49452313755047,โรงเรียนบางปะกอกวิทยาคม
+edu_b1512a768efa,OSM,way/1332793303,data/reference/osm_education.json,https://www.openstreetmap.org/way/1332793303,,13.6835151,100.4945861,โรงเรียนบางปะกอกวิทยาคม
+edu_842ec1270d36,OBEC,10032016,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.763215931975797,100.48903545275654,โรงเรียนมัธยมวัดดุสิตาราม
+edu_842ec1270d36,OSM,way/1327294269,data/reference/osm_education.json,https://www.openstreetmap.org/way/1327294269,,13.7632012,100.4890329,โรงเรียนมัธยมวัดดุสิตาราม
+edu_430b50c70860,OBEC,10030008,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.75314486342688,100.48544972798868,โรงเรียนโฆสิตสโมสร
+edu_430b50c70860,OSM,way/1550073328,data/reference/osm_education.json,https://www.openstreetmap.org/way/1550073328,,13.7532124,100.4855124,โรงเรียนโฆสิตสโมสร
+edu_72992dd463c4,OBEC,10030007,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.759151941965726,100.48332852742278,โรงเรียนวัดอมรินทราราม
+edu_72992dd463c4,OSM,way/1347945762,data/reference/osm_education.json,https://www.openstreetmap.org/way/1347945762,,13.7590298,100.4832263,โรงเรียนวัดอมรินทราราม
+edu_080b0659940f,OBEC,10030005,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.74469043288464,100.48786482262304,โรงเรียนประถมทวีธาภิเศก
+edu_79e5060f2895,OBEC,10032014,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.751871023701758,100.48630955023212,โรงเรียนสตรีวัดระฆัง
+edu_79e5060f2895,OSM,way/1481947312,data/reference/osm_education.json,https://www.openstreetmap.org/way/1481947312,,13.7519886,100.4863006,โรงเรียนสตรีวัดระฆัง
+edu_a9460b8ae995,OBEC,10032002,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.74570652522259,100.48265971399468,โรงเรียนทวีธาภิเศก
+edu_a9460b8ae995,OSM,way/342346817,data/reference/osm_education.json,https://www.openstreetmap.org/way/342346817,,13.7451321,100.4826973,โรงเรียนทวีธาภิเศก
+edu_918c3944a038,OBEC,10010003,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.748067269992816,100.4917473186676,โรงเรียนพระตำหนักสวนกุหลาบ
+edu_a6212a93eecc,OBEC,10032011,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.74519369719947,100.4586175357,โรงเรียนอุบลรัตนราชกัญญาราชวิทยาลัย
+edu_c76b335ac1d9,OBEC,10032007,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.695318675531302,100.48756360007695,โรงเรียนมัธยมวัดดาวคนอง
+edu_0d288cd00855,OBEC,10032022,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.723836389098109,100.46682548660507,โรงเรียนวัดนวลนรดิศ
+edu_0d288cd00855,OSM,node/3130732034,data/reference/osm_education.json,https://www.openstreetmap.org/node/3130732034,,13.723874,100.4668454,โรงเรียนวัดนวลนรดิศ
+edu_e0a999db609d,OBEC,10030010,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.717310841338396,100.46627390399388,โรงเรียนวัดนาคปรก
+edu_ff845af22fbc,OBEC,10030011,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.704355596303028,100.46545314397684,โรงเรียนวัดหนัง
+edu_ff845af22fbc,OSM,way/1509428850,data/reference/osm_education.json,https://www.openstreetmap.org/way/1509428850,,13.7044258,100.4651463,โรงเรียนวัดหนัง
+edu_2cbaa9b40ce2,OBEC,10030012,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.704160676860978,100.46704425617996,โรงเรียนอนุบาลวัดนางนอง
+edu_2283bf925fbe,OBEC,10032041,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.702865558838562,100.4636379492,โรงเรียนวัดราชโอรส
+edu_2283bf925fbe,OSM,way/225005042,data/reference/osm_education.json,https://www.openstreetmap.org/way/225005042,,13.7024659,100.4626587,โรงเรียนวัดราชโอรส
+edu_505325648374,OBEC,10032026,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.7166146533703,100.44257995663664,โรงเรียนจันทร์ประดิษฐารามวิทยาคม
+edu_fdfd432c144e,OBEC,10032023,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.711035260779306,100.43935736057604,โรงเรียนวัดรางบัว
+edu_fdfd432c144e,OSM,node/4382354720,data/reference/osm_education.json,https://www.openstreetmap.org/node/4382354720,,13.7114056,100.4396354,โรงเรียนวัดรางบัว
+edu_21a7c6713fa5,OBEC,10032037,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.637991412681254,100.50225642495649,โรงเรียนอิสลามวิทยาลัยแห่งประเทศไทย
+edu_985702a2bbfe,OBEC,10032033,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.723355453173962,100.37884544609048,โรงเรียนราชวินิตบางแคปานขำ
+edu_160d05dd4767,OBEC,10032032,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.693248468280055,100.39222736544478,โรงเรียนปัญญาวรคุณ
+edu_160d05dd4767,OSM,way/975725181,data/reference/osm_education.json,https://www.openstreetmap.org/way/975725181,,13.6931875,100.3922108,โรงเรียนปัญญาวรคุณ
+edu_58362802502b,OBEC,10012034,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.816930996539153,100.52893389105192,โรงเรียนศีลาจารพิพัฒน์
+edu_485080e553dc,OBEC,10010014,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.81666749365746,100.52965281610848,โรงเรียนวัดเวตวันธรรมาวาส
+edu_5305d0d65e5c,OBEC,10010017,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.759651360911276,100.52897008971054,โรงเรียนพญาไท
+edu_5305d0d65e5c,OSM,way/1279023361,data/reference/osm_education.json,https://www.openstreetmap.org/way/1279023361,,13.7595524,100.5288628,โรงเรียนพญาไท
+edu_1df2fd74c45c,OBEC,10012017,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.740406391786117,100.53081597213192,โรงเรียนเตรียมอุดมศึกษา
+edu_1df2fd74c45c,OSM,node/7314493762,data/reference/osm_education.json,https://www.openstreetmap.org/node/7314493762,,13.7402438,100.5300702,โรงเรียนเตรียมอุดมศึกษา
+edu_1df2fd74c45c,OSM,way/31971262,data/reference/osm_education.json,https://www.openstreetmap.org/way/31971262,,13.7408819,100.532578,โรงเรียนเตรียมอุดมศึกษา
+edu_3211771ff80c,OBEC,10012006,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.730567051962,100.52935118734628,โรงเรียนพุทธจักรวิทยา
+edu_3211771ff80c,OSM,way/737051307,data/reference/osm_education.json,https://www.openstreetmap.org/way/737051307,,13.7306635,100.5295646,โรงเรียนพุทธจักรวิทยา
+edu_b46385d1cae1,OBEC,10010007,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.761498371899805,100.51089639468074,โรงเรียนวัดโสมนัส
+edu_b46385d1cae1,OSM,way/333223514,data/reference/osm_education.json,https://www.openstreetmap.org/way/333223514,,13.7612191,100.5111243,โรงเรียนวัดโสมนัส
+edu_df8228c5815f,OBEC,10012018,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.753242163314155,100.5089122120765,โรงเรียนวัดสระเกศ
+edu_df8228c5815f,OSM,relation/19197396,data/reference/osm_education.json,https://www.openstreetmap.org/relation/19197396,,13.7532044,100.5089955,โรงเรียนวัดสระเกศ
+edu_4972640f3082,OBEC,10012009,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.758793918884972,100.50192354606114,โรงเรียนวัดบวรนิเวศ
+edu_4972640f3082,OSM,way/634315725,data/reference/osm_education.json,https://www.openstreetmap.org/way/634315725,,13.7588647,100.5017207,โรงเรียนวัดบวรนิเวศ
+edu_f63fddbc108f,OBEC,10012001,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.758196115616176,100.50101670122108,โรงเรียนสตรีวิทยา
+edu_f63fddbc108f,OSM,way/629247737,data/reference/osm_education.json,https://www.openstreetmap.org/way/629247737,,13.7578933,100.5011406,โรงเรียนสตรีวิทยา
+edu_46c878b950bc,OBEC,10010001,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.760224898967142,100.49492600667809,โรงเรียนวัดชนะสงคราม
+edu_46c878b950bc,OSM,way/1517464368,data/reference/osm_education.json,https://www.openstreetmap.org/way/1517464368,,13.7600017,100.4950135,โรงเรียนวัดชนะสงคราม
+edu_595a76bbb10b,OBEC,10012019,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.747410786338452,100.516186751078,โรงเรียนเทพศิรินทร์
+edu_595a76bbb10b,OSM,way/333223515,data/reference/osm_education.json,https://www.openstreetmap.org/way/333223515,,13.7467549,100.5156352,โรงเรียนเทพศิรินทร์
+edu_8e245a1177d7,OBEC,10012020,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.74321560250396,100.5151868873058,โรงเรียนสายปัญญา ในพระราชินูปถัมภ์
+edu_a52c74da06c1,OBEC,10012025,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.738538547687332,100.51379826495597,โรงเรียนไตรมิตรวิทยาลัย
+edu_a52c74da06c1,OSM,way/1365347011,data/reference/osm_education.json,https://www.openstreetmap.org/way/1365347011,,13.7387255,100.5139626,โรงเรียนไตรมิตรวิทยาลัย
+edu_1147eee386ca,OBEC,10012010,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.745124654117763,100.49506458775492,โรงเรียนวัดราชบพิธ
+edu_1147eee386ca,OSM,way/349610925,data/reference/osm_education.json,https://www.openstreetmap.org/way/349610925,,13.744293,100.4953136,โรงเรียนวัดราชบพิธ
+edu_62d4b0aeb54a,OBEC,10012004,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.742857965925594,100.49820163631895,โรงเรียนสวนกุหลาบวิทยาลัย
+edu_62d4b0aeb54a,OSM,way/349647339,data/reference/osm_education.json,https://www.openstreetmap.org/way/349647339,,13.7428666,100.497977,โรงเรียนสวนกุหลาบวิทยาลัย
+edu_dad1fb436279,OBEC,10030001,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.737117755188532,100.49472270582667,โรงเรียนวัดประยุรวงศาวาส
+edu_dad1fb436279,OSM,node/12506857264,data/reference/osm_education.json,https://www.openstreetmap.org/node/12506857264,,13.7372317,100.4946676,โรงเรียนวัดประยุรวงศาวาส
+edu_0afabf4f410f,OBEC,10032001,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.735109236256315,100.49538858201494,โรงเรียนศึกษานารี
+edu_0afabf4f410f,OSM,way/1194911652,data/reference/osm_education.json,https://www.openstreetmap.org/way/1194911652,,13.73496,100.4954676,โรงเรียนศึกษานารี
+edu_485bc057f9f3,OBEC,10010013,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.714043096807805,100.53004089602756,โรงเรียนทุ่งมหาเมฆ
+edu_485bc057f9f3,OSM,way/295204806,data/reference/osm_education.json,https://www.openstreetmap.org/way/295204806,,13.7140841,100.5301287,โรงเรียนทุ่งมหาเมฆ
+edu_cb3c76aab033,OBEC,10012031,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.70320182419326,100.52822610121557,โรงเรียนยานนาเวศวิทยาคม
+edu_e8aec697abca,OBEC,10012032,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.715430086751326,100.5156599373154,โรงเรียนสตรีศรีสุริโยทัย
+edu_e8aec697abca,OSM,way/1229757068,data/reference/osm_education.json,https://www.openstreetmap.org/way/1229757068,,13.7153384,100.515834,โรงเรียนสตรีศรีสุริโยทัย
+edu_1aa6754a5c8f,OBEC,10012030,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.71279941850833,100.51189790866952,โรงเรียนวัดสุทธิวราราม
+edu_1aa6754a5c8f,OSM,way/332853805,data/reference/osm_education.json,https://www.openstreetmap.org/way/332853805,,13.7127958,100.5118748,โรงเรียนวัดสุทธิวราราม
+edu_1fcf0885c3e3,OBEC,10032030,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.776711497559806,100.49371784786618,โรงเรียนวัดบวรมงคล
+edu_1fcf0885c3e3,OSM,way/1350308445,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350308445,,13.7767622,100.4937987,โรงเรียนวัดบวรมงคล
+edu_d8d70bf5dcbb,OBEC,10032015,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.76240211519015,100.47580441805336,โรงเรียนสุวรรณารามวิทยาคม
+edu_d8d70bf5dcbb,OSM,way/1020489668,data/reference/osm_education.json,https://www.openstreetmap.org/way/1020489668,,13.7626819,100.4759532,โรงเรียนสุวรรณารามวิทยาคม
+edu_8b52bf28add6,OBEC,10030004,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.740369925538984,100.48664258828684,โรงเรียนวัดหงส์รัตนาราม
+edu_21bbc87161a5,OBEC,10030003,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.73197640126673,100.48568009464188,โรงเรียนวัดสังข์กระจาย (แจ่มวิชาสอน)
+edu_fdb18204d901,OBEC,10032018,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.751656262134386,100.47575122321412,โรงเรียนสวนอนันต์
+edu_fdb18204d901,OSM,way/1498980290,data/reference/osm_education.json,https://www.openstreetmap.org/way/1498980290,,13.7514968,100.4756493,โรงเรียนสวนอนันต์
+edu_4d661ded8d5e,OBEC,10032013,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.748222605291598,100.47887272816207,โรงเรียนชิโนรสวิทยาลัย
+edu_4d661ded8d5e,OSM,way/1498976984,data/reference/osm_education.json,https://www.openstreetmap.org/way/1498976984,,13.7480294,100.4787821,โรงเรียนชิโนรสวิทยาลัย
+edu_058be2cc245c,OBEC,10030002,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.736919265667332,100.4724847970643,โรงเรียนวัดเจ้ามูล
+edu_058be2cc245c,OSM,node/12468584300,data/reference/osm_education.json,https://www.openstreetmap.org/node/12468584300,,13.7368528,100.4725457,โรงเรียนวัดเจ้ามูล
+edu_636bf3234256,OBEC,10032004,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.72275543663078,100.48270089760318,โรงเรียนวัดอินทาราม
+edu_636bf3234256,OSM,way/1352128449,data/reference/osm_education.json,https://www.openstreetmap.org/way/1352128449,,13.7227921,100.4825786,โรงเรียนวัดอินทาราม
+edu_d3b8f2d69136,OBEC,10032008,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.730259915085991,100.48553191187273,โรงเรียนฤทธิณรงค์รอน
+edu_d3b8f2d69136,OSM,way/1569163816,data/reference/osm_education.json,https://www.openstreetmap.org/way/1569163816,,13.7305057,100.4851507,โรงเรียนฤทธิณรงค์รอน
+edu_c1bf6cf9d60d,OBEC,10032005,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.724813131625911,100.47086331816185,โรงเรียนวัดประดู่ในทรงธรรม
+edu_5208333601a0,OBEC,10012012,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.750954925532712,100.5022108571432,โรงเรียนเบญจมราชาลัย ในพระราชอุปถัมภ์
+edu_d6856dae5637,OBEC,10010011,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.744065404251977,100.50557085729578,โรงเรียนวัดชัยชนะสงคราม (วัดตึก)
+edu_88acbd03388b,OBEC,10010002,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.757604946987318,100.5055452493708,โรงเรียนอนุบาลวัดปรินายก
+edu_c225d3666536,OBEC,10010006,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.746070551906564,100.51243424952504,โรงเรียนวัดพลับพลาชัย
+edu_c225d3666536,OSM,way/634921797,data/reference/osm_education.json,https://www.openstreetmap.org/way/634921797,,13.7457428,100.513131,โรงเรียนวัดพลับพลาชัย
+edu_990a182267a8,OBEC,10010010,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.738168890036553,100.51432912443867,โรงเรียนมหาวีรานุวัตร
+edu_990a182267a8,OSM,way/1365347012,data/reference/osm_education.json,https://www.openstreetmap.org/way/1365347012,,13.7381829,100.5142848,โรงเรียนมหาวีรานุวัตร
+edu_fe6f0aa4217a,OBEC,10012036,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.816013345945752,100.54158496807992,โรงเรียนราชนันทาจารย์  สามเสนวิทยาลัย2
+edu_e88f86b52225,OBEC,10012003,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.73249523402978,100.51602154431676,โรงเรียนสตรีวัดมหาพฤฒาราม ในพระบรมราชินู
+edu_fb53b123999d,OBEC,10022028,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.91375153661935,100.6253009065485,โรงเรียนฤทธิยะวรรณาลัย 2
+edu_f342c9111752,OBEC,10032024,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.72101825966024,100.46980551892858,โรงเรียนสตรีวัดอัปสรสวรรค์
+edu_f342c9111752,OSM,way/1473571303,data/reference/osm_education.json,https://www.openstreetmap.org/way/1473571303,,13.7210195,100.4697836,โรงเรียนสตรีวัดอัปสรสวรรค์
+edu_489ff93e456c,OBEC,10032010,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.721543810652545,100.4754908574541,โรงเรียนธนบุรีวรเทพีพลารักษ์
+edu_489ff93e456c,OSM,way/1352128456,data/reference/osm_education.json,https://www.openstreetmap.org/way/1352128456,,13.7213061,100.4754913,โรงเรียนธนบุรีวรเทพีพลารักษ์
+edu_78519881fdf4,OBEC,10030006,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.773690480917123,100.45414113958164,โรงเรียนวัดช่างเหล็ก
+edu_bcb819a4eb0b,OBEC,10032003,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.75578881309188,100.44877152298456,โรงเรียนสุวรรณพลับพลาพิทยาคม
+edu_bcb819a4eb0b,OSM,way/1463391059,data/reference/osm_education.json,https://www.openstreetmap.org/way/1463391059,,13.7560101,100.4486366,โรงเรียนสุวรรณพลับพลาพิทยาคม
+edu_a1e3ad617bae,OBEC,10020004,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.85680104594817,100.58517960134763,โรงเรียนบางบัว (เพ่งตั้งตรงจิตรวิทยาคาร)
+edu_36826fc38b9c,OBEC,10022016,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.78711176286867,100.66822174453394,โรงเรียนสุขุมนวพันธ์อุปถัมภ์
+edu_96d121d6a58d,OBEC,10032043,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.626368658221953,100.45432787608785,โรงเรียนสวนกุหลาบวิทยาลัย ธนบุรี
+edu_b9f06d699b59,OBEC,10022041,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.777005097073172,100.76400634671388,โรงเรียนเตรียมอุดมศึกษาพัฒนาการสุวรรณภูม
+edu_2001c288aad6,OBEC,10022039,data/raw/webscraping/data/school_coordinates.csv,https://data.go.th/en/dataset/schooladdress,,13.793669459909102,100.86011792150256,โรงเรียนเตรียมอุดมศึกษา สุวินทวงศ์
+edu_57b025073af2,BMA,3110010101,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76534096,100.50697743,วัดมกุฏกษัตริยาราม
+edu_5f1dac4ce5a3,BMA,3110010102,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75565975,100.49109202,วัดตรีทศเทพ
+edu_29aa08185130,BMA,3110010103,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7462726,100.49257876,วัดราชนัดดา
+edu_5c475fe88f5e,BMA,3110010104,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7497043377457,100.499553020356,วัดมหรรณพาราม ในพระราชูปถัมภ์สมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี
+edu_5ba30535df71,BMA,3110010105,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.743074,100.499389,วัดสุทัศน์
+edu_676a5baf8198,BMA,3110010106,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76684935,100.50228153,วัดมหาธาตุ
+edu_f6cd94c01541,BMA,3110010107,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.764954,100.501451999999,วัดพระเชตุพน
+edu_6ae47064b6b7,BMA,3110010108,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74757944,100.5056184,ราชบพิธ
+edu_b83c32b4b147,BMA,3110010109,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7551331,100.5100049,วัดราชบูรณะ
+edu_4f7b4d974897,BMA,3110010110,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7446084,100.509934299999,วัดอินทรวิหาร
+edu_4c4f1798e34e,BMA,3110010111,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7489993,100.508114299999,วัดใหม่อมตรส
+edu_7303f0b1cfcd,BMA,3110010201,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75173514,100.52020365,วัดพระพิเรนทร์
+edu_b8041a80c9ef,BMA,3110010202,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7477868,100.5183269,วัดสิตาราม
+edu_1105e8632673,BMA,3110010203,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7330303,100.545360899999,วัดคณิกาผล
+edu_32486feb51c8,BMA,3110010204,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.742097,100.518969999999,วัดดิสานุการาม
+edu_fca8c05809c7,BMA,3110010301,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72849607,100.54996538,วัดบรมนิวาส
+edu_562106684393,BMA,3110020302,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74660209,100.53613237,วัดชัยมงคล
+edu_a606559e8663,BMA,3110020303,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8219627182244,100.517586879618,วัดปทุมวนาราม ในพระราชูปถัมภ์สมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี
+edu_08d6340a2bef,BMA,3110010305,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74266531,100.50367456,วัดสระบัว
+edu_736650370786,BMA,3110010306,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7367496,100.511064799999,สวนลุมพินี
+edu_9ce5a903e786,BMA,3110010308,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73836422,100.50952158,วัดดวงแข
+edu_42455a5425e9,BMA,3110010309,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7321360210467,100.528627393806,ปลูกจิต
+edu_6bea9bdb48e5,BMA,3110010401,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72623976,100.51514154,วัดจักรวรรดิ์
+edu_422c26d4347e,BMA,3110010402,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73219265,100.51708911,วัดปทุมคงคา
+edu_2bcdce5b324e,BMA,3110010403,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72199138,100.51583371,วัดสัมพันธวงศ์
+edu_991d7a137f5d,BMA,3110010501,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73178073,100.51949747,วัดหัวลำโพง
+edu_f128466a42fc,BMA,3110010502,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78970097,100.52513151,วัดม่วงแค
+edu_b36ca87dfeca,BMA,3110010503,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78077706,100.51566179,วัดมหาพฤฒาราม
+edu_d50cd85f0df5,BMA,3110010504,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7804882,100.5046131,วัดสวนพลู
+edu_b18b851a03b5,BMA,3110010505,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77300882,100.5016567,วัดแก้วแจ่มฟ้า
+edu_437dd3124272,BMA,3110010601,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75981525,100.51631116,วัดประชาระบือธรรม
+edu_9d022562ff90,BMA,3110010602,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.764756,100.51368,วัดสวัสดิ์วารีสีมาราม
+edu_f23ee805d991,BMA,3110010603,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77627325,100.52217933,วัดราชผาติการาม
+edu_940ac2986c6f,BMA,3110010604,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79100729,100.5152942,วัดเทวราชกุญชร
+edu_c8d772937440,BMA,3110010605,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79877306,100.53305527,วัดสัมณานัมบริหาร
+edu_b5baad97372b,BMA,3110010606,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80126861,100.52371503,วัดเบญจมบพิตร
+edu_78d42c702df8,BMA,3110010607,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80885663,100.51971705,สุโขทัย
+edu_d1d6cece3b62,BMA,3110010608,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.81345236,100.5176873,วัดจันทรสโมสร
+edu_80a982014b0d,BMA,3110010609,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.83286268,100.52980654,วัดธรรมาภิรตาราม
+edu_c9504cdad349,BMA,3110010701,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.82872613,100.5212826,วัดประดู่ธรรมาธิปัตย์
+edu_75223626a6bd,BMA,3110010702,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8183855,100.519085599999,วัดบางโพโอมาวาส
+edu_5b5a46aab8a5,BMA,3110010703,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79628923,100.54828929,วัดสร้อยทอง
+edu_77ab10087290,BMA,3110010704,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74872122,100.55178535,วัดทองสุทธาราม
+edu_7dfd694dbfc3,BMA,3110020705,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.751674,100.526591699999,วัดมัชฌันติการาม
+edu_662417c5b15e,BMA,3110010706,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75238,100.522052,วัดเลียบราษฎร์บำรุง
+edu_50ae94e69b44,BMA,3110010707,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7608603154396,100.54354470209,วัดประชาศรัทธาธรรม
+edu_5b115319bccf,BMA,3110010801,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.68312391,100.5260321,วัดไผ่ตัน
+edu_e9e4bb44971a,BMA,3110020901,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6833316,100.60376691,กิ่งเพชร
+edu_078b4b7dd1a2,BMA,3110010902,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70441561,100.54594951,วัดดิสหงสาราม
+edu_c65b6425e9b8,BMA,3110010903,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6935551,100.544536399999,วัดพระยายัง
+edu_65731e69fbcd,BMA,3110010904,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.673088,100.533333999999,วัดทัศนารุณสุนทริการาม
+edu_fc43e492b367,BMA,3110011001,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6778401,100.543732299999,วัดดอกไม้
+edu_78426c1928f8,BMA,3110011002,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.68077326,100.54868818,วัดช่องลม
+edu_a945b105a0ee,BMA,3110011003,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71379093,100.51694001,วัดช่องนนทรี
+edu_3e9087d3fb35,BMA,3110011004,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71771093,100.51283025,วัดปริวาศ
+edu_87ac745c1a56,BMA,3110011005,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70127271,100.52346857,วัดคลองใหม่
+edu_795424c61e96,BMA,3110011006,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7053406978902,100.505359650802,วัดคลองภูมิ
+edu_2c99e4732326,BMA,3110011101,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7007298,100.4972025,วัดดอน
+edu_3adcdc014948,BMA,3110011102,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69023558,100.51818013,วัดยานนาวา
+edu_a62321edb40b,BMA,3110011201,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69012526,100.50155636,วัดไผ่เงินโชตนาราม
+edu_2e1adac3e8bc,BMA,3110011202,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.68729518,100.51203319,วัดราชสิงขร
+edu_48e0d2b004b0,BMA,3110011203,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76148646,100.50327889,วัดลาดบัวขาว
+edu_9f99ae5aab22,BMA,3110011204,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7554528,100.50383146,วัดไทร
+edu_11d84a72c952,BMA,3110011205,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69530072,100.50388235,วัดจันทร์นอก
+edu_3728821325d2,BMA,3110011206,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69644413,100.59555162,วัดบางโคล่นอก
+edu_6b82adde0c7a,BMA,3110011207,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70251253,100.6222929,วัดจันทร์ใน
+edu_1795d29f5fad,BMA,3110011301,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.68882989,100.61531591,บางจาก (นาคเผื่อนอุปถัมภ์)
+edu_f218986f4f4b,BMA,3110011302,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7046547,100.588196799999,วัดราษฎร์ศรัทธาธรรม
+edu_0bd78a2c2a73,BMA,3110021303,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7110367,100.575140799999,พูนสิน (เพชรสุขอุปถัมภ์)
+edu_8c8dcc421779,BMA,3110011304,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71011585,100.56075052,วัดธรรมมงคล (หลวงพ่อวิริยังค์อุปถัมภ์)
+edu_84c81f86d1c8,BMA,3110011401,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71303442,100.56963691,วัดสะพาน
+edu_ce6425c6c23b,BMA,3110011402,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.67665385,100.66497362,วัดคลองเตย
+edu_dcc5e949ec9d,BMA,3110011403,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69623608,100.65137333,ศูนย์รวมน้ำใจ
+edu_4d52c039b577,BMA,3110021404,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6812353,100.698558,ชุมชนหมู่บ้านพัฒนา
+edu_00056666e735,BMA,3110011501,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72273,100.689492999999,วัดตะกล่ำ
+edu_cc9ca6c5933e,BMA,3110011502,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6975481510956,100.675667484655,แก่นทองอุปถัมภ์
+edu_16a782fa545e,BMA,3110011503,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70710974,100.69249568,วัดกระทุ่มเสือปลา
+edu_66ba5b9ff166,BMA,3110011504,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7246404200032,100.672386393377,คลองมะขามเทศ
+edu_0e3e22304cfb,BMA,3110011505,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73354107,100.6888741,สุเหร่าจรเข้ขบ
+edu_582fe6e83bd7,BMA,3110011506,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7136503,100.65158685,สุเหร่าทางควาย
+edu_4fb41d7196a7,BMA,3110011507,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71051024,100.66793861,สุเหร่าทับช้าง
+edu_68798c6cd5a9,BMA,3110011508,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73570477,100.67098193,สุเหร่าบึงหนองบอน
+edu_d7005a2fa4c4,BMA,3110011509,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7195178364824,100.661766396295,สุเหร่าศาลาลอย
+edu_a8e1f471555e,BMA,3110011510,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6983611070795,100.674523835937,สุเหร่าบ้านม้า
+edu_41e605ac25f9,BMA,3110021511,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7093803,100.6627273,คลองปักหลัก
+edu_2aa783a0b230,BMA,3110011512,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7083137,100.662575599999,งามมานะ (แผน-ทับอุทิศ)
+edu_ec581d0a075b,BMA,3110011513,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6912282,100.63835435,คชเผือกอนุสรณ์
+edu_4890b7b8fd06,BMA,3110011514,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.86433854,100.64071331,สุวิทย์เสรีอนุสรณ์
+edu_57272a4d3e26,BMA,3110011515,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.88084491,100.65574168,อยู่เป็นสุขอนุสรณ์
+edu_4d442636788b,BMA,3110021516,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.87735692,100.59824149,มัธยมสุวิทย์เสรีย์อนุสรณ์
+edu_a0412d9961dc,BMA,3110021601,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9142880267632,100.566372218573,ไทยนิยมสงเคราะห์
+edu_1ee7d5227c7d,BMA,3110011602,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.87303774,100.59697727,บ้านคลองบัว(เอี่ยมแสงโรจน์)
+edu_59a8c2f7f90f,BMA,3110011603,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.849726,100.618586999999,บ้านบัวมล (เจริญราษฎร์อุทิศ)
+edu_48f02957c00a,BMA,3110011604,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.921413,100.6008296,ประชาภิบาล
+edu_a70e78e0f73e,BMA,3110011605,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.949718,100.615569999999,วัดไตรรัตนาราม
+edu_d839b04153c0,BMA,3110011701,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9478218,100.6060749,วัดดอนเมือง (ทหารอากาศอุทิศ)
+edu_d49640eba2b5,BMA,3110011702,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.84042359,100.55627911,พหลโยธิน (พวงเจริญอุปถัมภ์)
+edu_3bfce8241caa,BMA,3110021703,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9229816,100.58393408,วัดเวฬุวนาราม (สินทรัพย์อนุสรณ์)
+edu_384e4a6903d7,BMA,3110021704,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9385831,100.5831743,ประชาอุทิศ (จันทาบอนุสรณ์)
+edu_aac4032ae263,BMA,3110011705,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.85389045,100.56204876,เปรมประชา
+edu_ded0eaa5cdb3,BMA,3110021706,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.83174991,100.58836088,บำรุงรวิวรรณวิทยา
+edu_ac6a0752777c,BMA,3110011801,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.804568,100.58781104,วัดเสมียนนารี
+edu_102bed73fc88,BMA,3110011802,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.84691614,100.54860204,วัดเทวสุนทร
+edu_5816e2a766d8,BMA,3110011803,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.84371286,100.54655344,บ้านลาดพร้าว
+edu_c7ffb579020d,BMA,3110011804,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.764203,100.636631999999,รัตนโกสินทร์สมโภช(ราชทัณฑ์อุปถัมภ์)
+edu_fa1eee10ec8b,BMA,3110021805,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.84371472,100.54655537,เสนานิคม
+edu_7728ff5a1d20,BMA,3110011806,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7642589,100.6345757,ประชานิเวศน์
+edu_d1206a10ff78,BMA,3110021807,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7712057,100.6471242,มัธยมประชานิเวศน์
+edu_e1b339092e04,BMA,3110011901,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7579049,100.6157987,ไขศรีปราโมชอนุสรณ์
+edu_7e5566640e13,BMA,3110011902,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7669105515432,100.652413764418,สุเหร่าคลองจั่น (ริดวานอุปถัมภ์)
+edu_14ce1ad4d85d,BMA,3110011903,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74948457,100.65048447,วัดเทพลีลา
+edu_17eb519e0058,BMA,3110011904,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7487792,100.629161399999,วัดศรีบุญเรือง
+edu_829c7268c821,BMA,3110011905,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7493209379702,100.674429955438,ลำสาลี (ราษฎร์บำรุง)
+edu_34040f72918f,BMA,3110011906,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75829249,100.65689281,คลองกะจะ
+edu_55d0ff7d74eb,BMA,3110011907,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.771966,100.64651164,สุเหร่าวังใหญ่
+edu_b60e11eac4aa,BMA,3110011908,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79510725,100.62543621,สุเหร่าหัวหมากน้อย
+edu_cb4e187aefa7,BMA,3110011909,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8402549,100.633095899999,บ้านบางกะปิ
+edu_4dc6718e0282,BMA,3110011910,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8322922592869,100.591049235581,วัดบึงทองหลาง
+edu_3a5ba1486500,BMA,3110021911,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.803282,100.590562099999,มัธยมบ้านบางกะปิ
+edu_6e041e6b03bd,BMA,3110012001,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.847633,100.604250999999,ลอยสายอนุสรณ์
+edu_da9d32c0492f,BMA,3110022002,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7854385735016,100.673889041104,วัดลาดพร้าว
+edu_b497f98335c9,BMA,3110012003,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.82289484,100.61575416,เทพวิทยา
+edu_b052d2b3b853,BMA,3110012004,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8008197675216,100.612848030926,วัดลาดปลาเค้า
+edu_1177e7a9ade5,BMA,3110012005,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8031024110247,100.649238374274,เพชรถนอม (คลองเสือน้อย)
+edu_3f60b5967429,BMA,3110012006,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80417442,100.66227431,คลองทรงกระเทียม
+edu_39b243b8c398,BMA,3110012101,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.81836385,100.63459352,วัดบางเตย
+edu_63b47188ddcf,BMA,3110012102,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.81834696,100.62706851,ประภาสวิทยา
+edu_614e79a9272a,BMA,3110012103,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7730293,100.65858017,คลองลำเจียก
+edu_18dc333e9e25,BMA,3110012104,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77332875,100.65650382,วัดนวลจันทร์
+edu_abecb734d7d2,BMA,3110012105,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.833382,100.652531,วัดพิชัย
+edu_851b31c2a222,BMA,3110022106,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71312092,100.50605605,คลองกุ่ม(เสรีไทย อนุสรณ์)
+edu_7774ec6771fb,BMA,3110012107,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.737252,100.4946835,พิชัยพัฒนา
+edu_f4ba04a39c17,BMA,3110012108,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71984699,100.47092827,แย้มจาดวิชชานุสรณ์
+edu_25a788e21048,BMA,3110012201,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.699979,100.48836,วัดประยุรวงค์
+edu_ebb6f63e965f,BMA,3110012202,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69632826,100.48815266,วัดขุนจันทร์
+edu_f0c459cebd0c,BMA,3110012203,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.740231498193,100.492186024507,วัดบุคคโล
+edu_5b22ec02630f,BMA,3110012204,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72270755,100.48006197,วัดดาวคนอง
+edu_bfa3fc9a2e5e,BMA,3110012205,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73439287,100.48751859,วัดกัลยาณมิตร
+edu_2ca0852bbdd3,BMA,3110012206,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7114644238147,100.475668250212,วัดราชคฤห์
+edu_0f067d49d8df,BMA,3110012207,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7259105021229,100.485729390262,วัดประดิษฐาราม
+edu_16276b0eab74,BMA,3110012208,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71764773,100.47835382,วัดบางสะแกใน
+edu_61e06263f31c,BMA,3110012209,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72075532,100.48471851,วัดเวฬุราชิณ
+edu_dae54c2dca67,BMA,3110012210,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71202379,100.46903805,กันตทาราราม
+edu_cfdb7b1c2af3,BMA,3110012211,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71488154,100.48590784,วัดโพธินิมิตร
+edu_656f141e59ff,BMA,3110012212,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70917041,100.49259852,วัดใหม่ยายนุ้ย
+edu_0b358441ede4,BMA,3110012213,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7158338,100.475581499999,วัดกระจับพินิจ
+edu_419adf0273be,BMA,3110012214,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7277107,100.4893015,วัดราชวรินทร์
+edu_b83f377a47ff,BMA,3110012215,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70409463,100.49070385,วัดบางสะแกนอก
+edu_bd3b27e1c039,BMA,3110012216,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73401924,100.50644456,วัดใหญ่ศรีสุพรรณ
+edu_0757e837f320,BMA,3110012217,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7326860505307,100.507910838885,วัดบางน้ำชน
+edu_87401ffa4248,BMA,3110022301,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71310858,100.49342228,วัดเศวตฉัตร
+edu_e3cf3bbfd1b7,BMA,3110022302,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72446924,100.50071247,วัดสุทธาราม
+edu_0beaa0af8076,BMA,3110022303,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71306978,100.49347179,วัดทองเพลง
+edu_84f07fa50783,BMA,3110012304,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73274545,100.49719257,วัดทองธรรมชาติ
+edu_98759f267b00,BMA,3110012305,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.724199,100.5104975,วัดทองนพคุณ
+edu_02abd918bdf3,BMA,3110012306,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70933051,100.4267902,วัดพิชัยญาติ
+edu_758c61f181fe,BMA,3110012307,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72105293,100.4403741,วัดสุวรรณ
+edu_77dbcba8ba8c,BMA,3110022308,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7162913,100.4535127,มัธยมวัดสุทธาราม
+edu_d7ffbf890662,BMA,3110012401,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73421966,100.43333659,วัดนิมมานรดี
+edu_9805bc4a87bc,BMA,3110012402,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71282861,100.45436695,วัดจันทร์ประดิษฐาราม
+edu_820e9e3aef6f,BMA,3110022403,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.61992145,100.44938427,วัดอ่างแก้ว (จีบ ปานขำ)
+edu_79f90f8d726b,BMA,3110012404,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74395373,100.42024835,วัดชัยฉิมพลี
+edu_d8c361cbe495,BMA,3110012405,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73629967,100.45285383,วัดโคนอน
+edu_792e4ee1536a,BMA,3110012406,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74142037,100.42861261,วัดมะพร้าวเตี้ย
+edu_0a2f4b399582,BMA,3110012407,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7392288,100.4457879,วัดโตนด
+edu_878c3c12f889,BMA,3110012408,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72862046,100.46395113,วัดตะล่อม
+edu_2b395b93267f,BMA,3110012409,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73992581,100.46020939,วัดกำแพง
+edu_feafee74e632,BMA,3110012410,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72232892,100.45671058,วัดทองศาลางาม
+edu_58da0b94af06,BMA,3110012411,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72688804,100.44648598,วัดวิจิตรการนิมิตร
+edu_9a1e81b8e3c1,BMA,3110012412,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.57808776,100.39002311,วัดประดู่บางจาก (พ่วงอุทิศ)
+edu_7f528319690a,BMA,3110012413,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6413445,100.4360125,บางจาก (โกมลประเสริฐอุทิศ)
+edu_f48898aeeb71,BMA,3110012501,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.59326873,100.44925803,หมู่บ้านเกาะโพธิ์
+edu_4f8d172f2220,BMA,3110022502,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.63381741,100.4193719,วัดหัวกระบือ
+edu_5ca4141f1e0b,BMA,3110012503,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.527247,100.420454,ราชมนตรี (ปลื้ม-เชื่อมนุกูล)
+edu_8287f37ddd41,BMA,3110022504,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.5913024,100.3860326,วัดสะแกงาม
+edu_204fd32009fe,BMA,3110022505,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.59913619,100.40502164,วัดแสมดำ
+edu_e4b09c8f4158,BMA,3110012506,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.66405969,100.42710277,แก้วขำทับอุปถัมภ์
+edu_0c145394ed41,BMA,3110012507,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.65222343,100.44729502,คลองพิทยาลงกรณ์
+edu_0bbae47e21a4,BMA,3110022508,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6789671,100.4463991,วัดบางกระดี่
+edu_bf1927ddd44b,BMA,3110022509,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.67370584,100.44933916,วัดกำแพง
+edu_616bf321d515,BMA,3110012510,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.61217964,100.47683345,ศาลเจ้า (ห้าวนุกูลวิทยา)
+edu_98432a40a177,BMA,3110012511,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.56936727,100.44113476,วัดท่าข้าม
+edu_a6685cefd8b8,BMA,3110012512,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.666067,100.447345999999,วัดบัวผัน
+edu_dcfad3f414f4,BMA,3110022513,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71618919,100.45314872,วัดกก
+edu_1edf11d4605e,BMA,3110012514,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6468704,100.4248509,วัดประชาบำรุง
+edu_c71b8671eebb,BMA,3110012515,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69572711,100.47998003,วัดเลา(คณะศิษย์เทพสิทธิอุทิศ)
+edu_6da98c0940cf,BMA,3110012516,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7033325,100.4668959,บางขุนเทียนศึกษา
+edu_a8973da88a65,BMA,3110012601,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70637987,100.46065191,วัดมงคลวราราม (สมพรพสกสรรค์)
+edu_abb0a187b1fa,BMA,3110012602,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.67895191,100.4641366,วัดนางนอง(พิพัฒน์)
+edu_ff9e026b6f55,BMA,3110012603,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69485525,100.45900073,วัดศาลาครืน
+edu_e1e2649caa74,BMA,3110022604,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6747799853982,100.463758827771,วัดโพธิ์ทอง
+edu_8050aa60b5b0,BMA,3110012605,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6833016702675,100.487768584655,วัดสีสุก
+edu_a949faa712d3,BMA,3110012606,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.68821818,100.47952006,วัดบางประทุนนอก
+edu_ab272a4d2fbf,BMA,3110012607,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69678936,100.46516762,วัดโพธิ์แก้ว
+edu_7ed4c14ffb37,BMA,3110012608,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7671192,100.4690799,วัดนาคนิมิตร
+edu_a4c95320124c,BMA,3110012609,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75693218,100.48244165,วัดบางขุนเทียนนอก
+edu_eade84188d36,BMA,3110022610,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6909223,100.4557638,วัดยายร่ม(วัฒนราษฎร์รังสรรค์)
+edu_e5193bd272ac,BMA,3110022611,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7489494,100.50131993,วัดไทร (ถาวรพรหมานุกูล)
+edu_2ebd5aaeb8fe,BMA,3110012701,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7754819,100.4648809,วัดบางขุนนนท์
+edu_1d44924709c6,BMA,3110012702,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74433597,100.47188295,วัดวิเศษการ
+edu_dc0ebabc38d1,BMA,3110012703,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75393319,100.47403152,วัดเจ้าอาม
+edu_39a980e68be6,BMA,3110012704,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76681267,100.47253931,วัดโพธิ์เรียง
+edu_52b1ac14cdbb,BMA,3110012705,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7433705,100.467419699999,วัดยางสุทธาราม
+edu_c76febd8d519,BMA,3110012706,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76211238,100.47766696,วัดศรีสุดาราม
+edu_b215beb9154b,BMA,3110012707,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74837267,100.48343719,วัดบางเสาธง
+edu_5bb03dae7cef,BMA,3110012708,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7513238,100.4754212,วัดสุวรรณาราม
+edu_8f5fdcd4b0dc,BMA,3110012709,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74861132,100.47571564,วัดพระยาทำ
+edu_862435be22b0,BMA,3110022710,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7623615,100.460863499999,วัดมะลิ
+edu_862435be22b0,OSM,way/1429030843,data/reference/osm_education.json,https://www.openstreetmap.org/way/1429030843,,13.762386,100.4606142,โรงเรียนวัดมะลิ
+edu_2d123ab0c357,BMA,3110012711,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.780945,100.468111,วัดดงมูลเหล็ก
+edu_3a96a531e57c,BMA,3110012712,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76404969,100.48720077,วัดอัมพวา
+edu_ba31b488e65b,BMA,3110012713,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7731673,100.4765277,วัดสุวรรณคีรี
+edu_3b8f86671521,BMA,3110012714,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79035301,100.50629648,วัดดุสิตาราม
+edu_2ab22cd5892a,BMA,3110012715,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76901981,100.4932187,วัดปฐมบุตรอิศราราม
+edu_28fd87e24e30,BMA,3110012801,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78017119,100.49512439,วัดอาวุธวิกสิตาราม
+edu_552550be3b9b,BMA,3110012802,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78649398,100.50262977,วัดพระยาศิริไอยสวรรค์
+edu_2c2fb228377e,BMA,3110012803,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8018207951817,100.513381970713,วัดเปาโรหิตย์
+edu_f9a2539f97a4,BMA,3110012804,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8107094,100.514554999999,วัดเทพากร (เลี่ยมมาตุทิศ)
+edu_c29415469b33,BMA,3110012805,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79259475,100.49845556,วัดฉัตรแก้วจงกลณี
+edu_3af7782db404,BMA,3110012806,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77235578,100.496712,วัดวิมุตยาราม
+edu_8c12690172bd,BMA,3110012807,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78131104,100.48442972,วัดบางพลัด (ป.สุวณฺโณ)
+edu_3e6796fe53cc,BMA,3110012808,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79739453,100.50229084,วัดคฤหบดี(จันทรสถิตย์)
+edu_8925dc0ec127,BMA,3110012809,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78494092,100.46546442,วัดรวก
+edu_86be278406cc,BMA,3110012810,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79422964,100.46721825,วัดสามัคคีสุทธาวาส
+edu_127338cf51e3,BMA,3110022811,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7753552,100.4905258,บางยี่ขันวิทยาคม
+edu_d0cc24b80f8d,BMA,3110012901,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7957628,100.4375049,วัดไก่เตี้ย (สวัสดิ์ประชานุกูล)
+edu_c71b717d49ee,BMA,3110012902,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77434651,100.44217745,วัดชัยพฤกษมาลา
+edu_1f6fcfa5954f,BMA,3110012903,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77553703,100.4280571,ชุมทางตลิ่งชัน
+edu_8cc716ccd84f,BMA,3110022904,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79112469,100.41298747,ฉิมพลี
+edu_8cc716ccd84f,OSM,way/1484502213,data/reference/osm_education.json,https://www.openstreetmap.org/way/1484502213,,13.7911008,100.4130239,โรงเรียนฉิมพลี
+edu_d0427d26934c,BMA,3110012905,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7699711,100.4266473,วัดทอง (อุดมศิลปวิทยาคาร)
+edu_b2427d1b7285,BMA,3110012906,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7594951,100.433313199999,วัดมะกอก (วิสุทธิวิทยาคาร)
+edu_59f009513f0e,BMA,3110012907,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7790276,100.4655155,วัดโพธิ์ (ราษฏร์ผดุงผล)
+edu_b9f5c1317de9,BMA,3110012908,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7582254,100.44946873,วัดอินทราวาส
+edu_d5f86818223e,BMA,3110012909,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7432625444075,100.45526839574,วัดปากน้ำฝั่งเหนือ
+edu_e46cdac5eab1,BMA,3110012910,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74140092,100.4329155,วัดประสาท
+edu_715c159df307,BMA,3110012911,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74770268,100.44298341,วัดเกาะ
+edu_b6f75e5ad056,BMA,3110012912,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75905004,100.45359641,วัดพิกุล
+edu_1f2f10a8944d,BMA,3110012913,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7790574,100.456918699999,วัดกระโจมทอง
+edu_0774d507b572,BMA,3110012914,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77413876,100.45346793,วัดรัชฎาธิฐาน
+edu_80ef9431bd8d,BMA,3110012915,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73579376,100.48502353,วัดตลิ่งชัน(ปิ่นทองสัณฐาคาร)
+edu_0151b7a2ad8d,BMA,3110012916,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73347629,100.47281186,วัดช่างเหล็ก
+edu_d3d2a3a6e735,BMA,3110013001,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72411417,100.46911353,วัดราชสิทธาราม
+edu_5703956b7f1c,BMA,3110013002,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74117264,100.48226861,วัดท่าพระ
+edu_8a8c64416084,BMA,3110013003,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7415668,100.474850199999,วัดประดู่ฉิมพลี
+edu_34e4b11a6916,BMA,3110013004,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74592244,100.48401992,วัดใหม่พิเรนทร์
+edu_6ff3f04cc44b,BMA,3110013005,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7922345918043,100.735423956295,วัดดีดวด
+edu_4edccfb22641,BMA,3110013006,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79222163,100.75103065,วัดนาคกลาง
+edu_41277ab151f6,BMA,3110013101,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80328732,100.77031213,คลองสองต้นนุ่น
+edu_476790f31011,BMA,3110013102,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80306064,100.75737166,คลองสาม
+edu_3971495c6555,BMA,3110013103,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.81299681,100.73129197,วังเล็กวิทยานุสรณ์ (คลองสี่)
+edu_a43887783131,BMA,3110023104,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.82251822,100.78138215,บ้านเกาะ
+edu_1c4a0326f6a6,BMA,3110013105,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80001359,100.70834536,บึงขวาง (มหาดไทยอุปถัมภ์)
+edu_5355c3de1217,BMA,3110013106,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8194849,100.74179873,มีนบุรี
+edu_dc1c328cfbc7,BMA,3110023107,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8010885,100.7863706,วัดทองสัมฤทธิ์
+edu_8d7eae106128,BMA,3110013108,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80785232,100.80707923,วัดบำเพ็ญเหนือ
+edu_af49bd69e5c5,BMA,3110013109,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8452893,100.795596599999,วัดแสนสุข
+edu_7111abe542b2,BMA,3110013110,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8042631606594,100.701906170552,วัดใหม่ลำนกแขวก
+edu_c9eddd91727a,BMA,3110013111,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7267537,100.7683518,ศาลาคู้
+edu_9559e66fa83b,BMA,3110013112,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74263076,100.75578784,สุเหร่าบางชัน
+edu_025b841b0607,BMA,3110023113,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.83442559,100.77327041,สุเหร่าทรายกองดิน
+edu_0958f120fd30,BMA,3110023201,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72699366,100.75241517,วัดลาดกระบัง(ศีลาภิรัตอุปถัมภ์)
+edu_cf2dfc41044d,BMA,3110013202,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72307979,100.79808643,วัดปลูกศรัทธา
+edu_b24c2dd5bd69,BMA,3110023203,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7259899,100.7377622,วัดสังฆราชา
+edu_039e9afa086e,BMA,3110013204,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7401921,100.7966205,วัดบำรุงรื่น
+edu_d04c98b264b3,BMA,3110013205,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71279828,100.81296797,วัดพลมานีย์
+edu_a152b1f10988,BMA,3110013206,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73183744,100.83776818,วัดสุทธาโภชน์
+edu_4a7f35a75b3c,BMA,3110013207,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76518635,100.77665822,แสงหิรัญวิทยา
+edu_e5a7a5789827,BMA,3110013208,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78047215,100.80138683,ประสานสามัคคี (บ้านทับยาว)
+edu_350153f07366,BMA,3110013209,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7732891,100.81236,วัดบึงบัว
+edu_b1ae4a0d6adc,BMA,3110013210,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7222819,100.8526871,วัดทิพพาวาส
+edu_d2d65073bf22,BMA,3110013211,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7552660431431,100.858097823835,ลำพะอง (ราษฎร์จำเริญบำรุง)
+edu_3ce56ce65441,BMA,3110023212,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69962146,100.85123066,วัดราชโกษา
+edu_69361b55e0c3,BMA,3110013213,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74164966,100.852711,วัดขุมทอง
+edu_674f45207e2a,BMA,3110013214,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7768775193454,100.737929063278,ตำบลขุมทอง (ประชาอุทิศ)
+edu_a1f3f56ede70,BMA,3110013215,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77546265,100.72435326,ขุมทอง(เพชรทองคำอุปถัมภ์)
+edu_da9e1753482f,BMA,3110023216,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72544543,100.72004075,วัดลานบุญ
+edu_0e4a851961fa,BMA,3110013217,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74823905,100.72434662,วัดปากบึง
+edu_e1392bc7a847,BMA,3110013218,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76572757,100.73041563,สุเหร่าลำนายโส
+edu_553d3b5b55f8,BMA,3110013219,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8569074,100.8604437,แดงเป้า (สิงสุขบูรณะ)
+edu_794df05138a3,BMA,3110013220,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8540928,100.869459799999,เคหะชุมชนลาดกระบัง
+edu_34180a29c5e5,BMA,3110013301,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8744943,100.883454499999,วัดหนองจอก (ภักดีนรเศรษฐ)
+edu_714abbf124ac,BMA,3110013302,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8879888,100.8495035,สุเหร่าหะยีมินา
+edu_ececc6957e7c,BMA,3110013303,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.85031583,100.89717234,สุเหร่าบ้านเกาะ
+edu_593ca4292e1a,BMA,3110013304,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.85341499,100.88537093,ลำบุหรี่พวง
+edu_b760964682c6,BMA,3110023305,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8630804,100.854230599999,หนองจอกพิทยานุสรณ์
+edu_8449f18cac60,BMA,3110013306,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.84791158,100.89088888,สุเหร่าศาลาแดง
+edu_824ad9510e0a,BMA,3110013307,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8155149743591,100.935054031758,สุเหร่าใหม่
+edu_0168797c0ec4,BMA,3110013308,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.83536201,100.91048811,สามแยกท่าไข่
+edu_6376a676dff2,BMA,3110013309,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.85510919,100.8285895,หลวงแพ่ง (บำรุงรัฐกิจ)
+edu_e1d49b56801e,BMA,3110013310,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8503321,100.8039171,นิลราษฎร์อุปถัมภ์
+edu_25faecfb8f2e,BMA,3110013311,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.82618315,100.81613457,บ้านเจียรดับ
+edu_317503b0cb51,BMA,3110013312,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.820234,100.831659,วัดทรัพย์สโมสร
+edu_29978f61290d,BMA,3110013313,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.83225282,100.8412979,สุเหร่านาตับ
+edu_4639abd7c324,BMA,3110013314,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.81891592,100.85051156,สุเหร่าอีรั้ว
+edu_bb1ffd9a60ab,BMA,3110013315,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.91372369,100.86304475,อิสลามลำไทร
+edu_d3f92f508bfc,BMA,3110013316,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.90470489,100.88986352,บ้านลำต้นกล้วย
+edu_2aa533c01bc8,BMA,3110013317,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.88736435,100.90607072,วัดพระยาปลา
+edu_9879947e7014,BMA,3110013318,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9286778,100.8223545,วัดแสนเกษม
+edu_fdd4227fa7f2,BMA,3110013319,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.87799516,100.82003615,วัดใหม่เจริญราษฎร์
+edu_9114517cad21,BMA,3110023320,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.88902354,100.80752861,วัดสามง่าม
+edu_aa17a4ef8219,BMA,3110013321,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.90474972,100.79276588,วัดสีชมพู
+edu_6f6f23d59e6d,BMA,3110013322,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9043168,100.8118087,ลำเจดีย์
+edu_73ad5108681d,BMA,3110013323,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.91294269,100.83899359,สุเหร่าคลองเก้า
+edu_51ed2d5bf3f5,BMA,3110013324,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.89513082,100.82858994,สุเหร่าคลองสิบ
+edu_d874aea0cf17,BMA,3110013325,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77995131,100.87112753,สุเหร่าคลองสิบเอ็ด
+edu_d900c72a7dd6,BMA,3110013326,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79248155,100.91135337,สุเหร่าสนามกลางลำ
+edu_a58bfc13334e,BMA,3110013327,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.811364,100.878385999999,วัดใหม่กระทุ่มล้ม
+edu_60b9124fd6d1,BMA,3110013328,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80239293,100.88842456,ผลลีรุ่งเรือง
+edu_4fd16f154269,BMA,3110013329,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78657728,100.85886085,วัดราษฎร์บำรุง
+edu_deabd68bd042,BMA,3110013330,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8035229,100.846138,คลองสอง
+edu_635214aa8027,BMA,3110013331,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79167873,100.81275693,คารีอุปถัมภ์
+edu_1b4d3ea1bab6,BMA,3110023332,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80420114,100.85965569,สุเหร่าลำแขก
+edu_06715863ca35,BMA,3110013333,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79167998,100.83552976,ศิริวังวิทยาคาร
+edu_7f1af94835fd,BMA,3110023334,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.770173,100.836571899999,สังฆประชานุสสรณ์
+edu_d2632996f147,BMA,3110013335,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6801597,100.503840599999,วัดอู่ตะเภา
+edu_13165b0ebdd5,BMA,3110023336,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.756359,100.8878979,วัดลำต้อยติ่ง
+edu_50672a616a1f,BMA,3110013337,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.675295,100.51985767,ลำผักชี
+edu_512761f8d80b,BMA,3110023401,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.68209684,100.49545132,วัดบางปะกอก
+edu_512761f8d80b,OSM,way/1332793305,data/reference/osm_education.json,https://www.openstreetmap.org/way/1332793305,,13.6820694,100.4955908,โรงเรียนวัดบางปะกอก
+edu_3a1bd038f756,BMA,3110023402,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6695867499957,100.492257747118,รัตนจีนะอุทิศ
+edu_b7f20f22df2a,BMA,3110013403,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6725201,100.513396999999,วัดประเสริฐสุทธาวาส
+edu_398f8ba56cad,BMA,3110013404,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.67352903,100.50297958,วัดแจงร้อน
+edu_90c032e6023d,BMA,3110013405,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6767212,100.339411499999,วัดสน
+edu_1506b990bb59,BMA,3110013406,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.68679898,100.36377053,วัดสารอด
+edu_e0cea84c4a64,BMA,3110013501,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72617229,100.35945627,วัดหนองแขม(สหราษฎร์บูรณะ)
+edu_d3c511e8fd9a,BMA,3110023502,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7044634,100.3487221,วัดอุดมรังสี
+edu_b7dcc8990a86,BMA,3110013503,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6557766,100.3439886,ประชาบำรุง
+edu_7916ecbb6401,BMA,3110023504,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72189545,100.34304837,บ้านขุนประเทศ
+edu_4f10f498e2b6,BMA,3110013505,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75953891,100.59307341,มนต์จรัสสิงห์อนุสรณ์
+edu_6af047e6c9a1,BMA,3110013506,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74914544,100.5717238,วัดศรีนวลธรรมวิมล
+edu_77a432342e37,BMA,3110023601,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7757617,100.583746,ประชาราษฎร์บำเพ็ญ
+edu_77a432342e37,OSM,way/1332698435,data/reference/osm_education.json,https://www.openstreetmap.org/way/1332698435,,13.7763674,100.5837779,โรงเรียนประชาราษฎร์บำเพ็ญ
+edu_950172c995eb,BMA,3110013602,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7130152422241,100.603659657158,พระราม ๙ กาญจนาภิเษก
+edu_58da67373a33,BMA,3110013603,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73074174,100.61318575,วัดใหม่ช่องลม
+edu_ed6736eb99c6,BMA,3110013701,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7157889,100.6393788,วัดใต้ (ราษฎรนิรมิต)
+edu_a65eeee4750e,BMA,3110013702,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7376104,100.6438533,นาคนาวาอุปถัมภ์
+edu_b39084ef4560,BMA,3110023703,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7134821893569,100.631714664532,วัดปากบ่อ
+edu_b39084ef4560,OSM,node/4285688789,data/reference/osm_education.json,https://www.openstreetmap.org/node/4285688789,,13.7140577,100.63156,โรงเรียนวัดปากบ่อ
+edu_57e9b6fff0ec,BMA,3110013704,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73318271,100.64046223,สุเหร่าใหม่
+edu_c83f89e9a68f,BMA,3110013705,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71203288,100.62248987,หัวหมาก
+edu_f5e48bbfa524,BMA,3110013706,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7679548955677,100.555384062758,คลองกลันตัน(มีสุวรรณอนุสรณ์)
+edu_ddec0cff6f31,BMA,3110013707,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.88923305,100.58249329,วัดทองใน
+edu_412ad211075a,BMA,3110023708,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7324054999999,100.613509341104,มัธยมนาคนาวาอุปถัมภ์
+edu_412ad211075a,OSM,node/4271357990,data/reference/osm_education.json,https://www.openstreetmap.org/node/4271357990,,13.7325921,100.6134221,โรงเรียนมัธยมนาคนาวาอุปถัมภ์
+edu_2001ebdbea9c,BMA,3110023801,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77785907,100.56953971,สามเสนนอก (ประชาราษฎร์อนุกูล)
+edu_408889e2b582,BMA,3110023802,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7676261447167,100.556849375294,วิชูทิศ
+edu_408889e2b582,OSM,way/1319861891,data/reference/osm_education.json,https://www.openstreetmap.org/way/1319861891,,13.7676414,100.5562066,โรงเรียนวิชูทิศ
+edu_b520666a7aec,BMA,3110013803,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.90228265,100.57859579,วิชากร
+edu_6f97fce04e60,BMA,3110013901,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8608221,100.56712517,วัดหลักสี่ (ทองใบ ทิวารี)
+edu_1b66d661a418,BMA,3110023902,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.88533932,100.56042205,ทุ่งสองห้อง (คุปตัษเฐียรอุทิศ)
+edu_ca8a298e0bfb,BMA,3110023903,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.90099746,100.58321126,เคหะทุ่งสองห้องวิทยา 1
+edu_1b94d1c383f8,BMA,3110013904,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.90812967,100.63387214,เคหะทุ่งสองห้องวิทยา 2
+edu_1cd22fdde13d,BMA,3110023905,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.87341116,100.5532913,การเคหะท่าทราย
+edu_66134c6b3a67,BMA,3110013906,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9043171109991,100.665023343016,บางเขน (ไว้สาลีอนุสรณ์)
+edu_7aa4b1447318,BMA,3110024001,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9295385,100.65971581,สายไหม
+edu_2dec31f563e7,BMA,3110014002,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9131267,100.6253041,วัดเกาะสุวรรณาราม
+edu_265dd323ed22,BMA,3110014003,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.91896985,100.6360031,ออเงิน(อ่อน – เหม อนุสรณ์)
+edu_fd3bd9d2df4d,BMA,3110024004,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.91841841,100.68647208,วัดหนองใหญ่
+edu_011580b7c97a,BMA,3110014005,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.88485,100.662142,ฤทธิยะวรรณาลัย
+edu_a0a2d198b83a,BMA,3110014006,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.88593832,100.62496587,ประชานุกูล
+edu_ddb12d4204de,BMA,3110014007,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9355296522347,100.63840759259,พรพระร่วงประสิทธิ์
+edu_99a658e90c63,BMA,3110014008,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74364948,100.6996266,วัดราษฎร์นิยมธรรม (พิบูลสงคราม)
+edu_86e4939f39c5,BMA,3110014009,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7582742,100.696338599999,ซอยแอนเนกซ์ (กาญจนาภิเษก 2)
+edu_8ae62391a9be,BMA,3110014101,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.740531,100.6924,สุเหร่าทับช้างคลองบน
+edu_c786e2a2894e,BMA,3110014102,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.754735,100.499327,วัดลาดบัวขาว
+edu_69e54ea66e9f,BMA,3110014103,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76987434,100.71348033,สมโภชกรุงอนุสรณ์ (200 ปี)
+edu_31bac7111b88,BMA,3110024104,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7694397,100.694721299999,สุเหร่าซีรอ(ราษฎร์สามัคคี)
+edu_570110d59543,BMA,3110014105,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8485062,100.659513599999,สุเหร่าลาดบัวขาว
+edu_bbdf057b5516,BMA,3110024106,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7797121,100.7018671,สามแยกคลองหลอแหล
+edu_2e9815261cc0,BMA,3110014201,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.79321743,100.69483688,จินดาบำรุง
+edu_f8bf5cce6235,BMA,3110014202,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77157376,100.59413244,คันนายาว ( ธารินเจริญสงเคราะห์ )
+edu_62a17bb7bfb2,BMA,3110014301,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7805488,100.6124909,สุเหร่าลาดพร้าว (อามินเซ็นอุปถัมภ์)
+edu_e4adf4acbe89,BMA,3110014302,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.78418923,100.5999496,สุเหร่าดอนสะแก
+edu_794bf23824a2,BMA,3110014303,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.86200296,100.69917395,วัดสามัคคีธรรม(หนู-บุตรอุปถัมภ์)
+edu_fe801768e685,BMA,3110014401,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.87648355,100.78354094,กลางคลองสอง(พร  ดีเจริญ)
+edu_c03423a1a047,BMA,3110024402,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.81788448,100.69771139,บางชัน (ปลื้มวิทยานุสรณ์)
+edu_51dabb356c0f,BMA,3110014403,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.90131067,100.69067486,บ้านแบนชะโด(เสียง วิฑูรชาติอุปถัมภ์)
+edu_5070ba69d140,BMA,3110014404,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.84406192,100.69571847,บ้านหนองระแหง (ชมแสงประชานุกูล)
+edu_e1fa05586c3f,BMA,3110014405,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.85082089,100.73136686,ประชาราษฎร์อุปถัมภ์วิทยา
+edu_b55a86c66df8,BMA,3110024406,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.853906,100.673297,วัดคู้บอน(วัฒนานันท์อุทิศ)
+edu_643c6af60659,BMA,3110014407,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8862231,100.708711499999,วัดบัวแก้ว
+edu_922b6ce69be4,BMA,3110014408,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.87390721,100.68635704,วัดแป้นทอง (สามวาวิทยา)
+edu_607a40b1ce8a,BMA,3110014409,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.9176251693291,100.7529196,วัดพระยาสุเรนทร์
+edu_0b6291fa97b0,BMA,3110014410,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.91862792,100.79175004,วัดลำกระดาน
+edu_e331342fae0a,BMA,3110014411,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.87188868,100.77378843,วัดศรีสุก (แย้มเยื้อนอุปถัมภ์)
+edu_dda2d456fd09,BMA,3110014412,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8774657,100.73217188,วัดสุขใจ
+edu_36ec7d2b95ad,BMA,3110014413,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8553901666499,100.786101183704,วัดสุทธิสะอาด
+edu_6add3e7568c0,BMA,3110014414,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.91266153,100.77014473,สุเหร่าเกาะขุนเณร
+edu_db4324129ed1,BMA,3110014415,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.84240774,100.71054006,สุเหร่าคลองสี่
+edu_247f37702241,BMA,3110014416,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.90650472,100.72808691,สุเหร่าคลองหนึ่ง (มานะราษฎร์บำรุง)
+edu_01bdcd07231d,BMA,3110014417,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7196572,100.58665306,สุเหร่าสามวา(ซุน เวทย์สฤษฏ์อุทิศ)
+edu_5dd77a356f10,BMA,3110024418,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.825339,100.751645,สุเหร่าแสนแสบ
+edu_f24e6cfcdb53,BMA,3110014501,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71540346,100.59692778,วัดธาตุทอง(เรือนเขียวสะอาด)
+edu_b84adf289eb6,BMA,3110024502,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74019905,100.59372477,วิจิตรวิทยา
+edu_a5848f9597c9,BMA,3110024503,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7432347,100.5802819,สุเหร่าบ้านดอน
+edu_4b55a5ffc8e2,BMA,3110014504,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.72791403,100.59620003,สุเหร่าบางมะเขือ (ปรีดี พนมยงค์ อนุสรณ์)
+edu_54e16a741631,BMA,3110014505,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.741665,100.588545,สุเหร่าสามอิน
+edu_681f747aeb7f,BMA,3110014506,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7391706,100.58771971,วัดภาษี
+edu_e2b05e9327c8,BMA,3110014507,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.73980126,100.56628092,แจ่มจันทร์
+edu_a08dff99a705,BMA,3110014508,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70728415,100.40048034,สวัสดีวิทยา
+edu_f08c302e609a,BMA,3110014601,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70444964,100.38465221,บางแค (เนื่องสังวาลย์อนุสรณ์)
+edu_e82133ad149d,BMA,3110024602,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7300029177884,100.388182663908,วัดบุณยประดิษฐ์
+edu_e82133ad149d,OSM,way/1482948745,data/reference/osm_education.json,https://www.openstreetmap.org/way/1482948745,,13.7304578,100.3885235,โรงเรียนวัดบุณยประดิษฐ์
+edu_fc54b153b476,BMA,3110024603,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.68978824,100.4175093,คลองหนองใหญ่
+edu_fc54b153b476,OSM,node/1164599412,data/reference/osm_education.json,https://www.openstreetmap.org/node/1164599412,,13.6895636,100.4175655,โรงเรียนคลองหนองใหญ่
+edu_29a192fc5e2d,BMA,3110014604,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.74932957,100.35458954,เพชรเกษม (จตุรงค์สงครามอนุสรณ์)
+edu_b01f56e0ab1c,BMA,3110014605,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7407083,100.403859799999,วัดศาลาแดง
+edu_87361b1679d9,BMA,3110014606,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.751453,100.389673,บางไผ่ (บ้านนายพันแก้วขาว)
+edu_ea97ec5c4ba0,BMA,3110014607,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7298193,100.3675794,บางเชือกหนัง(พูนบำเพ็ญอนุสรณ์)
+edu_2831ba30de4a,BMA,3110014608,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.71151682,100.41321663,วัดพรหมสุวรรณสามัคคี
+edu_8b43533b1e43,BMA,3110014609,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.69359573,100.39302991,บางแคเหนือ
+edu_bdbc05a01079,BMA,3110014610,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7153882,100.3747854,วัดม่วง
+edu_1dc4e24adcaf,BMA,3110024611,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.70145972,100.379538,วัดราษฎร์บำรุง (งามศิริวิทยาคาร)
+edu_ff0ece05ea35,BMA,3110014612,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.67116642,100.60418722,หมู่บ้านเศรษฐกิจ(พุ่มประดับราษฎร์สามัคคี)
+edu_a5e115bfc96d,BMA,3110014701,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6760614,100.588336499999,วัดบางนาใน
+edu_399c279ca59c,BMA,3110014702,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.66142769,100.62996816,วัดบางนานอก
+edu_9ca81020687c,BMA,3110014703,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.674969,100.619153999999,ผ่องพลอยอนุสรณ์
+edu_c2abeb0324c1,BMA,3110024704,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6770473,100.6121948,รุ่งเรืองอุปถัมภ์
+edu_6c3bcd48d774,BMA,3110014705,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6675432906509,100.643667029792,อำนวยกนกศิริอนุสรณ์
+edu_a82857fe2d6d,BMA,3110014706,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.643259,100.35638799,ศรีเอี่ยมอนุสรณ์
+edu_268b0741367c,BMA,3110024707,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.66446745,100.59790445,เพี้ยนพินอนุสรณ์
+edu_cc4a843a8b94,BMA,3110024801,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.66887571,100.37803949,บ้านนายเหรียญ
+edu_991d103f4be5,BMA,3110014802,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.66379958,100.39904133,บ้านนายผล (แม้นสุวรรณอุปถัมภ์)
+edu_c3291ce1dfd2,BMA,3110014803,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6416332,100.380166599999,บ้านนายสี
+edu_0598ea4100be,BMA,3110014804,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6422157,100.39589249,วัดบางบอน(พิมพ์  จันแต้อุปถัมภ์)
+edu_0b3177f91493,BMA,3110014805,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6242139,100.38050045,พรหมราษฎร์รังสรรค์
+edu_d4d9b55f4df3,BMA,3110014806,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.67425439,100.40464586,สถานีพรมแดน(รักษาศุขราษฎร์บำรุง)
+edu_92a885c98ad5,BMA,3110014807,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6844123371059,100.434500068295,วัดนินสุขาราม
+edu_74841eae19a0,BMA,3110024808,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.66846165,100.42544124,พระยามนธาตุราชศรีพิจิตร์
+edu_5a68d01235d6,BMA,3110014809,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7835033,100.38383331,คงโครัดอุทิศ
+edu_16b4a3da827f,BMA,3110014901,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.75556257,100.35166465,คลองต้นไทร (สุขล้อมอุทิศ)
+edu_d85e257b14b5,BMA,3110014902,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.76863424,100.36862595,คลองทวีวัฒนา (ทองน่วมอนุสรณ์)
+edu_2e881fbda560,BMA,3110014903,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.80268233,100.35236043,คลองบางพรหม
+edu_ff68625f489c,BMA,3110014904,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8016681,100.3352853,คลองมหาสวัสดิ์
+edu_1610c7b0e632,BMA,3110014905,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.77942445,100.34428271,วัดปุรณาวาส
+edu_8cd1087514a6,BMA,3110014906,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.64769127,100.4950497,ตั้งพิรุฬห์ธรรม
+edu_1de265586a44,BMA,3110024907,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.8014503,100.337082,มัธยมปุรณาวาส
+edu_ca2fa1f1a3b9,BMA,3110015001,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.64571495,100.51135438,นาหลวง
+edu_c327d46f325e,BMA,3110015002,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.65450196,100.47167051,สามัคคีบำรุง
+edu_f4bbae17588c,BMA,3110015003,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6347802,100.50316284,บางมด (ตันเปาว์วิทยาคาร)
+edu_d1c88188ab10,BMA,3110015004,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6324797,100.4827505,ราษฎร์บูรณะ(มูฮำหมัดอุทิศ)
+edu_ba0fdc9d99a5,BMA,3110015005,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.6193444,100.512151099999,รางราชพฤกษ์ (นุชมีอุทิศ)
+edu_8bc0e22d26bf,BMA,3110015006,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.635602,100.514795999999,วัดทุ่งครุ
+edu_a69860b883c6,BMA,3110015007,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.65714435,100.50954946,คลองรางจาก
+edu_a3a308037c7a,BMA,3110015008,data/raw/webscraping/raw_data/bma_schools.xlsx,,2568,13.7480313,100.52339878,ชูสินทองประดิษฐ์อนุสรณ์
+edu_80bca322c915,OSM,node/280389453,data/reference/osm_education.json,https://www.openstreetmap.org/node/280389453,,13.7281689,100.5637277,Australian International School
+edu_01ee59265786,OSM,node/444402381,data/reference/osm_education.json,https://www.openstreetmap.org/node/444402381,,13.7428138,100.5272951,สถาบันบัณฑิตบริหารธุรกิจศศินทร์
+edu_2a7d643192db,OSM,node/476330766,data/reference/osm_education.json,https://www.openstreetmap.org/node/476330766,,13.7166695,100.528994,Unnamed school (node/476330766)
+edu_7691836537c2,OSM,node/482008615,data/reference/osm_education.json,https://www.openstreetmap.org/node/482008615,,13.7085189,100.5278196,โรงเรียนจิ้นเตอะ
+edu_2873909b74d3,OSM,node/897205017,data/reference/osm_education.json,https://www.openstreetmap.org/node/897205017,,13.8448757,100.5815151,อนุบาลสุดารักษ์
+edu_7384ee209ac0,OSM,node/969891442,data/reference/osm_education.json,https://www.openstreetmap.org/node/969891442,,13.8323162,100.5910547,โรงเรียนเทพวิทยา
+edu_5416c986c6f3,OSM,node/975844393,data/reference/osm_education.json,https://www.openstreetmap.org/node/975844393,,13.6750731,100.5196788,โรงเรียนวัดแจงร้อน
+edu_0816b42a1752,OSM,node/979018144,data/reference/osm_education.json,https://www.openstreetmap.org/node/979018144,,13.7383279,100.5095732,โรงเรียนวัดสัมพันธวงศ์
+edu_7359220ce3d6,OSM,node/1038361182,data/reference/osm_education.json,https://www.openstreetmap.org/node/1038361182,,13.756047,100.535656,Tantimedh Kindergarten
+edu_ee777dc10338,OSM,node/1116491559,data/reference/osm_education.json,https://www.openstreetmap.org/node/1116491559,,13.7397809,100.4602985,โรงเรียนวัดวิจิตรการนิมิตร
+edu_605b8b8b35d4,OSM,node/1116491954,data/reference/osm_education.json,https://www.openstreetmap.org/node/1116491954,,13.7362445,100.452932,โรงเรียนวัดโตนด
+edu_8947d6c220ed,OSM,node/1147200553,data/reference/osm_education.json,https://www.openstreetmap.org/node/1147200553,,13.769466,100.4271517,โรงเรียนวัดโพธิ์(ราษฎร์ผดุงผล)
+edu_ff356ef358f1,OSM,node/1147228723,data/reference/osm_education.json,https://www.openstreetmap.org/node/1147228723,,13.7196087,100.4286806,โรงเรียนผดุงกิจวิทยา
+edu_c01c9f71435f,OSM,node/1206929515,data/reference/osm_education.json,https://www.openstreetmap.org/node/1206929515,,13.7139428,100.5132013,Rajamangala University of Technology Krungthep
+edu_d7e1d60de72a,OSM,node/1279925851,data/reference/osm_education.json,https://www.openstreetmap.org/node/1279925851,,13.6977754,100.4080919,โรงเรียนสอนพิเศษครูผึ้ง
+edu_e4bce2b8a602,OSM,node/1374590623,data/reference/osm_education.json,https://www.openstreetmap.org/node/1374590623,,13.8456681,100.5764959,Veterinary Technology
+edu_50bdb3fe920d,OSM,node/1374592027,data/reference/osm_education.json,https://www.openstreetmap.org/node/1374592027,,13.8451226,100.5770893,คณะสัตวแพทย์ศาสตร์
+edu_32c804d3d2c6,OSM,node/1538372333,data/reference/osm_education.json,https://www.openstreetmap.org/node/1538372333,,13.8213868,100.5053394,โรงเรียนสตรีนนทบุรี
+edu_fb0a174c1f5e,OSM,node/1625417488,data/reference/osm_education.json,https://www.openstreetmap.org/node/1625417488,,13.7092856,100.4267924,โรงเรียนวัดนิมมานรดี
+edu_70cf44ad75f7,OSM,node/1689387614,data/reference/osm_education.json,https://www.openstreetmap.org/node/1689387614,,13.7683875,100.5292637,โรงเรียนสอนคนตาบอด
+edu_aa34e1b54adb,OSM,node/1756125612,data/reference/osm_education.json,https://www.openstreetmap.org/node/1756125612,,13.745687,100.5323562,แบงคอค เอฟ เอ
+edu_422b8904c42a,OSM,node/1756133199,data/reference/osm_education.json,https://www.openstreetmap.org/node/1756133199,,13.7448769,100.5343626,สถาบันดนตรี เคพีเอ็น มิวสิค
+edu_ec0454d723fc,OSM,node/1883592818,data/reference/osm_education.json,https://www.openstreetmap.org/node/1883592818,,13.7225288,100.4567276,โรงเรียนวัดประดู่บางจาก (พ่วงอุทิศ)
+edu_81f9a2113476,OSM,node/1892796262,data/reference/osm_education.json,https://www.openstreetmap.org/node/1892796262,,13.7178279,100.4503689,โรงเรียนชาญกิจวิทยา
+edu_c5e390bcce85,OSM,node/1930668274,data/reference/osm_education.json,https://www.openstreetmap.org/node/1930668274,,13.7158069,100.4440913,Charm English Home
+edu_aa6228a8ca0b,OSM,node/1971250696,data/reference/osm_education.json,https://www.openstreetmap.org/node/1971250696,,13.7152285,100.4437835,โรงเรียนสอนตัดเสื้อสมบูรณ์เกื้อ
+edu_725c78add903,OSM,node/2075996115,data/reference/osm_education.json,https://www.openstreetmap.org/node/2075996115,,13.7672988,100.4417826,Arabeques
+edu_97a6ab68c249,OSM,node/2076002284,data/reference/osm_education.json,https://www.openstreetmap.org/node/2076002284,,13.7674447,100.4418203,A Little Something
+edu_efb0064ee50a,OSM,node/2076002287,data/reference/osm_education.json,https://www.openstreetmap.org/node/2076002287,,13.7675724,100.4418497,Juno Park ville
+edu_dda53737fbae,OSM,node/2076002290,data/reference/osm_education.json,https://www.openstreetmap.org/node/2076002290,,13.7677309,100.441837,Pingu English
+edu_c65545fe86e9,OSM,node/2076002293,data/reference/osm_education.json,https://www.openstreetmap.org/node/2076002293,,13.7678688,100.4418666,Kidsmatter
+edu_7bfc2a69d837,OSM,node/2076061379,data/reference/osm_education.json,https://www.openstreetmap.org/node/2076061379,,13.7677051,100.4426145,Yago House
+edu_23cd8cf2b8cc,OSM,node/2084081328,data/reference/osm_education.json,https://www.openstreetmap.org/node/2084081328,,13.7131704,100.4124666,โรงเรียนบางแคเหนือ
+edu_27d4a7e5bda7,OSM,node/2084106704,data/reference/osm_education.json,https://www.openstreetmap.org/node/2084106704,,13.7132563,100.4174265,โรงเรียนภาษานุสรณ์บางแค
+edu_481c40f1fd66,OSM,node/2094758892,data/reference/osm_education.json,https://www.openstreetmap.org/node/2094758892,,13.7177813,100.4784657,โรงเรียนกันตทาราราม (สืบ-ลูกจันทร์ จึงประไพ)
+edu_406f036ae930,OSM,node/2099152266,data/reference/osm_education.json,https://www.openstreetmap.org/node/2099152266,,13.838373,100.5510337,kid fun
+edu_a41b6bf5af56,OSM,node/2099152267,data/reference/osm_education.json,https://www.openstreetmap.org/node/2099152267,,13.8383508,100.5511156,abcdschool
+edu_a98bf5655b56,OSM,node/2099152268,data/reference/osm_education.json,https://www.openstreetmap.org/node/2099152268,,13.8376082,100.5506193,Unnamed school (node/2099152268)
+edu_f60b4a27a1aa,OSM,node/2102754973,data/reference/osm_education.json,https://www.openstreetmap.org/node/2102754973,,13.73814,100.6290657,สถาบันเทคโนโลยีไทย-ญี่ปุ่น
+edu_23d07a7777ad,OSM,node/2106372780,data/reference/osm_education.json,https://www.openstreetmap.org/node/2106372780,,13.7337335,100.5367485,คณะแพทยศาสตร์
+edu_c12be131e1ce,OSM,node/2528289409,data/reference/osm_education.json,https://www.openstreetmap.org/node/2528289409,,13.7227984,100.5142688,โรงเรียนอัสสัมชัญคอนแวนต์
+edu_264e916f2289,OSM,node/2680144617,data/reference/osm_education.json,https://www.openstreetmap.org/node/2680144617,,13.7553477,100.5278801,Siam Singapore International School
+edu_fc1c3eb052a2,OSM,node/3033861416,data/reference/osm_education.json,https://www.openstreetmap.org/node/3033861416,,13.6833184,100.4448794,โรงเรียนดวงวิภา
+edu_0190f55442af,OSM,node/3038717215,data/reference/osm_education.json,https://www.openstreetmap.org/node/3038717215,,13.676735,100.4354327,โรงเรียนวิชัยวิทยา
+edu_5130a9d5e6b1,OSM,node/3320133322,data/reference/osm_education.json,https://www.openstreetmap.org/node/3320133322,,13.7301371,100.5727604,Thai Language Hut School
+edu_3b9af5ee1ca6,OSM,node/3332709431,data/reference/osm_education.json,https://www.openstreetmap.org/node/3332709431,,13.739562,100.5846469,Superstar Academy
+edu_0aa347a92764,OSM,node/3488335056,data/reference/osm_education.json,https://www.openstreetmap.org/node/3488335056,,13.7090864,100.3927801,โรงเรียนอำนวยศิลป์ธนบุรี
+edu_9f82795d00af,OSM,node/3578835724,data/reference/osm_education.json,https://www.openstreetmap.org/node/3578835724,,13.7425327,100.4562692,โรงเรียนวัดเกาะ
+edu_51eb53341c8b,OSM,node/3626103681,data/reference/osm_education.json,https://www.openstreetmap.org/node/3626103681,,13.7047204,100.3845728,โรงเรียน เพชรเกษม (จตุรงค์สงครามอนุสรณ์)
+edu_f08a2b22e7f6,OSM,node/3724152156,data/reference/osm_education.json,https://www.openstreetmap.org/node/3724152156,,13.778306,100.5714559,Phra Nakhon Polytechnic College
+edu_bda85982da4b,OSM,node/3778156473,data/reference/osm_education.json,https://www.openstreetmap.org/node/3778156473,,13.743885,100.5701741,Anglo Singapore International School
+edu_f45268039df2,OSM,node/3778156482,data/reference/osm_education.json,https://www.openstreetmap.org/node/3778156482,,13.7446383,100.5719022,โรงเรียนนานาชาติโมเดิร์น
+edu_0e33bbebe334,OSM,node/3805458804,data/reference/osm_education.json,https://www.openstreetmap.org/node/3805458804,,13.8413842,100.4927854,โรงเรียนอนุบาลนนทบุรี
+edu_4c32f7fb6025,OSM,node/3894809422,data/reference/osm_education.json,https://www.openstreetmap.org/node/3894809422,,13.7632303,100.4947978,Baanchao Yoga
+edu_7b4203f3c608,OSM,node/4176047190,data/reference/osm_education.json,https://www.openstreetmap.org/node/4176047190,,13.7070702,100.3699402,โรงเรียนศึกษาสมบูรณ์อนุสรณ์
+edu_0c71d1b78672,OSM,node/4205599590,data/reference/osm_education.json,https://www.openstreetmap.org/node/4205599590,,13.8139275,100.5401594,Unnamed school (node/4205599590)
+edu_f94852340fbb,OSM,node/4227598390,data/reference/osm_education.json,https://www.openstreetmap.org/node/4227598390,,13.7453904,100.5694659,Chutaporn Kindergarten
+edu_0952d897b3e2,OSM,node/4285814690,data/reference/osm_education.json,https://www.openstreetmap.org/node/4285814690,,13.7118977,100.622566,โรงเรียนวัดทองใน
+edu_60a28d370dbd,OSM,node/4336887189,data/reference/osm_education.json,https://www.openstreetmap.org/node/4336887189,,13.730941,100.613182,โรงเรียนนาคนาวาอุปถัมภ์
+edu_d91a52defaae,OSM,node/4362544587,data/reference/osm_education.json,https://www.openstreetmap.org/node/4362544587,,13.688399,100.406648,โรงเรียนดนตรี ป๊อปอัพ
+edu_970ef15db4c0,OSM,node/4382564137,data/reference/osm_education.json,https://www.openstreetmap.org/node/4382564137,,13.6941125,100.4354113,Unnamed school (node/4382564137)
+edu_7042913db232,OSM,node/4401043989,data/reference/osm_education.json,https://www.openstreetmap.org/node/4401043989,,13.7392528,100.5603155,GoodWill Foundation
+edu_23fe267420b2,OSM,node/4414930192,data/reference/osm_education.json,https://www.openstreetmap.org/node/4414930192,,13.7649047,100.5341009,MORU Epidemiology
+edu_545ccbefed3a,OSM,node/4416932793,data/reference/osm_education.json,https://www.openstreetmap.org/node/4416932793,,13.7451843,100.5649756,หลักสูตรนานาชาติ รร.สาธิต มศว ประสานมิตร(ฝ่ายมัธยม)
+edu_46076d5c0e5a,OSM,node/4416968689,data/reference/osm_education.json,https://www.openstreetmap.org/node/4416968689,,13.7428628,100.5656556,รร. สาธิต มศว ประสานมิตร (ฝ่ายมัธยม)
+edu_5762920db026,OSM,node/4474611666,data/reference/osm_education.json,https://www.openstreetmap.org/node/4474611666,,13.7361459,100.5712125,โรงเรียนนานาชาติไอวี่บาวนด์
+edu_fa04845df7a7,OSM,node/4475532652,data/reference/osm_education.json,https://www.openstreetmap.org/node/4475532652,,13.7237782,100.5708455,Vanessa Sukhumvit School
+edu_cb3172f93fac,OSM,node/4484567268,data/reference/osm_education.json,https://www.openstreetmap.org/node/4484567268,,13.7192476,100.5863688,โรงเรียนวัดธาตุทอง (เรือนเขียวสะอาด)
+edu_198f8b467758,OSM,node/4525734747,data/reference/osm_education.json,https://www.openstreetmap.org/node/4525734747,,13.6922966,100.3784865,บ้านขยันเรียน
+edu_27ee2baf4603,OSM,node/4619758690,data/reference/osm_education.json,https://www.openstreetmap.org/node/4619758690,,13.7345789,100.5945018,Thai Christian school
+edu_ee6666c21fc2,OSM,node/4646308692,data/reference/osm_education.json,https://www.openstreetmap.org/node/4646308692,,13.7560887,100.4280652,โรงเรียนอยู่เย็นวิทยา
+edu_ee6666c21fc2,OSM,way/1127694533,data/reference/osm_education.json,https://www.openstreetmap.org/way/1127694533,,13.7545155,100.4289919,โรงเรียนอยู่เย็นวิทยา
+edu_0f680460ac8c,OSM,node/4676444901,data/reference/osm_education.json,https://www.openstreetmap.org/node/4676444901,,13.7550007,100.6276466,Assumption University in Hua Mak
+edu_a8c7332d791c,OSM,node/4763200930,data/reference/osm_education.json,https://www.openstreetmap.org/node/4763200930,,13.7902295,100.4804255,Unnamed school (node/4763200930)
+edu_13c4ad4b5ec3,OSM,node/4811250935,data/reference/osm_education.json,https://www.openstreetmap.org/node/4811250935,,13.8451352,100.6325403,โรงเรียนนนานาชาติกีรพัฒน์
+edu_7a4ff0d6da60,OSM,node/4811260814,data/reference/osm_education.json,https://www.openstreetmap.org/node/4811260814,,13.8452961,100.6353947,โรงเรียนบ้านเด็กรามอินทรา
+edu_712cc96df8eb,OSM,node/4811262701,data/reference/osm_education.json,https://www.openstreetmap.org/node/4811262701,,13.8403901,100.6328487,โรงเรียนลอยสายอนุสรณ์
+edu_2136c397a677,OSM,node/4850873241,data/reference/osm_education.json,https://www.openstreetmap.org/node/4850873241,,13.7212804,100.6034044,Acorns to Oaks Children's Centre
+edu_2903fdf0368a,OSM,node/4858945991,data/reference/osm_education.json,https://www.openstreetmap.org/node/4858945991,,13.7203703,100.5669983,Rockademy
+edu_b8e89b020311,OSM,node/4965167521,data/reference/osm_education.json,https://www.openstreetmap.org/node/4965167521,,13.7442878,100.5630565,TOEIC testing centre
+edu_6c54447d6f35,OSM,node/5208985421,data/reference/osm_education.json,https://www.openstreetmap.org/node/5208985421,,13.7548844,100.6276628,Abac
+edu_50d8761692c8,OSM,node/5261602938,data/reference/osm_education.json,https://www.openstreetmap.org/node/5261602938,,13.7958902,100.5914861,English Planet
+edu_4678ea67c057,OSM,node/5740066421,data/reference/osm_education.json,https://www.openstreetmap.org/node/5740066421,,13.8274159,100.5963054,Study Plus Education
+edu_ffc4ec4c98ea,OSM,node/6231622435,data/reference/osm_education.json,https://www.openstreetmap.org/node/6231622435,,13.7478266,100.52334,โรงเรียนวัดชัยมงคล
+edu_615c4822f2ef,OSM,node/6287460721,data/reference/osm_education.json,https://www.openstreetmap.org/node/6287460721,,13.764855,100.5014988,โรงเรียนวัดใหม่อมตรส
+edu_88b46deb40b0,OSM,node/6373487485,data/reference/osm_education.json,https://www.openstreetmap.org/node/6373487485,,13.8373517,100.4883461,โรงเรียนอุดมศึกษา นนทบุรี
+edu_fa1c8441b980,OSM,node/6375556318,data/reference/osm_education.json,https://www.openstreetmap.org/node/6375556318,,13.7520839,100.577412,Shrewsbury International School City Campus
+edu_e9d8bc52664c,OSM,node/6417877064,data/reference/osm_education.json,https://www.openstreetmap.org/node/6417877064,,13.8229482,100.5031737,โรงเรียนวัดเขมาภิรตาราม
+edu_e9d8bc52664c,OSM,way/1381743951,data/reference/osm_education.json,https://www.openstreetmap.org/way/1381743951,,13.8230118,100.503153,โรงเรียนวัดเขมาภิรตาราม
+edu_5c0c40c59360,OSM,node/6420157474,data/reference/osm_education.json,https://www.openstreetmap.org/node/6420157474,,13.80646,100.4767287,โรงเรียนวัดชลอ
+edu_be760263095e,OSM,node/6447949591,data/reference/osm_education.json,https://www.openstreetmap.org/node/6447949591,,13.7154577,100.6284975,Unnamed school (node/6447949591)
+edu_96acc6185c08,OSM,node/7062637885,data/reference/osm_education.json,https://www.openstreetmap.org/node/7062637885,,13.693753,100.5752559,Unnamed school (node/7062637885)
+edu_93c03fe90c41,OSM,node/8344779349,data/reference/osm_education.json,https://www.openstreetmap.org/node/8344779349,,13.7796951,100.5531407,โรงเรียนจิตอาสาพระราชทาน
+edu_965a67c2d5fa,OSM,node/9029177237,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177237,,13.8130222,100.4130364,หอประชุมโชติปาโล
+edu_2a82e06c6f73,OSM,node/9029177238,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177238,,13.8136239,100.4127295,เรือนรำเพย
+edu_8e32dad28882,OSM,node/9029177239,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177239,,13.8137583,100.4129188,อาคาร 3
+edu_f7e8065a4c04,OSM,node/9029177242,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177242,,13.8140422,100.413368,อาคาร 2
+edu_494e84ac7281,OSM,node/9029177243,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177243,,13.8140144,100.4142075,อาคาร 4
+edu_7f63d855f1c1,OSM,node/9029177244,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177244,,13.8141695,100.4142832,อาคารปฏิบัติการ
+edu_635975fdebb1,OSM,node/9029177249,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177249,,13.8135134,100.4142563,อาคารพยาบาล
+edu_6105c1e30006,OSM,node/9029177250,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177250,,13.8132996,100.4140073,อาคาร 5
+edu_906dab76bce0,OSM,node/9029177251,data/reference/osm_education.json,https://www.openstreetmap.org/node/9029177251,,13.8130172,100.4135351,อาคาร 1
+edu_0fc21ff43a9d,OSM,node/10115849017,data/reference/osm_education.json,https://www.openstreetmap.org/node/10115849017,,13.7186349,100.5830004,Unnamed school (node/10115849017)
+edu_6dafa6d39233,OSM,node/10581612348,data/reference/osm_education.json,https://www.openstreetmap.org/node/10581612348,,13.7342958,100.545333,Royal Symphony Music
+edu_d3ac7c586d45,OSM,node/10672037400,data/reference/osm_education.json,https://www.openstreetmap.org/node/10672037400,,13.7560993,100.6431287,International Hotel and Tourism Industry Management School
+edu_c589c1633bd7,OSM,node/10672142405,data/reference/osm_education.json,https://www.openstreetmap.org/node/10672142405,,13.7523802,100.5749634,SanDee Language School
+edu_100ec15c2fba,OSM,node/12279532670,data/reference/osm_education.json,https://www.openstreetmap.org/node/12279532670,,13.6920345,100.591966,โรงเรียนบพิธวิทยา
+edu_26020f51793b,OSM,node/12325451426,data/reference/osm_education.json,https://www.openstreetmap.org/node/12325451426,,13.8088854,100.5199436,โรงเรียนวัดบางโพอมาวาส
+edu_78b897627239,OSM,node/12366307672,data/reference/osm_education.json,https://www.openstreetmap.org/node/12366307672,,13.7007874,100.4972073,โรงเรียนวัดลาดบัวขาว
+edu_ad79beac84bf,OSM,node/12366307680,data/reference/osm_education.json,https://www.openstreetmap.org/node/12366307680,,13.695358,100.5037989,โรงเรียนวัดจันทร์ใน
+edu_bde127c64780,OSM,node/12366307681,data/reference/osm_education.json,https://www.openstreetmap.org/node/12366307681,,13.6872392,100.512289,โรงเรียนวัดบางโคล่นอก
+edu_26f036147c1a,OSM,node/12461186882,data/reference/osm_education.json,https://www.openstreetmap.org/node/12461186882,,13.7333116,100.4611408,โรงเรียนเปี่ยมสุวรรณวิทยา
+edu_0eb9f6866aa1,OSM,node/12461186894,data/reference/osm_education.json,https://www.openstreetmap.org/node/12461186894,,13.7163075,100.4534315,โรงเรียนวัดอ่างแก้ว (จีบ ปานขำ)
+edu_4c5ce714479c,OSM,node/12461186895,data/reference/osm_education.json,https://www.openstreetmap.org/node/12461186895,,13.7341067,100.4333563,โรงเรียนวัดชัยฉิมพลี
+edu_836217fbba86,OSM,node/12461212269,data/reference/osm_education.json,https://www.openstreetmap.org/node/12461212269,,13.7287168,100.4640791,โรงเรียนวัดทองศาลางาม
+edu_68e9c0ff9eb6,OSM,node/12461212270,data/reference/osm_education.json,https://www.openstreetmap.org/node/12461212270,,13.7236201,100.467406,โรงเรียนสุภาคมศึกษา
+edu_f038e8598523,OSM,node/12468584278,data/reference/osm_education.json,https://www.openstreetmap.org/node/12468584278,,13.7667936,100.4726193,โรงเรียนวัดศรีสุดาราม
+edu_34d9c056d180,OSM,node/12468584299,data/reference/osm_education.json,https://www.openstreetmap.org/node/12468584299,,13.7432689,100.467473,โรงเรียนวัดบางเสาธง
+edu_2d0a6e48890b,OSM,node/12468600801,data/reference/osm_education.json,https://www.openstreetmap.org/node/12468600801,,13.7414202,100.474888,โรงเรียนวัดดีดวด
+edu_281f32f55859,OSM,node/12468600862,data/reference/osm_education.json,https://www.openstreetmap.org/node/12468600862,,13.7640565,100.4872697,โรงเรียนวัดดุสิตาราม
+edu_3771d20fdd44,OSM,node/12468600878,data/reference/osm_education.json,https://www.openstreetmap.org/node/12468600878,,13.7732145,100.4766135,โรงเรียนวัดปฐมบุตรอิศราราม
+edu_25d367b723d7,OSM,node/12491825284,data/reference/osm_education.json,https://www.openstreetmap.org/node/12491825284,,13.7888129,100.5000548,โรงเรียนบูรณวิทย์
+edu_ebd730f472cb,OSM,node/12491835333,data/reference/osm_education.json,https://www.openstreetmap.org/node/12491835333,,13.7772663,100.4944332,โรงเรียนทิวไผ่งาม
+edu_46d91ca03189,OSM,node/12491835334,data/reference/osm_education.json,https://www.openstreetmap.org/node/12491835334,,13.7767384,100.4966672,Canadian International School of Thailand
+edu_9d0676226fd3,OSM,node/12491835488,data/reference/osm_education.json,https://www.openstreetmap.org/node/12491835488,,13.8016483,100.5134022,โรงเรียนวัดฉัตรแก้วจงกลณี
+edu_31970467d423,OSM,node/12491894571,data/reference/osm_education.json,https://www.openstreetmap.org/node/12491894571,,13.7976044,100.5024275,โรงเรียนวัดสามัคคีสุทธาวาส
+edu_4bb6f8043215,OSM,node/12492521506,data/reference/osm_education.json,https://www.openstreetmap.org/node/12492521506,,13.7340061,100.5069323,วิทยาลัยสารพัดช่างธนบุรี
+edu_519c93ff5f7e,OSM,node/12492521507,data/reference/osm_education.json,https://www.openstreetmap.org/node/12492521507,,13.7339649,100.5064409,โรงเรียนวัดทองธรรมชาติ
+edu_effe9d2574eb,OSM,node/12506857265,data/reference/osm_education.json,https://www.openstreetmap.org/node/12506857265,,13.7390315,100.4941815,โรงเรียนซางตาครู้สศึกษา
+edu_49aa5f1f0627,OSM,node/12506868973,data/reference/osm_education.json,https://www.openstreetmap.org/node/12506868973,,13.7090484,100.4924505,โรงเรียนวัดราชวรินทร์
+edu_2c5838797cc9,OSM,node/12509850682,data/reference/osm_education.json,https://www.openstreetmap.org/node/12509850682,,13.7115245,100.475631,โรงเรียนวัดบางสะแกใน
+edu_a3107cb794fd,OSM,node/12548689638,data/reference/osm_education.json,https://www.openstreetmap.org/node/12548689638,,13.6963766,100.5756797,โรงเรียนวัดบางกอบัว (ขลิบราษฎร์บุรณะ)
+edu_11de4b8ed47a,OSM,node/12548689645,data/reference/osm_education.json,https://www.openstreetmap.org/node/12548689645,,13.6841116,100.5622704,โรงเรียนวัดกองแก้ว (ผาดกาบแก้ว)
+edu_06e133b1c24f,OSM,node/12548689681,data/reference/osm_education.json,https://www.openstreetmap.org/node/12548689681,,13.6833147,100.5847821,โรงเรียนวัดบางน้ำผึ้งนอก
+edu_61118fc3f3b9,OSM,node/12877562342,data/reference/osm_education.json,https://www.openstreetmap.org/node/12877562342,,13.7553949,100.5100181,โรงเรียนวัดสิตาราม
+edu_b0438a4af35a,OSM,node/13074420148,data/reference/osm_education.json,https://www.openstreetmap.org/node/13074420148,,13.7314204,100.4619413,โรงเรียนสุธรรมศึกษา
+edu_9346f3e543c5,OSM,node/13918623301,data/reference/osm_education.json,https://www.openstreetmap.org/node/13918623301,,13.8351425,100.5583105,Brighton College Bangkok Vibhavadi
+edu_85c01291a38f,OSM,way/27276459,data/reference/osm_education.json,https://www.openstreetmap.org/way/27276459,,13.733047,100.545342,โรงเรียนสวนลุมพินี
+edu_861fb956c795,OSM,way/30715477,data/reference/osm_education.json,https://www.openstreetmap.org/way/30715477,,13.7135041,100.5376935,มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ
+edu_a064e8064906,OSM,way/31971450,data/reference/osm_education.json,https://www.openstreetmap.org/way/31971450,,13.7401753,100.5341229,โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ ปทุมวัน
+edu_5ff0a763956b,OSM,way/31972720,data/reference/osm_education.json,https://www.openstreetmap.org/way/31972720,,13.7418147,100.5311981,มหาวิทยาลัยเทคโนโลยีราชมงคล วิทยาเขตอุเทนถวาย
+edu_97494427863b,OSM,way/31973636,data/reference/osm_education.json,https://www.openstreetmap.org/way/31973636,,13.7375383,100.5271306,โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย ฝ่ายประถม
+edu_943d8c9c9cd5,OSM,way/31973647,data/reference/osm_education.json,https://www.openstreetmap.org/way/31973647,,13.7360441,100.5271831,โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย ฝ่ายมัธยม
+edu_06f51a89989b,OSM,way/31989428,data/reference/osm_education.json,https://www.openstreetmap.org/way/31989428,,13.7320376,100.5343767,สถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย
+edu_16b665ce71da,OSM,way/38001215,data/reference/osm_education.json,https://www.openstreetmap.org/way/38001215,,13.847942,100.5693598,มหาวิทยาลัยเกษตรศาสตร์
+edu_8a0baf2ab67e,OSM,way/38001585,data/reference/osm_education.json,https://www.openstreetmap.org/way/38001585,,13.7428929,100.5430052,โรงเรียนมาแตร์เดอีวิทยาลัย
+edu_f2647b691168,OSM,way/39724046,data/reference/osm_education.json,https://www.openstreetmap.org/way/39724046,,13.716308,100.5265478,โรงเรียนอัสสัมชัญ แผนกประถม
+edu_80e22d87c57d,OSM,way/39728050,data/reference/osm_education.json,https://www.openstreetmap.org/way/39728050,,13.7171498,100.5222942,วิทยาลัยเซนต์หลุยส์
+edu_b578a743ffc5,OSM,way/63092367,data/reference/osm_education.json,https://www.openstreetmap.org/way/63092367,,13.7183559,100.5908847,โรงเรียนพระแม่มารีพระโขนง
+edu_2ee35f89af9c,OSM,way/88336374,data/reference/osm_education.json,https://www.openstreetmap.org/way/88336374,,13.7490585,100.5002613,โรงเรียนพระปริยัติธรรม หอติสสเทวาภิธาน
+edu_66750f74364b,OSM,way/103670927,data/reference/osm_education.json,https://www.openstreetmap.org/way/103670927,,13.715184,100.5172008,โรงเรียนโกศลภัทรวิทย์
+edu_e29e94738789,OSM,way/113107220,data/reference/osm_education.json,https://www.openstreetmap.org/way/113107220,,13.71301,100.6037861,โรงเรียนวัดใต้
+edu_5d48505e2839,OSM,way/113113559,data/reference/osm_education.json,https://www.openstreetmap.org/way/113113559,,13.726847,100.5644033,Unnamed school (way/113113559)
+edu_22d4eff2468a,OSM,way/113113560,data/reference/osm_education.json,https://www.openstreetmap.org/way/113113560,,13.727306,100.5644086,Unnamed school (way/113113560)
+edu_66a768ebca70,OSM,way/113113563,data/reference/osm_education.json,https://www.openstreetmap.org/way/113113563,,13.7275692,100.5650256,Unnamed school (way/113113563)
+edu_ed4bf81bfbf0,OSM,way/113113564,data/reference/osm_education.json,https://www.openstreetmap.org/way/113113564,,13.726876,100.5647653,Unnamed school (way/113113564)
+edu_6154d55ddec3,OSM,way/113113571,data/reference/osm_education.json,https://www.openstreetmap.org/way/113113571,,13.7271873,100.5641797,Unnamed school (way/113113571)
+edu_64da6eee5bdd,OSM,way/113113572,data/reference/osm_education.json,https://www.openstreetmap.org/way/113113572,,13.727751,100.5642773,Unnamed school (way/113113572)
+edu_6ebd8f1f320e,OSM,way/113113574,data/reference/osm_education.json,https://www.openstreetmap.org/way/113113574,,13.727818,100.5647528,อาคาร 4
+edu_912cc22a4732,OSM,way/113113576,data/reference/osm_education.json,https://www.openstreetmap.org/way/113113576,,13.7273496,100.5645446,โรงเรียนสายน้ำผึ้ง
+edu_c1bd23f1beda,OSM,way/113135459,data/reference/osm_education.json,https://www.openstreetmap.org/way/113135459,,13.7140173,100.6078126,Unnamed school (way/113135459)
+edu_ec32ef7a85af,OSM,way/113135460,data/reference/osm_education.json,https://www.openstreetmap.org/way/113135460,,13.7136803,100.6075382,Unnamed school (way/113135460)
+edu_5d6c856f4ada,OSM,way/113135467,data/reference/osm_education.json,https://www.openstreetmap.org/way/113135467,,13.7139046,100.6074273,โรงเรียนวัดมหาบุศย์
+edu_2bf5fe09cca1,OSM,way/113135478,data/reference/osm_education.json,https://www.openstreetmap.org/way/113135478,,13.7142316,100.607655,Unnamed school (way/113135478)
+edu_a3ce8ebb321f,OSM,way/116173028,data/reference/osm_education.json,https://www.openstreetmap.org/way/116173028,,13.7241481,100.5457573,สถาบันเกอเธ่
+edu_4466a04b65b1,OSM,way/121199872,data/reference/osm_education.json,https://www.openstreetmap.org/way/121199872,,13.8105146,100.5608173,Unnamed university (way/121199872)
+edu_8ec93aeafc0f,OSM,way/125738413,data/reference/osm_education.json,https://www.openstreetmap.org/way/125738413,,13.7694695,100.5321342,วิทยาลัยพยาบาลบรมราชชนนี กรุงเทพ
+edu_acacdff79cc8,OSM,way/139354501,data/reference/osm_education.json,https://www.openstreetmap.org/way/139354501,,13.7320154,100.489283,มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา
+edu_9fc9b9a92520,OSM,way/139359423,data/reference/osm_education.json,https://www.openstreetmap.org/way/139359423,,13.7320163,100.4885739,โรงเรียนมัธยมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา
+edu_907abba9e6d2,OSM,way/139362149,data/reference/osm_education.json,https://www.openstreetmap.org/way/139362149,,13.7314772,100.4872623,โรงเรียนประถมสาธิตมหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา
+edu_0c1c84c3b906,OSM,way/146461579,data/reference/osm_education.json,https://www.openstreetmap.org/way/146461579,,13.7222262,100.5154504,โรงเรียนอัสสัมชัญศึกษา
+edu_c989aab3ea8e,OSM,way/149979928,data/reference/osm_education.json,https://www.openstreetmap.org/way/149979928,,13.7341079,100.4916714,มหาวิทยาลัยราชภัฏธนบุรี
+edu_39021305d7d1,OSM,way/155414507,data/reference/osm_education.json,https://www.openstreetmap.org/way/155414507,,13.7290757,100.6004594,Unnamed school (way/155414507)
+edu_61bacd188255,OSM,way/157220005,data/reference/osm_education.json,https://www.openstreetmap.org/way/157220005,,13.7230842,100.5159137,โรงเรียนอัสสัมชัญ
+edu_1ee2d022df3b,OSM,way/175683949,data/reference/osm_education.json,https://www.openstreetmap.org/way/175683949,,13.7847357,100.526919,โรงเรียนเสนาธิการทหารบก
+edu_78d3d9cc0b60,OSM,way/176820827,data/reference/osm_education.json,https://www.openstreetmap.org/way/176820827,,13.7619177,100.5136052,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร
+edu_907c45e34f00,OSM,way/177938414,data/reference/osm_education.json,https://www.openstreetmap.org/way/177938414,,13.7208335,100.4531953,มหาวิทยาลัยสยาม
+edu_1688faec5241,OSM,way/178329974,data/reference/osm_education.json,https://www.openstreetmap.org/way/178329974,,13.7530631,100.4903499,มหาวิทยาลัยศิลปากร วังท่าพระ
+edu_c330dc367441,OSM,way/182520330,data/reference/osm_education.json,https://www.openstreetmap.org/way/182520330,,13.7532314,100.628145,มหาวิทยาลัยอัสสัมชัญ
+edu_a7472f645590,OSM,way/195690619,data/reference/osm_education.json,https://www.openstreetmap.org/way/195690619,,13.7391787,100.6277027,มหาวิทยาลัยเกษมบัณฑิต
+edu_749c95324f72,OSM,way/199143869,data/reference/osm_education.json,https://www.openstreetmap.org/way/199143869,,13.7362134,100.4295253,โรงเรียนเซนต์ปีเตอร์ ธนบุรี
+edu_6cd00e7b164e,OSM,way/203906312,data/reference/osm_education.json,https://www.openstreetmap.org/way/203906312,,13.7655325,100.5337771,คณะเวชศาสตร์เขตร้อน มหาวิทยาลัยมหิดล
+edu_fc4d2d71a34e,OSM,way/203906315,data/reference/osm_education.json,https://www.openstreetmap.org/way/203906315,,13.7662768,100.5340769,คณะสาธารณสุขศาสตร์ มหาวิทยาลัยมหิดล
+edu_0bb36b8202fe,OSM,way/203908553,data/reference/osm_education.json,https://www.openstreetmap.org/way/203908553,,13.7626793,100.5401925,โรงเรียนดุสิตพาณิชยการ
+edu_aeecae19b468,OSM,way/203908554,data/reference/osm_education.json,https://www.openstreetmap.org/way/203908554,,13.7625313,100.5362759,วิทยาลัยพยาบาลบรมราชชนนี
+edu_5c940842097e,OSM,way/204144790,data/reference/osm_education.json,https://www.openstreetmap.org/way/204144790,,13.799924,100.553931,สถาบันการบินพลเรือน
+edu_357bef1a8fde,OSM,way/204884850,data/reference/osm_education.json,https://www.openstreetmap.org/way/204884850,,13.716883,100.5259466,โรงเรียนอัสสัมชัญพาณิชยการ
+edu_9fcd4fd806fc,OSM,way/231405211,data/reference/osm_education.json,https://www.openstreetmap.org/way/231405211,,13.726224,100.5151192,โรงเรียนวัดม่วงแค
+edu_c65d9cba6689,OSM,way/231663776,data/reference/osm_education.json,https://www.openstreetmap.org/way/231663776,,13.8406297,100.5564182,โรงเรียนวัดเสมียนนารี
+edu_61f0786f64f5,OSM,way/234351081,data/reference/osm_education.json,https://www.openstreetmap.org/way/234351081,,13.7626913,100.4968998,Kumon
+edu_441ec080dc52,OSM,way/236030930,data/reference/osm_education.json,https://www.openstreetmap.org/way/236030930,,13.8305932,100.5760051,โรงเรียนช่างฝีมือทหาร
+edu_f965f65c2618,OSM,way/236958957,data/reference/osm_education.json,https://www.openstreetmap.org/way/236958957,,13.7615086,100.6059942,วิทยาลัยพาณิชการอินทราชัย
+edu_128a59bde361,OSM,way/245606111,data/reference/osm_education.json,https://www.openstreetmap.org/way/245606111,,13.8475755,100.604085,โรงเรียนวัดลาดปลาเค้า
+edu_7219f6af60e2,OSM,way/253456054,data/reference/osm_education.json,https://www.openstreetmap.org/way/253456054,,13.7353293,100.5651166,สมาคมส่งเสริมเทคโนโลยี (สส่ท)
+edu_b72d9ff0d180,OSM,way/255347907,data/reference/osm_education.json,https://www.openstreetmap.org/way/255347907,,13.7585373,100.5389618,โรงเรียนศรีอยุธยา
+edu_cbdfde3741e7,OSM,way/258727214,data/reference/osm_education.json,https://www.openstreetmap.org/way/258727214,,13.733269,100.6405133,คลองกลันตัน (มีสุวรรณ อนุสรณ์)
+edu_3a0b73974704,OSM,way/261504148,data/reference/osm_education.json,https://www.openstreetmap.org/way/261504148,,13.7344127,100.5234602,โรงเรียนคริสต์ธรรมวิทยา
+edu_04765156fd0c,OSM,way/289494467,data/reference/osm_education.json,https://www.openstreetmap.org/way/289494467,,13.7183148,100.5241634,โรงเรียนเซนต์หลุยส์ศึกษา
+edu_bee30bfb1c8d,OSM,way/296528239,data/reference/osm_education.json,https://www.openstreetmap.org/way/296528239,,13.7208399,100.4847704,โรงเรียนวัดโพธินิมิตร
+edu_6195f90fc62c,OSM,way/299627964,data/reference/osm_education.json,https://www.openstreetmap.org/way/299627964,,13.803457,100.5127209,วิทยาลัยเทคโนโลยีพระรามหก
+edu_eed8050dbc77,OSM,way/301087418,data/reference/osm_education.json,https://www.openstreetmap.org/way/301087418,,13.7560421,100.6180202,มหาวิทยาลัยรามคำแหง (หัวหมาก)
+edu_9439efa0ad40,OSM,way/301157261,data/reference/osm_education.json,https://www.openstreetmap.org/way/301157261,,13.7446379,100.5099986,โรงเรียนวัดคณิกาผล
+edu_9dfe776dfaf3,OSM,way/305102102,data/reference/osm_education.json,https://www.openstreetmap.org/way/305102102,,13.7369079,100.5109578,โรงเรียนวัดปทุมคงคา
+edu_458f56f89117,OSM,way/307255733,data/reference/osm_education.json,https://www.openstreetmap.org/way/307255733,,13.7690757,100.4753416,วิทยาลัยเทคโนโลยีจรัลสนิทวงศ์
+edu_64ccb74eb11f,OSM,way/315453714,data/reference/osm_education.json,https://www.openstreetmap.org/way/315453714,,13.7339626,100.5784369,The Early Learning Centre
+edu_679689b790f6,OSM,way/316418786,data/reference/osm_education.json,https://www.openstreetmap.org/way/316418786,,13.7899589,100.6505246,โรงเรียนโสมาภา 2
+edu_e4deee90b976,OSM,way/318706315,data/reference/osm_education.json,https://www.openstreetmap.org/way/318706315,,13.7156564,100.596564,Unnamed school (way/318706315)
+edu_3c5a6a8dbdde,OSM,way/318953430,data/reference/osm_education.json,https://www.openstreetmap.org/way/318953430,,13.7255462,100.594959,Unnamed school (way/318953430)
+edu_0400379e5161,OSM,way/324275305,data/reference/osm_education.json,https://www.openstreetmap.org/way/324275305,,13.7271685,100.576964,Wells International School
+edu_dfaa60119a70,OSM,way/326606555,data/reference/osm_education.json,https://www.openstreetmap.org/way/326606555,,13.7391493,100.5876462,Chamchan School
+edu_949c087848d0,OSM,way/329745926,data/reference/osm_education.json,https://www.openstreetmap.org/way/329745926,,13.744883,100.5649317,มหาวิทยาลัยศรีนครินทรวิโรฒ ประสานมิตร
+edu_a9737cbf565d,OSM,way/329745928,data/reference/osm_education.json,https://www.openstreetmap.org/way/329745928,,13.74467,100.5601422,โรงเรียนวัฒนาวิทยาลัย
+edu_08a45fa79f85,OSM,way/331962489,data/reference/osm_education.json,https://www.openstreetmap.org/way/331962489,,13.7189079,100.581403,Unnamed school (way/331962489)
+edu_360760922bf8,OSM,way/333303945,data/reference/osm_education.json,https://www.openstreetmap.org/way/333303945,,13.7307791,100.592484,โรงเรียนนานาชาติเอกมัย
+edu_8816da01bd07,OSM,way/335064293,data/reference/osm_education.json,https://www.openstreetmap.org/way/335064293,,13.7237591,100.5978566,โรงเรียนนานาชาติเซนต์แอนดรูวส์
+edu_611d914e76de,OSM,way/337817493,data/reference/osm_education.json,https://www.openstreetmap.org/way/337817493,,13.7130743,100.4933895,โรงเรียนวัดสุทธาราม
+edu_4003e666b00e,OSM,way/337821776,data/reference/osm_education.json,https://www.openstreetmap.org/way/337821776,,13.7097821,100.4951746,รร.เกื้อวิทยา
+edu_3054d6039c3c,OSM,way/338902258,data/reference/osm_education.json,https://www.openstreetmap.org/way/338902258,,13.8167573,100.6381909,เลิศหล้า เกษตรนวมินทร์
+edu_49b0d2aeb12c,OSM,way/339387954,data/reference/osm_education.json,https://www.openstreetmap.org/way/339387954,,13.7101016,100.4955892,รร.อนุบาลสุวาวรรณ
+edu_891398f72bd8,OSM,way/340398857,data/reference/osm_education.json,https://www.openstreetmap.org/way/340398857,,13.7072804,100.4006234,โรงเรียนบางแค (เนื่องสังวาลย์อนุสรณ์)
+edu_b61459801338,OSM,way/340733943,data/reference/osm_education.json,https://www.openstreetmap.org/way/340733943,,13.739815,100.5663967,โรงเรียนสวัสดีวิทยา
+edu_c0cf0f6a5cb3,OSM,way/340736803,data/reference/osm_education.json,https://www.openstreetmap.org/way/340736803,,13.7415309,100.5655754,Unnamed school (way/340736803)
+edu_3b86d624ec6e,OSM,way/341563860,data/reference/osm_education.json,https://www.openstreetmap.org/way/341563860,,13.7482694,100.5258558,สถาบันเทคโนโลยีปทุมวัน
+edu_8bb1605a02b7,OSM,way/341638395,data/reference/osm_education.json,https://www.openstreetmap.org/way/341638395,,13.7363597,100.5527583,โรงเรียนนานาชาติบีเอสบีบริติชไพรแมรี่
+edu_5a5d8158ff14,OSM,way/342563914,data/reference/osm_education.json,https://www.openstreetmap.org/way/342563914,,13.7098831,100.5092568,โรงเรียนนานาชาติโชรส์เบอรี กรุงเทพ
+edu_63db9da3a24b,OSM,way/342829471,data/reference/osm_education.json,https://www.openstreetmap.org/way/342829471,,13.7261371,100.5348391,โรงเรียนเซนต์โยเซฟคอนเวนต์
+edu_c2845071d820,OSM,way/346464914,data/reference/osm_education.json,https://www.openstreetmap.org/way/346464914,,13.7666667,100.5338196,อาคารส่วนวิทยบริการ
+edu_723d46f3dc6a,OSM,way/347551556,data/reference/osm_education.json,https://www.openstreetmap.org/way/347551556,,13.7707726,100.5038636,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์เทเวศร์
+edu_eb14750908ed,OSM,way/347555772,data/reference/osm_education.json,https://www.openstreetmap.org/way/347555772,,13.7769289,100.5057724,โรงเรียนเซนต์ฟรังซีสเซเวียร์
+edu_a754ae1fc4c5,OSM,way/347571185,data/reference/osm_education.json,https://www.openstreetmap.org/way/347571185,,13.7753986,100.5083453,มหาวิทยาลัยราชภัฏสวนสุนันทา
+edu_6780a15e2c48,OSM,way/347928249,data/reference/osm_education.json,https://www.openstreetmap.org/way/347928249,,13.7226512,100.5244448,Silom Thai Cooking school
+edu_3568a0fda362,OSM,way/348422630,data/reference/osm_education.json,https://www.openstreetmap.org/way/348422630,,13.7647698,100.5135581,โรงเรียนเบญจมบพิตร
+edu_59f00689d8b1,OSM,way/348425300,data/reference/osm_education.json,https://www.openstreetmap.org/way/348425300,,13.7803666,100.5046356,โรงเรียนวัดราขผาติการาม
+edu_787de12908a7,OSM,way/348427336,data/reference/osm_education.json,https://www.openstreetmap.org/way/348427336,,13.7810785,100.5080147,คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช
+edu_95cb93b1e40a,OSM,way/348428073,data/reference/osm_education.json,https://www.openstreetmap.org/way/348428073,,13.7824714,100.5107677,โรงเรียนทีปังกรวิทยาพัฒน์
+edu_5011a91ebaef,OSM,way/349648572,data/reference/osm_education.json,https://www.openstreetmap.org/way/349648572,,13.7428389,100.5038439,โรงเรียนวัดจักรวรรดิ
+edu_08475b722a7c,OSM,way/352097808,data/reference/osm_education.json,https://www.openstreetmap.org/way/352097808,,13.8430371,100.5094494,โรงเรียนวัดลานนาบุญ
+edu_9283095ee0f6,OSM,way/354927426,data/reference/osm_education.json,https://www.openstreetmap.org/way/354927426,,13.7759659,100.5064403,โรงเรียนเซนต์คาเบรียล
+edu_506c789ab7eb,OSM,way/356189309,data/reference/osm_education.json,https://www.openstreetmap.org/way/356189309,,13.7391435,100.5217679,โรงเรียนประเสริฐธรรมวิทยา
+edu_235799625793,OSM,way/366712932,data/reference/osm_education.json,https://www.openstreetmap.org/way/366712932,,13.7820645,100.5725336,โรงเรียนกุนนทีรุทธารามวิทยาคม
+edu_df417866f2f9,OSM,way/368559626,data/reference/osm_education.json,https://www.openstreetmap.org/way/368559626,,13.7775743,100.5693396,โรงเรียนสามเสนนอก
+edu_18dd6205cc06,OSM,way/368559627,data/reference/osm_education.json,https://www.openstreetmap.org/way/368559627,,13.7744193,100.5723604,Samsen Nok School
+edu_25bd466e7900,OSM,way/375807121,data/reference/osm_education.json,https://www.openstreetmap.org/way/375807121,,13.7242246,100.4691589,Unnamed school (way/375807121)
+edu_df92694a3d5b,OSM,way/375809411,data/reference/osm_education.json,https://www.openstreetmap.org/way/375809411,,13.7209338,100.4405301,โรงเรียนวัดจันทร์ประดิษฐาราม
+edu_85ca6b910844,OSM,way/376838760,data/reference/osm_education.json,https://www.openstreetmap.org/way/376838760,,13.8213328,100.5063322,โรงเรียนวัดปากน้ำ (พิบูลสงคราม)
+edu_5614edd8b967,OSM,way/380866196,data/reference/osm_education.json,https://www.openstreetmap.org/way/380866196,,13.779273,100.6385491,มหาวิทยาลัยรัตนบัณฑิต
+edu_2a7a49e51e72,OSM,way/389358685,data/reference/osm_education.json,https://www.openstreetmap.org/way/389358685,,13.7962252,100.548259,โรงเรียนวัดไผ่ตัน
+edu_ec9713cfa314,OSM,way/426064372,data/reference/osm_education.json,https://www.openstreetmap.org/way/426064372,,13.8136779,100.4136258,โรงเรียนเทพศิรินทร์ นนทบุรี
+edu_8961fe10a09c,OSM,way/465461337,data/reference/osm_education.json,https://www.openstreetmap.org/way/465461337,,13.7855627,100.4945795,Pimonwit School
+edu_e5e8e64bb017,OSM,way/495907936,data/reference/osm_education.json,https://www.openstreetmap.org/way/495907936,,13.7183361,100.5469772,โรงเรียนนานาชาติเครซเซนต์
+edu_8ef0699bf106,OSM,way/515847769,data/reference/osm_education.json,https://www.openstreetmap.org/way/515847769,,13.7153955,100.6016685,Bangkok Prep Campus
+edu_6eb51f19e212,OSM,way/533087885,data/reference/osm_education.json,https://www.openstreetmap.org/way/533087885,,13.7671813,100.5044099,โรงเรียนสตรีวรนาถ
+edu_ba382e91523a,OSM,way/533992744,data/reference/osm_education.json,https://www.openstreetmap.org/way/533992744,,13.6965956,100.6061448,Bangkok College of Technology
+edu_46c08a6814ba,OSM,way/545624215,data/reference/osm_education.json,https://www.openstreetmap.org/way/545624215,,13.731509,100.5896815,Sisb Nursery Center
+edu_ecf51cb2ab9e,OSM,way/559673496,data/reference/osm_education.json,https://www.openstreetmap.org/way/559673496,,13.74885,100.559686,โรงเรียนเซนต์ดอมินิก
+edu_55db64a53e76,OSM,way/559772193,data/reference/osm_education.json,https://www.openstreetmap.org/way/559772193,,13.731119,100.5955522,โรงเรียนเกษมพิทยา
+edu_ebecff65315a,OSM,way/560270164,data/reference/osm_education.json,https://www.openstreetmap.org/way/560270164,,13.7961338,100.5950253,Unnamed school (way/560270164)
+edu_6db48b680a6c,OSM,way/560431783,data/reference/osm_education.json,https://www.openstreetmap.org/way/560431783,,13.7172592,100.5874203,โรงเรียนนานาชาติเซนต์แอนดรูว์ส
+edu_e6e7fdd2becb,OSM,way/589549221,data/reference/osm_education.json,https://www.openstreetmap.org/way/589549221,,13.8133319,100.5176118,โรงเรียนวัดสร้อยทอง
+edu_8e745f8874ca,OSM,way/589752219,data/reference/osm_education.json,https://www.openstreetmap.org/way/589752219,,13.844551,100.577273,คณะสัตวแพทยศาสตร์
+edu_300067de61e7,OSM,way/589752221,data/reference/osm_education.json,https://www.openstreetmap.org/way/589752221,,13.8459345,100.5763912,คณะเทคนิคการสัตวแพทย์
+edu_026733ed9647,OSM,way/589767172,data/reference/osm_education.json,https://www.openstreetmap.org/way/589767172,,13.8466719,100.5790083,สมาคมนิสิตเก่ามหาวิทยาลัยเกษตรศาสตร์ ในพระบรมราชูปถัมภ์
+edu_649f36e3bd58,OSM,way/605773872,data/reference/osm_education.json,https://www.openstreetmap.org/way/605773872,,13.7501405,100.5603491,วิทยาลัยเทคโนโลยีดอนบอสโก
+edu_e2ee8136e452,OSM,way/606092510,data/reference/osm_education.json,https://www.openstreetmap.org/way/606092510,,13.8222198,100.5663203,โรงเรียนสตรีวรนาถบางเขน
+edu_ee8d8fb4a05d,OSM,way/612473659,data/reference/osm_education.json,https://www.openstreetmap.org/way/612473659,,13.7207701,100.5926132,Unnamed school (way/612473659)
+edu_08e770bc3a2e,OSM,way/616310543,data/reference/osm_education.json,https://www.openstreetmap.org/way/616310543,,13.7443717,100.4987086,วิทยาลัยเพาะช่าง มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์
+edu_e041cce6e0b0,OSM,way/657448482,data/reference/osm_education.json,https://www.openstreetmap.org/way/657448482,,13.8398934,100.4703145,โรงเรียนวัดพุฒิปรางค์ปราโมทย์
+edu_7cba6d8e97f7,OSM,way/658053752,data/reference/osm_education.json,https://www.openstreetmap.org/way/658053752,,13.8477629,100.4857514,โรงเรียนวัดเฉลิมพระเกียรติ (พิบูลบำรุง)
+edu_a51aa3beccba,OSM,way/658138969,data/reference/osm_education.json,https://www.openstreetmap.org/way/658138969,,13.7153424,100.6036827,Bangkok Prep
+edu_a51aa3beccba,OSM,relation/16261312,data/reference/osm_education.json,https://www.openstreetmap.org/relation/16261312,,13.7153955,100.6022963,Bangkok Prep
+edu_a781c82ee2ba,OSM,way/658344792,data/reference/osm_education.json,https://www.openstreetmap.org/way/658344792,,13.8218672,100.4582905,มหาวิทยาลัยราชพฤกษ์
+edu_d96fa81ec50e,OSM,way/660349731,data/reference/osm_education.json,https://www.openstreetmap.org/way/660349731,,13.8300706,100.4746125,โรงเรียนรัตนบัณฑิตวิทยา
+edu_b9bce3b84d90,OSM,way/660415745,data/reference/osm_education.json,https://www.openstreetmap.org/way/660415745,,13.8361382,100.4982067,วิทยาลัยเทคโนโลยีพงษ์สวัสดิ์
+edu_2a05d8dd00d2,OSM,way/664331018,data/reference/osm_education.json,https://www.openstreetmap.org/way/664331018,,13.7420406,100.5194848,โรงเรียนวัดดวงแข
+edu_a3fd6639ab43,OSM,way/664759613,data/reference/osm_education.json,https://www.openstreetmap.org/way/664759613,,13.7429767,100.5211442,โรงเรียนสีตบุตรบำรุง
+edu_3b9dae84236c,OSM,way/665908917,data/reference/osm_education.json,https://www.openstreetmap.org/way/665908917,,13.8135216,100.5199624,โรงเรียนโยธินบูรณะ
+edu_113a0c0ee055,OSM,way/676058129,data/reference/osm_education.json,https://www.openstreetmap.org/way/676058129,,13.7688562,100.5498421,วิทยาลัยการจัดการ มหาวิทยาลัยมหิดล
+edu_8e4e665ae687,OSM,way/676982744,data/reference/osm_education.json,https://www.openstreetmap.org/way/676982744,,13.7642483,100.5405596,The Brain
+edu_9a6a6a764830,OSM,way/677411081,data/reference/osm_education.json,https://www.openstreetmap.org/way/677411081,,13.7053469,100.5051945,โรงเรียนวัดราชสิงขร
+edu_2bef9f5aee4b,OSM,way/677902312,data/reference/osm_education.json,https://www.openstreetmap.org/way/677902312,,13.8059121,100.4880645,โรงเรียนวัดสำโรง
+edu_99815fc00161,OSM,way/682680563,data/reference/osm_education.json,https://www.openstreetmap.org/way/682680563,,13.820036,100.4836167,โรงเรียนวัดรวก (พร้อมพิทยาคาร)
+edu_16dd6a5a5a05,OSM,way/683023737,data/reference/osm_education.json,https://www.openstreetmap.org/way/683023737,,13.8481156,100.4435314,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี
+edu_dd3628932c92,OSM,way/683640209,data/reference/osm_education.json,https://www.openstreetmap.org/way/683640209,,13.8055376,100.4791469,โรงเรียนบดินทรเดชา (สิงห์ สิงหเสรี) นนทบุรี
+edu_fa2e13cbbb20,OSM,way/684786905,data/reference/osm_education.json,https://www.openstreetmap.org/way/684786905,,13.8405469,100.4557668,โรงเรียนนานาชาติร่วมฤดี สาขาราชพฤกษ์
+edu_c3542ed86a4e,OSM,way/699144152,data/reference/osm_education.json,https://www.openstreetmap.org/way/699144152,,13.8460221,100.4478891,โรงเรียนอนุบาลวัยใส
+edu_576a0f677d4d,OSM,way/700618619,data/reference/osm_education.json,https://www.openstreetmap.org/way/700618619,,13.8483499,100.4620628,โรงเรียนวัดบางระโหง (ภิรมย์ศิริ)
+edu_ac5b6688eb4a,OSM,way/700619543,data/reference/osm_education.json,https://www.openstreetmap.org/way/700619543,,13.8393,100.4406853,โรงเรียนวัดแคใน
+edu_1e89a4515b94,OSM,way/702077421,data/reference/osm_education.json,https://www.openstreetmap.org/way/702077421,,13.8185588,100.472528,โรงเรียนวัดบางอ้อยช้าง (นันทศรีวิบูลย์บำรุง)
+edu_0bcc10fa5d46,OSM,way/702091659,data/reference/osm_education.json,https://www.openstreetmap.org/way/702091659,,13.8358899,100.4657227,โรงเรียนศรีรัตโนภาศ
+edu_6d208684c043,OSM,way/704530596,data/reference/osm_education.json,https://www.openstreetmap.org/way/704530596,,13.7330776,100.5129249,วิทยาลัยสารพัดช่างสี่พระยา
+edu_730b7c177892,OSM,way/706382543,data/reference/osm_education.json,https://www.openstreetmap.org/way/706382543,,13.8420554,100.493865,โรงเรียนรัตนาธิเบศร์
+edu_f83fbee39dd7,OSM,way/706389288,data/reference/osm_education.json,https://www.openstreetmap.org/way/706389288,,13.8420762,100.4932767,โรงเรียนเทพประทานพร
+edu_5a7c8fb0a4f7,OSM,way/706397260,data/reference/osm_education.json,https://www.openstreetmap.org/way/706397260,,13.8442275,100.4984888,โรงเรียนนครนนท์วิทยา 2 (วัดทินกรนิมิต)
+edu_9e895071d71a,OSM,way/706881081,data/reference/osm_education.json,https://www.openstreetmap.org/way/706881081,,13.7166335,100.5139839,โรงเรียนวัดยานนาวา
+edu_ec6e2a9fc7ab,OSM,way/706951307,data/reference/osm_education.json,https://www.openstreetmap.org/way/706951307,,13.8365512,100.4991198,โรงเรียนการัญศึกษา
+edu_89cc41754ca8,OSM,way/737051298,data/reference/osm_education.json,https://www.openstreetmap.org/way/737051298,,13.7432136,100.5151068,โรงเรียนสายปัญญา ในพระบรมราชินูปถัมภ์
+edu_2d3dfe304eb6,OSM,way/750308970,data/reference/osm_education.json,https://www.openstreetmap.org/way/750308970,,13.8434417,100.5013718,โกลบอล อิงลิช สคูล (โรงเรียนสาธิตคริสเตียนวิทยา)
+edu_ab574d60dccf,OSM,way/775833751,data/reference/osm_education.json,https://www.openstreetmap.org/way/775833751,,13.8255871,100.4731432,โรงเรียนประสาทวิทยานนทบุรี
+edu_0dd4be2d2550,OSM,way/775847184,data/reference/osm_education.json,https://www.openstreetmap.org/way/775847184,,13.8394318,100.4507524,โรงเรียนวัดปราสาท (ปราสาทพิทยา)
+edu_de3f0c42b7ce,OSM,way/788316491,data/reference/osm_education.json,https://www.openstreetmap.org/way/788316491,,13.8438517,100.5466414,โรงเรียนประชานิเวศน์
+edu_5ff4b1fd7891,OSM,way/789126307,data/reference/osm_education.json,https://www.openstreetmap.org/way/789126307,,13.7473411,100.5603117,โรงเรียนนานาชาตินิสท์
+edu_d108e9fe400a,OSM,way/803406584,data/reference/osm_education.json,https://www.openstreetmap.org/way/803406584,,13.6973089,100.6487494,วิทยาลัยดุสิตธานี กรุงเทพ
+edu_a0cfe990dbb5,OSM,way/863258742,data/reference/osm_education.json,https://www.openstreetmap.org/way/863258742,,13.7637839,100.5314211,โรงเรียนสวนมิสกวัน
+edu_ac054f2acc69,OSM,way/864613638,data/reference/osm_education.json,https://www.openstreetmap.org/way/864613638,,13.7777687,100.5409774,โรงเรียนสวนบัว
+edu_f80765488b8b,OSM,way/870421058,data/reference/osm_education.json,https://www.openstreetmap.org/way/870421058,,13.82156,100.5140832,มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ
+edu_610a70ab8d1e,OSM,way/881665557,data/reference/osm_education.json,https://www.openstreetmap.org/way/881665557,,13.7660532,100.545058,Rasami British International School Bangkok
+edu_85afe36a952e,OSM,way/885010238,data/reference/osm_education.json,https://www.openstreetmap.org/way/885010238,,13.7551568,100.6329786,วิทยาลัยเทคโนโลยีช่างอุตสาหกรรมกรุงเทพ
+edu_7ce74c32b63e,OSM,way/910495536,data/reference/osm_education.json,https://www.openstreetmap.org/way/910495536,,13.7355252,100.6279671,โรงเรียนปาณยาพัฒนาการ
+edu_045802880c00,OSM,way/933744998,data/reference/osm_education.json,https://www.openstreetmap.org/way/933744998,,13.8176013,100.5121398,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์พระนครเหนือ
+edu_d8a53357da72,OSM,way/986219907,data/reference/osm_education.json,https://www.openstreetmap.org/way/986219907,,13.8205654,100.516238,วิทยาลัยเทคโนโลยีอุตสาหกรรม
+edu_24ba7b95a1b6,OSM,way/1020820742,data/reference/osm_education.json,https://www.openstreetmap.org/way/1020820742,,13.7620289,100.4776897,โรงเรียนวัดสุวรรณาราม
+edu_f5716c51e1f8,OSM,way/1061578340,data/reference/osm_education.json,https://www.openstreetmap.org/way/1061578340,,13.6736467,100.6144738,โรงเรียนนานาชาติเบิร์คลีย์
+edu_a4c2c90a83ad,OSM,way/1062799043,data/reference/osm_education.json,https://www.openstreetmap.org/way/1062799043,,13.7393168,100.4457393,โรงเรียนวัดกำแพง
+edu_c721ceabc530,OSM,way/1100619612,data/reference/osm_education.json,https://www.openstreetmap.org/way/1100619612,,13.7266969,100.5505781,โรงเรียนสุนีพิทยา
+edu_112238a626df,OSM,way/1117106668,data/reference/osm_education.json,https://www.openstreetmap.org/way/1117106668,,13.7846078,100.5532204,โรงเรียนรุจิเสรีวิทยา
+edu_4cb391b8fec6,OSM,way/1125754827,data/reference/osm_education.json,https://www.openstreetmap.org/way/1125754827,,13.8172715,100.6545373,โรงเรียนเบญจมินทร์
+edu_bef132cd25ea,OSM,way/1133636451,data/reference/osm_education.json,https://www.openstreetmap.org/way/1133636451,,13.7475007,100.4428982,โรงเรียนวัดกระโจม
+edu_c0cec00daca3,OSM,way/1145560422,data/reference/osm_education.json,https://www.openstreetmap.org/way/1145560422,,13.7416226,100.4286489,โรงเรียนวัดตะล่อม
+edu_0cbccbbc2137,OSM,way/1145561513,data/reference/osm_education.json,https://www.openstreetmap.org/way/1145561513,,13.7412969,100.4329132,โรงเรียนวัดพิกุล
+edu_2d568e0b7db0,OSM,way/1153294648,data/reference/osm_education.json,https://www.openstreetmap.org/way/1153294648,,13.7474646,100.5372441,โรงเรียนวัดปทุมวนาราม
+edu_584761a0d9a3,OSM,way/1157161915,data/reference/osm_education.json,https://www.openstreetmap.org/way/1157161915,,13.7314723,100.5130895,โรงเรียนกุหลาบวิทยา
+edu_50b2465169cb,OSM,way/1186804684,data/reference/osm_education.json,https://www.openstreetmap.org/way/1186804684,,13.7227673,100.5582846,โรงเรียนคลองเตยวิทยา
+edu_b679ba282bfe,OSM,way/1189946075,data/reference/osm_education.json,https://www.openstreetmap.org/way/1189946075,,13.7272696,100.5196481,โรงเรียนยุหมินพัฒนา
+edu_9f98eff08d12,OSM,way/1193789382,data/reference/osm_education.json,https://www.openstreetmap.org/way/1193789382,,13.7242041,100.510205,โรงเรียนวัดสุวรรณ
+edu_30a4c234c3cc,OSM,way/1194923979,data/reference/osm_education.json,https://www.openstreetmap.org/way/1194923979,,13.7489293,100.5013191,โรงเรียนวัดสุทัศน์
+edu_b95aed497d9b,OSM,way/1195339620,data/reference/osm_education.json,https://www.openstreetmap.org/way/1195339620,,13.844216,100.5710825,โรงเรียนอนุบาลคหกรรมศาสตร์
+edu_2219bc41aba9,OSM,way/1200042631,data/reference/osm_education.json,https://www.openstreetmap.org/way/1200042631,,13.7319118,100.5286749,โรงเรียนวัดหัวลำโพง
+edu_2ae9827f76e6,OSM,way/1200047675,data/reference/osm_education.json,https://www.openstreetmap.org/way/1200047675,,13.7157653,100.603507,Bangkok Prep Tennis Academy
+edu_32486ffbcd9c,OSM,way/1204947640,data/reference/osm_education.json,https://www.openstreetmap.org/way/1204947640,,13.6984596,100.5258117,โรงเรียนเปรมฤดีศึกษา
+edu_c3718c315673,OSM,way/1204947641,data/reference/osm_education.json,https://www.openstreetmap.org/way/1204947641,,13.6995068,100.5256775,โรงเรียนวาสุเทวี
+edu_f3c623279a55,OSM,way/1204961952,data/reference/osm_education.json,https://www.openstreetmap.org/way/1204961952,,13.6995725,100.5326969,วิทยาลัยเทคโนโลยีบริหารธุรกิจยานนาวา
+edu_6918fc4c58b7,OSM,way/1204961953,data/reference/osm_education.json,https://www.openstreetmap.org/way/1204961953,,13.6999859,100.5333869,โรงเรียนวรมงคล
+edu_4d5a4533f295,OSM,way/1204961960,data/reference/osm_education.json,https://www.openstreetmap.org/way/1204961960,,13.7002926,100.5343064,โรงเรียนนานาชาติดับเบิลทรีส์ เขตพระราม 3
+edu_d34f13a46263,OSM,way/1208610268,data/reference/osm_education.json,https://www.openstreetmap.org/way/1208610268,,13.7258735,100.5234343,โรงเรียนมัธยมปัญญารัตน์
+edu_ee427998c84c,OSM,way/1211300776,data/reference/osm_education.json,https://www.openstreetmap.org/way/1211300776,,13.7174586,100.5405583,วิทยาลัยอาชีวศึกษาเอี่ยมละออ
+edu_5231db510dfb,OSM,way/1214837601,data/reference/osm_education.json,https://www.openstreetmap.org/way/1214837601,,13.7243002,100.5266979,โรงเรียนกว่างเจ้า
+edu_a33dc7d74a06,OSM,way/1215114890,data/reference/osm_education.json,https://www.openstreetmap.org/way/1215114890,,13.721893,100.5218048,โรงเรียนอัสสัมชัญคอนแวนต์ สีลม
+edu_3c92692ee9b8,OSM,way/1216274733,data/reference/osm_education.json,https://www.openstreetmap.org/way/1216274733,,13.7951007,100.6254061,โรงเรียนวัดบึงทองหลาง
+edu_14fa5e71698b,OSM,way/1216291650,data/reference/osm_education.json,https://www.openstreetmap.org/way/1216291650,,13.845629,100.6481543,โรงเรียนสายอักษร
+edu_6abf658335af,OSM,way/1216596425,data/reference/osm_education.json,https://www.openstreetmap.org/way/1216596425,,13.8424819,100.6537206,โรงเรียนเตรียมวิทย์พัฒนา
+edu_3d79858c6647,OSM,way/1216883032,data/reference/osm_education.json,https://www.openstreetmap.org/way/1216883032,,13.7045223,100.5457569,โรงเรียนวัดช่องลม
+edu_3e4b77f567ee,OSM,way/1217275406,data/reference/osm_education.json,https://www.openstreetmap.org/way/1217275406,,13.7169842,100.5372646,มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ เขตพื้นที่บพิตรพิมุข มหาเมฆ
+edu_915383534128,OSM,way/1219302612,data/reference/osm_education.json,https://www.openstreetmap.org/way/1219302612,,13.7207497,100.5400073,โรงเรียนคริสต์ศาสนศาสตร์แบ๊บติสต์
+edu_35a28e07ddf0,OSM,way/1220732176,data/reference/osm_education.json,https://www.openstreetmap.org/way/1220732176,,13.72824,100.5499034,โรงเรียนปลูกจิต
+edu_efb901138d67,OSM,way/1225166488,data/reference/osm_education.json,https://www.openstreetmap.org/way/1225166488,,13.7335804,100.5431273,ศูนย์ฝึกอาชีพสวนลุมพินี
+edu_360f6ecb6f85,OSM,way/1227985470,data/reference/osm_education.json,https://www.openstreetmap.org/way/1227985470,,13.7150317,100.545867,โรงเรียนนานาชาติการ์เด้น
+edu_9a5d79f4ec9d,OSM,way/1228943832,data/reference/osm_education.json,https://www.openstreetmap.org/way/1228943832,,13.7032029,100.5364042,โรงเรียนทวีวัฒนา
+edu_4e49ffdb6bbb,OSM,way/1228943833,data/reference/osm_education.json,https://www.openstreetmap.org/way/1228943833,,13.7037439,100.5359589,โรงเรียนเซนต์ยอเซฟยานนาวา
+edu_45903cc89d09,OSM,way/1229625889,data/reference/osm_education.json,https://www.openstreetmap.org/way/1229625889,,13.7882884,100.3967954,โรงเรียนเพลินพัฒนา
+edu_849d5574a063,OSM,way/1229757067,data/reference/osm_education.json,https://www.openstreetmap.org/way/1229757067,,13.7155821,100.5146821,มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ พื้นที่พระนครใต้
+edu_c816ab956d6a,OSM,way/1229762882,data/reference/osm_education.json,https://www.openstreetmap.org/way/1229762882,,13.7133835,100.5182033,โรงเรียนนิพัทธ์วิทยา
+edu_14cf26329d30,OSM,way/1236553380,data/reference/osm_education.json,https://www.openstreetmap.org/way/1236553380,,13.7407712,100.4803547,โรงเรียนชาตศึกษา
+edu_417016d71d5d,OSM,way/1236622449,data/reference/osm_education.json,https://www.openstreetmap.org/way/1236622449,,13.7092433,100.527318,วิทยาลัยเทคโนโลยีกิตติบริหารธุรกิจ
+edu_f87cb566dc61,OSM,way/1239573604,data/reference/osm_education.json,https://www.openstreetmap.org/way/1239573604,,13.6910538,100.5279762,โรงเรียนนานาชาติคิงส์คอลเลจกรุงเทพ
+edu_924b94baf6b7,OSM,way/1239588046,data/reference/osm_education.json,https://www.openstreetmap.org/way/1239588046,,13.7013831,100.5234995,โรงเรียนวัดไผ่เงินโชตนาราม
+edu_9925af30143e,OSM,way/1239855459,data/reference/osm_education.json,https://www.openstreetmap.org/way/1239855459,,13.7030098,100.5278403,โรงเรียนเตรียมอุดมศึกษาพัฒนาการ ยานนาเวศ
+edu_30a58eaa2f2c,OSM,way/1263119184,data/reference/osm_education.json,https://www.openstreetmap.org/way/1263119184,,13.8032647,100.3764719,โรงเรียนวัดใหม่ผดุงเขต
+edu_201914d7a5bb,OSM,way/1265142914,data/reference/osm_education.json,https://www.openstreetmap.org/way/1265142914,,13.7035571,100.5218618,โรงเรียนเบญจวรรณศึกษา
+edu_3e3d652ad996,OSM,way/1270933366,data/reference/osm_education.json,https://www.openstreetmap.org/way/1270933366,,13.7376081,100.4594396,วิทยาลัยพาณิชยการธนบุรี
+edu_2812bf378eb6,OSM,way/1270938206,data/reference/osm_education.json,https://www.openstreetmap.org/way/1270938206,,13.7403776,100.4867876,โรงเรียนวัดหงส์รัตนารามราชวรวิหาร
+edu_11779bbc2821,OSM,way/1271236182,data/reference/osm_education.json,https://www.openstreetmap.org/way/1271236182,,13.6815051,100.5746597,โรงเรียนวัดบางน้ำผึ้งใน (กรุณานุยุตตาคาร)
+edu_326a96094e7f,OSM,way/1279023360,data/reference/osm_education.json,https://www.openstreetmap.org/way/1279023360,,13.7600483,100.5277483,โรงเรียนอำนวยศิลป์
+edu_1de0df6031fd,OSM,way/1284561807,data/reference/osm_education.json,https://www.openstreetmap.org/way/1284561807,,13.7042415,100.4908238,โรงเรียนวัดบางน้ำชน
+edu_467dc3a8ad0e,OSM,way/1305008511,data/reference/osm_education.json,https://www.openstreetmap.org/way/1305008511,,13.732024,100.5162486,โรงเรียนสตรีวัดมหาพฤฒาราม
+edu_30fa0cd09c2b,OSM,way/1306332959,data/reference/osm_education.json,https://www.openstreetmap.org/way/1306332959,,13.7137146,100.5487086,ลา เปติท อีโคล แบงค็อก
+edu_41518b8f105f,OSM,way/1309014947,data/reference/osm_education.json,https://www.openstreetmap.org/way/1309014947,,13.8354397,100.4252545,โรงเรียนเทศบาลปลายบางวัดโบสถ์
+edu_cde65297b49b,OSM,way/1311534226,data/reference/osm_education.json,https://www.openstreetmap.org/way/1311534226,,13.7810271,100.5051751,มหาวิทยาลัยนวมินทราธิราช
+edu_9876c290ec64,OSM,way/1312215693,data/reference/osm_education.json,https://www.openstreetmap.org/way/1312215693,,13.7910503,100.5153066,โรงเรียนวัดจันทรสโมสร
+edu_e3d1d259f849,OSM,way/1313217434,data/reference/osm_education.json,https://www.openstreetmap.org/way/1313217434,,13.7242644,100.5434126,โรงเรียนอนุบาลเธียรประสิทธิ์ศาสตร์
+edu_bd1a5078e310,OSM,way/1317357650,data/reference/osm_education.json,https://www.openstreetmap.org/way/1317357650,,13.7014645,100.3796468,โรงเรียนวัดราษฎร์บำรุง
+edu_69d77db5d5fd,OSM,way/1318021625,data/reference/osm_education.json,https://www.openstreetmap.org/way/1318021625,,13.6789721,100.4464641,โรงเรียนวัดกำแพง
+edu_c85f14e9d3fe,OSM,way/1319861811,data/reference/osm_education.json,https://www.openstreetmap.org/way/1319861811,,13.7686862,100.5566807,โรงเรียนฝึกอาชีพกรุงเทพมหานคร
+edu_caaa49d264a7,OSM,way/1319861832,data/reference/osm_education.json,https://www.openstreetmap.org/way/1319861832,,13.7677259,100.5550167,โรงเรียนวิชากร กรุงเทพมหานคร
+edu_8eb1d5e784ed,OSM,way/1320936449,data/reference/osm_education.json,https://www.openstreetmap.org/way/1320936449,,13.6738706,100.4555882,โรงเรียนจินดาศึกษา
+edu_79ee7f95c650,OSM,way/1322123315,data/reference/osm_education.json,https://www.openstreetmap.org/way/1322123315,,13.7669516,100.5569482,โรงเรียนสามัคคีบํารุงวิทยา
+edu_ac5a15e2558f,OSM,way/1326279304,data/reference/osm_education.json,https://www.openstreetmap.org/way/1326279304,,13.7643676,100.5583055,วิทยาลัยอาชีวศึกษาเทคนิควิทยา
+edu_78d7dc4d6773,OSM,way/1326465821,data/reference/osm_education.json,https://www.openstreetmap.org/way/1326465821,,13.7691378,100.5607482,วิทยาลัยอาชีวศึกษาพณิชยการจำนงค์
+edu_f1bfd80c07e1,OSM,way/1328860023,data/reference/osm_education.json,https://www.openstreetmap.org/way/1328860023,,13.834445,100.6275322,โรงเรียนโชคชัย
+edu_87de60075e00,OSM,way/1331253649,data/reference/osm_education.json,https://www.openstreetmap.org/way/1331253649,,13.795782,100.4377447,โรงเรียนชุมทางตลิ่งชัน
+edu_e161776b8529,OSM,way/1331330022,data/reference/osm_education.json,https://www.openstreetmap.org/way/1331330022,,13.7918495,100.4661547,โรงเรียนทีปังกรวิทยาพัฒน์
+edu_e69f08ed88a5,OSM,way/1332698412,data/reference/osm_education.json,https://www.openstreetmap.org/way/1332698412,,13.7729032,100.58448,บางกอกทวิวิทย์ แผนกประถมศึกษาและมัธยมศึกษา
+edu_0c736bc72c5f,OSM,way/1332923643,data/reference/osm_education.json,https://www.openstreetmap.org/way/1332923643,,13.6971176,100.5306857,โรงเรียนสารสาสน์พิทยา
+edu_ecc8ae14769b,OSM,way/1332923658,data/reference/osm_education.json,https://www.openstreetmap.org/way/1332923658,,13.6966495,100.5291912,โรงเรียนสารสาสน์เอกตรา
+edu_6ef8d5c9b52d,OSM,way/1333483254,data/reference/osm_education.json,https://www.openstreetmap.org/way/1333483254,,13.7391779,100.55043,โรงเรียนนานาชาติ อาร์ซี
+edu_9dbfe58d8abe,OSM,way/1334208583,data/reference/osm_education.json,https://www.openstreetmap.org/way/1334208583,,13.7566008,100.5694653,โรงเรียนนานาชาติเซ็นทรัล
+edu_15a6381afa0e,OSM,way/1334273437,data/reference/osm_education.json,https://www.openstreetmap.org/way/1334273437,,13.7354229,100.5494911,โรงเรียนพระมหาไถ่ศึกษา
+edu_aecded646c06,OSM,way/1337359462,data/reference/osm_education.json,https://www.openstreetmap.org/way/1337359462,,13.7514532,100.526575,โรงเรียนกิ่งเพชร
+edu_9d242b23a83f,OSM,way/1339188845,data/reference/osm_education.json,https://www.openstreetmap.org/way/1339188845,,13.8008803,100.6129428,โรงเรียนคลองทรงกระเทียม
+edu_21d0c9e94ee3,OSM,way/1344510511,data/reference/osm_education.json,https://www.openstreetmap.org/way/1344510511,,13.7336121,100.3702987,โรงเรียนอัสสัมชัญธนบุรี
+edu_7bd55b8ea165,OSM,way/1348158696,data/reference/osm_education.json,https://www.openstreetmap.org/way/1348158696,,13.7971032,100.5737099,Unnamed school (way/1348158696)
+edu_fe1f3fc605de,OSM,way/1348245390,data/reference/osm_education.json,https://www.openstreetmap.org/way/1348245390,,13.7458123,100.4840595,โรงเรียนวัดนาคกลาง
+edu_e2617cad2097,OSM,way/1348275515,data/reference/osm_education.json,https://www.openstreetmap.org/way/1348275515,,13.7181034,100.5563001,โรงเรียนพระหฤทัยคอนแวนต์
+edu_aef4c7492c67,OSM,way/1350308436,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350308436,,13.7927521,100.4985327,โรงเรียนวัดบางพลัด (ป.สุวณโณ)
+edu_e1e661419f4f,OSM,way/1350308442,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350308442,,13.7903598,100.5062731,โรงเรียนวัดอาวุธวิกสิตาราม
+edu_13552ff68450,OSM,way/1350308443,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350308443,,13.7866028,100.5027715,โรงเรียนวัดเทพากร (เลี่ยมมาตุทิศ)
+edu_a1e8e53ebb3c,OSM,way/1350308444,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350308444,,13.7723688,100.4966556,โรงเรียนวัดคฤหบดี (จันทรสถิตย์)
+edu_d05f9c78ea91,OSM,way/1350308446,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350308446,,13.7690877,100.493258,โรงเรียนวัดพระยาศิริไอยสวรรค์
+edu_efc5b3bb4b60,OSM,way/1350308456,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350308456,,13.780321,100.4952572,โรงเรียนวัดเปาโรหิตย์
+edu_0ac160ba455a,OSM,way/1350308457,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350308457,,13.7822061,100.4975939,โรงเรียนเขมะสิริอนุสสรณ์
+edu_f2c319a53259,OSM,way/1350382291,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350382291,,13.7224705,100.5007026,โรงเรียนนานาชาติอินเตอร์เนชั่นแนลไพโอเนียร์ส
+edu_7d75157d2e74,OSM,way/1350382295,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350382295,,13.7128122,100.4947648,โรงเรียนมัธยมวัดสุทธาราม
+edu_ee0fb22b458c,OSM,way/1350722612,data/reference/osm_education.json,https://www.openstreetmap.org/way/1350722612,,13.8201014,100.5774864,มหาวิทยาลัยราชภัฏจันทรเกษม
+edu_4cdd928bef19,OSM,way/1351802802,data/reference/osm_education.json,https://www.openstreetmap.org/way/1351802802,,13.7402416,100.4923092,โรงเรียนวัดกัลยาณมิตร
+edu_be8d83b33055,OSM,way/1351802803,data/reference/osm_education.json,https://www.openstreetmap.org/way/1351802803,,13.7375482,100.4938734,โรงเรียนซางตาครู้สคอนแวนท์
+edu_88dbb6521de7,OSM,way/1351802804,data/reference/osm_education.json,https://www.openstreetmap.org/way/1351802804,,13.7343938,100.4875759,โรงเรียนวัดประดิษฐาราม
+edu_9e9d5638378f,OSM,way/1351922826,data/reference/osm_education.json,https://www.openstreetmap.org/way/1351922826,,13.6806936,100.548592,โรงเรียนวัดคลองภูมิ
+edu_963a55d63672,OSM,way/1352128454,data/reference/osm_education.json,https://www.openstreetmap.org/way/1352128454,,13.71206,100.4690401,โรงเรียนวัดใหม่ยายนุ้ย
+edu_a6aa7aa11010,OSM,way/1352128455,data/reference/osm_education.json,https://www.openstreetmap.org/way/1352128455,,13.7197415,100.4709305,โรงเรียนวัดขุนจันทร์
+edu_2e0318f043a9,OSM,way/1352544940,data/reference/osm_education.json,https://www.openstreetmap.org/way/1352544940,,13.6755858,100.545919,วิทยาลัยเทคโนโลยีธุรกิจการอาหารไทยและนานาชาติ
+edu_a59c867ada9f,OSM,way/1356364710,data/reference/osm_education.json,https://www.openstreetmap.org/way/1356364710,,13.687271,100.5569894,โรงเรียนวัดบางกะเจ้ากลาง (ศีลาทิราษฎร์รังสฤษฏ์)
+edu_ea838d8dd9b4,OSM,way/1358173939,data/reference/osm_education.json,https://www.openstreetmap.org/way/1358173939,,13.6814687,100.4651427,โรงเรียนบางมดวิทยา
+edu_26454cb4495a,OSM,way/1358565007,data/reference/osm_education.json,https://www.openstreetmap.org/way/1358565007,,13.6972751,100.6525399,โรงเรียนแก่นทองอุปถัมภ์
+edu_2e55a3342fc9,OSM,way/1362542945,data/reference/osm_education.json,https://www.openstreetmap.org/way/1362542945,,13.7780567,100.5568015,มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก เขตพื้นที่จักรพงษภูวนารถ
+edu_e137ae0c7abb,OSM,way/1362873974,data/reference/osm_education.json,https://www.openstreetmap.org/way/1362873974,,13.674487,100.4077243,โรงเรียนเลิศหล้า ถนนกาญจนาภิเษก
+edu_34bc0c5eb076,OSM,way/1364010376,data/reference/osm_education.json,https://www.openstreetmap.org/way/1364010376,,13.7790305,100.5581923,วิทยาลัยป้องกันราชอาณาจักร
+edu_eca77d95e504,OSM,way/1365750418,data/reference/osm_education.json,https://www.openstreetmap.org/way/1365750418,,13.8032576,100.6494704,โรงเรียนวัดบางเตย
+edu_a49fe252503d,OSM,way/1366798394,data/reference/osm_education.json,https://www.openstreetmap.org/way/1366798394,,13.8458831,100.5923835,โรงเรียนกองทัพบกอุปถัมภ์ เพชราวุธวิทยา
+edu_e850298edcc2,OSM,way/1368395623,data/reference/osm_education.json,https://www.openstreetmap.org/way/1368395623,,13.7329672,100.594536,โรงเรียนนานาชาติแอ๊ดเวนตีสกรุงเทพ
+edu_006a7f8fef3a,OSM,way/1369219466,data/reference/osm_education.json,https://www.openstreetmap.org/way/1369219466,,13.7627635,100.5470806,โรงเรียนนิธิปริญญา
+edu_4f7444c8467b,OSM,way/1370803902,data/reference/osm_education.json,https://www.openstreetmap.org/way/1370803902,,13.7803615,100.5490856,Maple Bear International School
+edu_168ef0901d1c,OSM,way/1372647954,data/reference/osm_education.json,https://www.openstreetmap.org/way/1372647954,,13.7887002,100.51652,โรงเรียนกันตะบุตร
+edu_76881f25f85e,OSM,way/1372817098,data/reference/osm_education.json,https://www.openstreetmap.org/way/1372817098,,13.6908869,100.4557882,Unnamed school (way/1372817098)
+edu_048e444ab810,OSM,way/1373010290,data/reference/osm_education.json,https://www.openstreetmap.org/way/1373010290,,13.796804,100.5331045,โรงเรียนช่างอากาศอำรุง
+edu_7aec84080abb,OSM,way/1374620208,data/reference/osm_education.json,https://www.openstreetmap.org/way/1374620208,,13.7896858,100.5251325,โรงเรียนวัดประชาระบือธรรม
+edu_64346f2c0908,OSM,way/1378242546,data/reference/osm_education.json,https://www.openstreetmap.org/way/1378242546,,13.8027194,100.6297706,โรงเรียนนานาชาตินีวาอเมริกัน
+edu_f6c63d996d72,OSM,way/1383004409,data/reference/osm_education.json,https://www.openstreetmap.org/way/1383004409,,13.7523641,100.5219818,โรงเรียนวัดพระยายัง
+edu_1c58b0213cca,OSM,way/1383227262,data/reference/osm_education.json,https://www.openstreetmap.org/way/1383227262,,13.787138,100.5150639,โรงเรียนพณิชยการสามเสน
+edu_61d42923a27f,OSM,way/1383252071,data/reference/osm_education.json,https://www.openstreetmap.org/way/1383252071,,13.7854225,100.529365,วิทยาลัยการทัพบก
+edu_be6ce22c3672,OSM,way/1383261475,data/reference/osm_education.json,https://www.openstreetmap.org/way/1383261475,,13.785362,100.5109982,วิทยาลัยเทคโนโลยีวิมล ศรีย่าน
+edu_d63969ac826c,OSM,way/1384673135,data/reference/osm_education.json,https://www.openstreetmap.org/way/1384673135,,13.8189235,100.5373692,Unnamed college (way/1384673135)
+edu_4bd824bf8a2e,OSM,way/1385059036,data/reference/osm_education.json,https://www.openstreetmap.org/way/1385059036,,13.7421741,100.5021924,มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์ พื้นที่บพิตรพิมุข จักรวรรดิ
+edu_30acdabafe2b,OSM,way/1385059038,data/reference/osm_education.json,https://www.openstreetmap.org/way/1385059038,,13.743998,100.5058267,โรงเรียนวัดชัยชนะสงคราม
+edu_cf025b78b6ee,OSM,way/1385565907,data/reference/osm_education.json,https://www.openstreetmap.org/way/1385565907,,13.7571451,100.5441476,โรงเรียนโกวิทธำรง
+edu_dbe2c08f5935,OSM,way/1385800191,data/reference/osm_education.json,https://www.openstreetmap.org/way/1385800191,,13.7332447,100.3665495,โรงเรียนสารสาสน์ธนบุรี
+edu_48f47ad341c6,OSM,way/1385800200,data/reference/osm_education.json,https://www.openstreetmap.org/way/1385800200,,13.7229026,100.3788271,โรงเรียนโรงเรียนราชวินิตบางแคปานขำ
+edu_0c36f383a366,OSM,way/1387734061,data/reference/osm_education.json,https://www.openstreetmap.org/way/1387734061,,13.6922574,100.6366699,โรงเรียน​วัดวชิรธรรมสาธิต
+edu_ac87af42a890,OSM,way/1387939732,data/reference/osm_education.json,https://www.openstreetmap.org/way/1387939732,,13.6761059,100.6162284,วิทยาลัยพณิชยการบางนา
+edu_8c08f36b0c35,OSM,way/1388274003,data/reference/osm_education.json,https://www.openstreetmap.org/way/1388274003,,13.6778369,100.5439128,โรงเรียนวัดคลองใหม่
+edu_6731a8c64c62,OSM,way/1388295185,data/reference/osm_education.json,https://www.openstreetmap.org/way/1388295185,,13.693742,100.5446311,โรงเรียนวัดช่องนนทรี
+edu_cad435df2ba8,OSM,way/1391199964,data/reference/osm_education.json,https://www.openstreetmap.org/way/1391199964,,13.7475701,100.5057523,โรงเรียนวัดพระพิเรนทร์
+edu_7a008be72d75,OSM,way/1391609051,data/reference/osm_education.json,https://www.openstreetmap.org/way/1391609051,,13.7927773,100.6264909,วิทยาลัยศิลปหัตถกรรมกรุงเทพ
+edu_bff054a46127,OSM,way/1391841578,data/reference/osm_education.json,https://www.openstreetmap.org/way/1391841578,,13.7704807,100.6005718,โรงเรียนฝรั่งเศสนานาชาติ กรุงเทพ
+edu_140e10977989,OSM,way/1391841579,data/reference/osm_education.json,https://www.openstreetmap.org/way/1391841579,,13.7712071,100.601591,โรงเรียนนานาชาติสิงคโปร์กรุงเทพฯ
+edu_e91af67d7c49,OSM,way/1410382650,data/reference/osm_education.json,https://www.openstreetmap.org/way/1410382650,,13.7871765,100.5298421,วิทยาลัยทันตแพทยศาสตร์นานาชาติ มหาวิทยาลัยวลัยลักษณ์
+edu_1e5ba0c4cae1,OSM,way/1410828282,data/reference/osm_education.json,https://www.openstreetmap.org/way/1410828282,,13.7787251,100.5196395,โรงเรียนอักษรเจริญ
+edu_6dad64f3870e,OSM,way/1410828294,data/reference/osm_education.json,https://www.openstreetmap.org/way/1410828294,,13.7798777,100.519835,โรงเรียนอัมพวันศิกษา
+edu_2cd4e5500c5a,OSM,way/1411867293,data/reference/osm_education.json,https://www.openstreetmap.org/way/1411867293,,13.818544,100.5191984,โรงเรียนวัดประชาศรัทธาธรรม
+edu_20c7398c6ebd,OSM,way/1413188500,data/reference/osm_education.json,https://www.openstreetmap.org/way/1413188500,,13.8169698,100.5513207,โรงเรียนวิศวกรรมรถไฟ
+edu_95c4a5e33c2a,OSM,way/1413623796,data/reference/osm_education.json,https://www.openstreetmap.org/way/1413623796,,13.7596666,100.592997,โรงเรียนพระราม 9 กาญจนาภิเษก
+edu_4833e2e4878c,OSM,way/1413623797,data/reference/osm_education.json,https://www.openstreetmap.org/way/1413623797,,13.760874,100.5935469,โรงเรียนสมาคมไทย-ญี่ปุ่น
+edu_b86d41d32d4a,OSM,way/1414104713,data/reference/osm_education.json,https://www.openstreetmap.org/way/1414104713,,13.7734277,100.5074925,โรงเรียนสาธิตมหาวิทยาลัยราชภัฏสวนสุนันทา
+edu_47f21f1a04e2,OSM,way/1418628953,data/reference/osm_education.json,https://www.openstreetmap.org/way/1418628953,,13.7794336,100.5152269,Unnamed school (way/1418628953)
+edu_f3ccd40ed7d7,OSM,way/1420185327,data/reference/osm_education.json,https://www.openstreetmap.org/way/1420185327,,13.8152017,100.6549016,โรงเรียนนานาชาติจีน
+edu_6c919aae05d5,OSM,way/1421091040,data/reference/osm_education.json,https://www.openstreetmap.org/way/1421091040,,13.8419072,100.5476615,โรงเรียนมัธยมประชานิเวศน์
+edu_62fd5c61b403,OSM,way/1421092393,data/reference/osm_education.json,https://www.openstreetmap.org/way/1421092393,,13.8428887,100.5457172,วิทยาลัยเทคโนโลยีวราธิปบริหารธุรกิจ
+edu_3a274d7ae9b9,OSM,way/1421852713,data/reference/osm_education.json,https://www.openstreetmap.org/way/1421852713,,13.6761411,100.5878787,โรงเรียนวัดบางนานอก
+edu_0a594260a27b,OSM,way/1422842270,data/reference/osm_education.json,https://www.openstreetmap.org/way/1422842270,,13.8027578,100.5669653,โรงเรียนบีคอนเฮาส์ แย้มสอาดลาดพร้าว
+edu_52190a877fd3,OSM,way/1422844699,data/reference/osm_education.json,https://www.openstreetmap.org/way/1422844699,,13.8102897,100.5610362,มหาวิทยาลัยเซนต์จอห์น
+edu_63840015075b,OSM,way/1423221494,data/reference/osm_education.json,https://www.openstreetmap.org/way/1423221494,,13.7763581,100.5221903,โรงเรียนสุโขทัย
+edu_a5bb745d1d28,OSM,way/1423249269,data/reference/osm_education.json,https://www.openstreetmap.org/way/1423249269,,13.7819673,100.5229155,โรงเรียนเศรษฐเสถียร
+edu_4f8317db538b,OSM,way/1423249270,data/reference/osm_education.json,https://www.openstreetmap.org/way/1423249270,,13.7812333,100.5198934,โรงเรียนราชวัตรวิทยา
+edu_9071743d8437,OSM,way/1423249272,data/reference/osm_education.json,https://www.openstreetmap.org/way/1423249272,,13.7807744,100.5157047,โรงเรียนวัดสวัสดิ์วารีสีมาราม
+edu_b4aca779422f,OSM,way/1427305544,data/reference/osm_education.json,https://www.openstreetmap.org/way/1427305544,,13.7739818,100.6129834,โรงเรียนอุดมศึกษา
+edu_f75fc78c7616,OSM,way/1427305545,data/reference/osm_education.json,https://www.openstreetmap.org/way/1427305545,,13.7643845,100.6092339,โรงเรียนพระยาประเสริฐสุนทราศรัย (กระจ่าง สิงหเสนี)
+edu_41f81d03d770,OSM,way/1428542770,data/reference/osm_education.json,https://www.openstreetmap.org/way/1428542770,,13.7808476,100.4681997,โรงเรียนวัดสุวรรณคีรี
+edu_24b0997df235,OSM,way/1428542777,data/reference/osm_education.json,https://www.openstreetmap.org/way/1428542777,,13.7834522,100.4591573,ศูนย์มานุษยวิทยาสิรินธร
+edu_450384bd37f9,OSM,way/1428665134,data/reference/osm_education.json,https://www.openstreetmap.org/way/1428665134,,13.7794139,100.4566528,โรงเรียนวัดตลิ่งชัน
+edu_2dbef5d6a7d2,OSM,way/1428665162,data/reference/osm_education.json,https://www.openstreetmap.org/way/1428665162,,13.7849114,100.465572,โรงเรียนวัดไก่เตี้ย
+edu_09712b8572b7,OSM,way/1429513589,data/reference/osm_education.json,https://www.openstreetmap.org/way/1429513589,,13.7739086,100.5664934,โรงเรียนอำนวยพิทยา
+edu_4b8b6427d73f,OSM,way/1433798307,data/reference/osm_education.json,https://www.openstreetmap.org/way/1433798307,,13.8220564,100.5175644,โรงเรียนวัดมัชฌันติการาม
+edu_d62062b4aa57,OSM,way/1433798346,data/reference/osm_education.json,https://www.openstreetmap.org/way/1433798346,,13.8287964,100.5211181,โรงเรียนวัดเลียบราษฏร์บำรุง
+edu_b4094e46d1db,OSM,way/1434322101,data/reference/osm_education.json,https://www.openstreetmap.org/way/1434322101,,13.8328359,100.529894,โรงเรียนวัดทองสุทธาราม
+edu_8836edaff480,OSM,way/1434548578,data/reference/osm_education.json,https://www.openstreetmap.org/way/1434548578,,13.8235246,100.5563057,โรงเรียนธัชรินทร์วิทยา
+edu_9415c63aead0,OSM,way/1436745631,data/reference/osm_education.json,https://www.openstreetmap.org/way/1436745631,,13.7245809,100.5008434,โรงเรียนวัดทองเพลง
+edu_57f287569a12,OSM,way/1444930261,data/reference/osm_education.json,https://www.openstreetmap.org/way/1444930261,,13.8340011,100.5684787,โรงเรียนอรรถมิตร
+edu_80c4a66a817b,OSM,way/1446474507,data/reference/osm_education.json,https://www.openstreetmap.org/way/1446474507,,13.778052,100.5053934,โรงเรียนโยนออฟอาร์ค
+edu_35e899de7980,OSM,way/1448695333,data/reference/osm_education.json,https://www.openstreetmap.org/way/1448695333,,13.7766939,100.5450445,โรงเรียนธำรงวิทย์
+edu_1c35cedc49e3,OSM,way/1451105105,data/reference/osm_education.json,https://www.openstreetmap.org/way/1451105105,,13.7671322,100.5150894,สถาบันเทคโนโลยีจิตรลดา
+edu_d7f997b2d55f,OSM,way/1451105159,data/reference/osm_education.json,https://www.openstreetmap.org/way/1451105159,,13.7697146,100.5142231,โรงเรียนจิตรลดาวิชาชีพ
+edu_fe35d5cbec29,OSM,way/1458305143,data/reference/osm_education.json,https://www.openstreetmap.org/way/1458305143,,13.8348253,100.5220101,Unnamed school (way/1458305143)
+edu_d66093d35ecb,OSM,way/1459510096,data/reference/osm_education.json,https://www.openstreetmap.org/way/1459510096,,13.8498388,100.520817,วิทยาลัยพยาบาลบรมราชชนนี
+edu_3f333509d802,OSM,way/1460095538,data/reference/osm_education.json,https://www.openstreetmap.org/way/1460095538,,13.6746457,100.4046618,โรงเรียนวัดนินสุขาราม
+edu_3ec40b62996d,OSM,way/1461597912,data/reference/osm_education.json,https://www.openstreetmap.org/way/1461597912,,13.759192,100.4332823,Unnamed school (way/1461597912)
+edu_9ca9ab53fc5a,OSM,way/1463430819,data/reference/osm_education.json,https://www.openstreetmap.org/way/1463430819,,13.7560231,100.4500212,Kensington International School
+edu_b6222ef182cc,OSM,way/1468049684,data/reference/osm_education.json,https://www.openstreetmap.org/way/1468049684,,13.7380629,100.4922728,Sang Arun School
+edu_b7a43dc329fa,OSM,way/1468650645,data/reference/osm_education.json,https://www.openstreetmap.org/way/1468650645,,13.7490077,100.508095,โรงเรียนวัดดิสานุการาม
+edu_675de353b96d,OSM,way/1472665522,data/reference/osm_education.json,https://www.openstreetmap.org/way/1472665522,,13.6936266,100.3930888,โรงเรียนวัดม่วง
+edu_56fd5e88e19d,OSM,way/1474041257,data/reference/osm_education.json,https://www.openstreetmap.org/way/1474041257,,13.8301971,100.6507467,โรงเรียนแช่มเสริม
+edu_fb4727a827a1,OSM,way/1474042987,data/reference/osm_education.json,https://www.openstreetmap.org/way/1474042987,,13.8329272,100.6525088,แย้มจาดวิชชานุสรณ์
+edu_0c3b2b1dfbb9,OSM,way/1474043310,data/reference/osm_education.json,https://www.openstreetmap.org/way/1474043310,,13.8374897,100.6392749,โรงเรียนวัดนวลจันทร์
+edu_52dfc0c81538,OSM,way/1479125128,data/reference/osm_education.json,https://www.openstreetmap.org/way/1479125128,,13.789924,100.6397587,โรงเรียนพระมารดานิจจานุเคราะห์
+edu_8fd506816c9f,OSM,way/1483261732,data/reference/osm_education.json,https://www.openstreetmap.org/way/1483261732,,13.7441262,100.3943674,Unnamed school (way/1483261732)
+edu_626fdd1881a8,OSM,way/1483906696,data/reference/osm_education.json,https://www.openstreetmap.org/way/1483906696,,13.8369756,100.6469023,วิทยาลัยการอาชีพนวมินทราชูทิศ
+edu_91fd09995c71,OSM,way/1484502195,data/reference/osm_education.json,https://www.openstreetmap.org/way/1484502195,,13.7895873,100.4087802,วิทยาลัยเทคโนโลยีโพลีกรุงเทพ
+edu_8481e7c1b886,OSM,way/1486142741,data/reference/osm_education.json,https://www.openstreetmap.org/way/1486142741,,13.7857883,100.4995713,วิทยาลัยสารพัดช่างนครหลวง
+edu_f8de1f886c58,OSM,way/1486155027,data/reference/osm_education.json,https://www.openstreetmap.org/way/1486155027,,13.7877378,100.5008995,โรงเรียนสตรีบูรณวิทย์
+edu_6825c0d35366,OSM,way/1486526377,data/reference/osm_education.json,https://www.openstreetmap.org/way/1486526377,,13.7833625,100.3837919,โรงเรียนคลองต้นไทร (สุขล้อมอุทิศ)
+edu_92e720bbe343,OSM,way/1486990343,data/reference/osm_education.json,https://www.openstreetmap.org/way/1486990343,,13.8112329,100.606751,โรงเรียนฝึกอาชีพกรุงเทพมหานคร (ม้วนบำรุงศิลป์)
+edu_4effaffcd15d,OSM,way/1491035751,data/reference/osm_education.json,https://www.openstreetmap.org/way/1491035751,,13.8492901,100.6191089,โรงเรียนไตรรัตนาภิรักษ์
+edu_731faf538c10,OSM,way/1497675835,data/reference/osm_education.json,https://www.openstreetmap.org/way/1497675835,,13.7082876,100.5084482,โรงเรียนมูลนิธิสตรีไทยมุสลิม
+edu_bd8bb604826f,OSM,way/1498976973,data/reference/osm_education.json,https://www.openstreetmap.org/way/1498976973,,13.7444767,100.4719492,โรงเรียนวัดโพธิ์เรียง
+edu_0f7959647ab5,OSM,way/1498976979,data/reference/osm_education.json,https://www.openstreetmap.org/way/1498976979,,13.7487777,100.4756886,โรงเรียนวัดอัมพวา
+edu_0f56e506bcb8,OSM,way/1498980289,data/reference/osm_education.json,https://www.openstreetmap.org/way/1498980289,,13.7511384,100.4754516,โรงเรียนวัดดงมูลเหล็ก
+edu_970be9a55b34,OSM,way/1499360628,data/reference/osm_education.json,https://www.openstreetmap.org/way/1499360628,,13.7335356,100.4728518,โรงเรียนวัดท่าพระ
+edu_bfffa042db72,OSM,way/1499360630,data/reference/osm_education.json,https://www.openstreetmap.org/way/1499360630,,13.7385264,100.4718778,วิทยาลัยเทคโนโลยีสยาม
+edu_06abbae40040,OSM,way/1499360652,data/reference/osm_education.json,https://www.openstreetmap.org/way/1499360652,,13.7356086,100.4850653,โรงเรียนวัดราชสิทธาราม
+edu_776f16978cb7,OSM,way/1501742286,data/reference/osm_education.json,https://www.openstreetmap.org/way/1501742286,,13.7641498,100.4904527,มหาวิทยาลัยมหิดล (เชิงสะพานสมเด็จพระปิ่นเกล้า)
+edu_b7806382ca96,OSM,way/1502393637,data/reference/osm_education.json,https://www.openstreetmap.org/way/1502393637,,13.7513075,100.3897684,โรงเรียนบางเชือกหนัง (พูนบำเพ็ญอนุสรณ์)
+edu_41d879f72f5d,OSM,way/1505611621,data/reference/osm_education.json,https://www.openstreetmap.org/way/1505611621,,13.7542587,100.4988995,โรงเรียนวัดมหรรณพาราม
+edu_60a6ebbd9d3d,OSM,way/1510184030,data/reference/osm_education.json,https://www.openstreetmap.org/way/1510184030,,13.7581205,100.498482,โรงเรียนพิมานวิทย์
+edu_c329b99af072,OSM,way/1511272941,data/reference/osm_education.json,https://www.openstreetmap.org/way/1511272941,,13.694855,100.4590877,โรงเรียนวัดบางประทุนนอก
+edu_6042977b6200,OSM,way/1511272947,data/reference/osm_education.json,https://www.openstreetmap.org/way/1511272947,,13.6966236,100.4652296,โรงเรียนวัดบางขุนเทียนนอก
+edu_2d55d02703cc,OSM,way/1525151066,data/reference/osm_education.json,https://www.openstreetmap.org/way/1525151066,,13.7554359,100.503821,โรงเรียนวัดราชนัดดาราม
+edu_e82531f66a11,OSM,way/1528773008,data/reference/osm_education.json,https://www.openstreetmap.org/way/1528773008,,13.8274344,100.4408528,โรงเรียนวัดบางไกรนอก
+edu_f5053bf963ef,OSM,way/1537402781,data/reference/osm_education.json,https://www.openstreetmap.org/way/1537402781,,13.7686446,100.3688102,โรงเรียนคลองบางพรม
+edu_0318b6600931,OSM,way/1541330262,data/reference/osm_education.json,https://www.openstreetmap.org/way/1541330262,,13.7137963,100.5169838,โรงเรียนวัดดอน
+edu_05a0695126f7,OSM,way/1543169882,data/reference/osm_education.json,https://www.openstreetmap.org/way/1543169882,,13.7714167,100.6467374,โรงเรียนมัธยมบ้านบางกะปิ
+edu_13a2d880cd9e,OSM,way/1543169883,data/reference/osm_education.json,https://www.openstreetmap.org/way/1543169883,,13.7722261,100.6463291,โรงเรียนบ้านบางกะปิ
+edu_3c58b85f7fc6,OSM,way/1543169884,data/reference/osm_education.json,https://www.openstreetmap.org/way/1543169884,,13.770217,100.6536692,สถาบันบัณฑิตพัฒนบริหารศาสตร์
+edu_d49f90f74017,OSM,way/1543169885,data/reference/osm_education.json,https://www.openstreetmap.org/way/1543169885,,13.7705982,100.6553278,โรงเรียนพร้อมมิตรพิทยา
+edu_9e4f0e787880,OSM,way/1546667786,data/reference/osm_education.json,https://www.openstreetmap.org/way/1546667786,,13.849376,100.5446532,โรงเรียนเพชรรัชต์
+edu_e68d80ff8428,OSM,way/1552957085,data/reference/osm_education.json,https://www.openstreetmap.org/way/1552957085,,13.7445369,100.4935474,วิทยาลัยเทคโนโลยีตั้งตรงจิตรพณิชยการ
+edu_58a59f4fb154,OSM,way/1556399090,data/reference/osm_education.json,https://www.openstreetmap.org/way/1556399090,,13.7128889,100.4174569,วิทยาลัยเทคโนโลยีพณิชยการภาษานุสรณ์บางแค
+edu_890bfb92a1e1,OSM,way/1556492840,data/reference/osm_education.json,https://www.openstreetmap.org/way/1556492840,,13.7442435,100.4592578,Unnamed school (way/1556492840)
+edu_d1014ec8f135,OSM,way/1556492841,data/reference/osm_education.json,https://www.openstreetmap.org/way/1556492841,,13.7452268,100.4597783,อุบลรัตนราชกัญญาราชวิทยาลัย
+edu_68a230210458,OSM,way/1557268338,data/reference/osm_education.json,https://www.openstreetmap.org/way/1557268338,,13.7131717,100.5060611,โรงเรียนวัดเศวตฉัตร
+edu_06649761594d,OSM,way/1558373677,data/reference/osm_education.json,https://www.openstreetmap.org/way/1558373677,,13.753352,100.6184145,โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง (ฝ่ายมัธยม)
+edu_7d3a5a60ee5b,OSM,way/1558373678,data/reference/osm_education.json,https://www.openstreetmap.org/way/1558373678,,13.755007,100.6144097,โรงเรียนสาธิตมหาวิทยาลัยรามคำแหง (ฝ่ายประถม)
+edu_b71d142bcfd5,OSM,way/1562718220,data/reference/osm_education.json,https://www.openstreetmap.org/way/1562718220,,13.7549405,100.4975958,วิทยาลัยเทคโนโลยีพระนครพณิชยการ
+edu_38060bfcdb99,OSM,way/1563424712,data/reference/osm_education.json,https://www.openstreetmap.org/way/1563424712,,13.7483829,100.4834321,โรงเรียนวัดพระยาทำ
+edu_f4c1a47a2675,OSM,way/1566728638,data/reference/osm_education.json,https://www.openstreetmap.org/way/1566728638,,13.8033314,100.5901919,โรงเรียนวัดลาดพร้าว
+edu_6934fd6d14e7,OSM,way/1566755182,data/reference/osm_education.json,https://www.openstreetmap.org/way/1566755182,,13.6736703,100.4493273,โรงเรียนวัดกก
+edu_b062907f3d7b,OSM,way/1568435332,data/reference/osm_education.json,https://www.openstreetmap.org/way/1568435332,,13.7695484,100.5300711,วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า
+edu_8e115dd63522,OSM,way/1569468058,data/reference/osm_education.json,https://www.openstreetmap.org/way/1569468058,,13.7505253,100.5023441,โรงเรียนภารตวิทยาลัย
+edu_7c365f4a76ff,OSM,way/1569468059,data/reference/osm_education.json,https://www.openstreetmap.org/way/1569468059,,13.750936,100.5023589,โรงเรียนเบญจมราชาลัย
+edu_97346e835e56,OSM,way/1572011582,data/reference/osm_education.json,https://www.openstreetmap.org/way/1572011582,,13.6772716,100.4281552,โรงเรียนเตรียมสาธิตศึกษา
+edu_c2e2e5bbef8d,OSM,way/1574419601,data/reference/osm_education.json,https://www.openstreetmap.org/way/1574419601,,13.7729942,100.5016289,โรงเรียนวัดเทวราชกุญชร
+edu_69caa29e9bff,OSM,way/1574419602,data/reference/osm_education.json,https://www.openstreetmap.org/way/1574419602,,13.7722015,100.5026766,มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ศูนย์โชติเวช
+edu_100f5a350097,OSM,way/1575994631,data/reference/osm_education.json,https://www.openstreetmap.org/way/1575994631,,13.6803429,100.3824884,โรงเรียนกรพิทักษ์ศึกษา
+edu_5d6c24cc6e55,OSM,way/1576017897,data/reference/osm_education.json,https://www.openstreetmap.org/way/1576017897,,13.7393331,100.5070714,โรงเรียนเผยอิง
+edu_95d76c138f10,OSM,relation/90337,data/reference/osm_education.json,https://www.openstreetmap.org/relation/90337,,13.7385748,100.5312406,จุฬาลงกรณ์มหาวิทยาลัย
+edu_33df0ebaf1da,OSM,relation/2100320,data/reference/osm_education.json,https://www.openstreetmap.org/relation/2100320,,13.7649995,100.5289564,มหาวิทยาลัยมหิดล (วิทยาเขตพญาไท)
+edu_5d5fbe87f6d5,OSM,relation/16713920,data/reference/osm_education.json,https://www.openstreetmap.org/relation/16713920,,13.7251969,100.5356541,โรงเรียนนานาชาติเซนต์แอนดรูส์ สาทร
+edu_b32560cda4d5,OSM,relation/17016313,data/reference/osm_education.json,https://www.openstreetmap.org/relation/17016313,,13.7037817,100.5265504,โรงเรียนพระแม่มารี
+edu_cc40895fe901,OSM,relation/17989158,data/reference/osm_education.json,https://www.openstreetmap.org/relation/17989158,,13.789497,100.5131513,โรงเรียนราชินีบน
+edu_15b240713ea8,OSM,relation/18184397,data/reference/osm_education.json,https://www.openstreetmap.org/relation/18184397,,13.7649058,100.5595285,โรงเรียนจำนงค์พิทยา
+edu_68de4e0d7e51,OSM,relation/18249706,data/reference/osm_education.json,https://www.openstreetmap.org/relation/18249706,,13.7602519,100.5560454,โรงเรียนแม่พระฟาติมา
+edu_e175c7ee6a8e,OSM,relation/18273006,data/reference/osm_education.json,https://www.openstreetmap.org/relation/18273006,,13.7703239,100.5837533,โรงเรียนนานาชาติเดอะรีเจ้นท์
+edu_9563694addc9,OSM,relation/18567052,data/reference/osm_education.json,https://www.openstreetmap.org/relation/18567052,,13.7225465,100.4796256,โรงเรียนวัดราชคฤห์
+edu_b6b05727efb1,OSM,relation/18567053,data/reference/osm_education.json,https://www.openstreetmap.org/relation/18567053,,13.7260485,100.4861191,โรงเรียนวัดเวฬุราชิณ
+edu_78e880a2e344,OSM,relation/18774182,data/reference/osm_education.json,https://www.openstreetmap.org/relation/18774182,,13.7797232,100.5605535,มหาวิทยาลัยหอการค้าไทย
+edu_c3fb687a40b7,OSM,relation/19305796,data/reference/osm_education.json,https://www.openstreetmap.org/relation/19305796,,13.7761677,100.5180002,โรงเรียนวชิราวุธวิทยาลัย
+edu_a5519d244d43,OSM,relation/19408133,data/reference/osm_education.json,https://www.openstreetmap.org/relation/19408133,,13.7771514,100.5113225,มหาวิทยาลัยสวนดุสิต
+edu_b68dde23d80b,OSM,relation/20058967,data/reference/osm_education.json,https://www.openstreetmap.org/relation/20058967,,13.736765,100.5271831,โรงเรียนสาธิตจุฬาลงกรณ์มหาวิทยาลัย
+edu_87e1f169bfd7,OSM,relation/20425793,data/reference/osm_education.json,https://www.openstreetmap.org/relation/20425793,,13.7209439,100.5226896,โรงเรียนกรุงเทพคริสเตียนวิทยาลัย
+edu_625cfccd90c1,OSM,relation/20448558,data/reference/osm_education.json,https://www.openstreetmap.org/relation/20448558,,13.7109215,100.5748368,โรงเรียนชุมชนหมู่บ้านพัฒนา
+edu_4dfdaabd1f73,OSM,relation/20456152,data/reference/osm_education.json,https://www.openstreetmap.org/relation/20456152,,13.7130219,100.5698746,โรงเรียนศูนย์รวมน้ำใจ
+edu_79376c94dc4b,OSM,relation/20505830,data/reference/osm_education.json,https://www.openstreetmap.org/relation/20505830,,13.7576194,100.4906636,มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์
+edu_591e091cc7dd,OSM,relation/20505831,data/reference/osm_education.json,https://www.openstreetmap.org/relation/20505831,,13.7595937,100.4915173,สถาบันบัณฑิตพัฒนศิลป์
+edu_8a6f36f9e2d1,OSM,relation/20583464,data/reference/osm_education.json,https://www.openstreetmap.org/relation/20583464,,13.7426386,100.4937753,โรงเรียนราชินี
+edu_af0cce222266,OFFICIAL,rtncn_main,data/reference/review_sources/naval_contact.html,https://www.rtncn.ac.th/en/ContactUs.php,,13.7087526,100.4858876,วิทยาลัยพยาบาลกองทัพเรือ
