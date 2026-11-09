@@ -1,5 +1,7 @@
 # Bangkok CCTV: campus proximity
 
+> **MacBook processing handoff:** Friends should start with [processing/README.md](processing/README.md). It contains the frozen four-batch job, ChatGPT/Codex prompt, setup/resume commands, GitHub result upload, and coordinator import instructions. Processing counts the **whole image**, including parked vehicles; no boundary annotation is required. Raw images and weights are downloaded separately.
+
 Local data engineering handoff for classifying the 100 supplied CCTV cameras within **1,500 metres** of schools, universities and colleges.
 
 ## Open the results
