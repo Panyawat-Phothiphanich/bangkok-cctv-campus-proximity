@@ -1,0 +1,68 @@
+column,parquet_dtype,null_rows,description
+schema_version,int64,0,Table schema version.
+run_id,object,0,Full-image inference run identifier.
+image_id,object,0,Unique source image identifier; primary row key.
+dataset_id,object,0,SHA256 identifier of the original archive.
+source_path,object,0,Relative image path inside the source archive; images are not included.
+content_sha256,object,0,SHA256 of source image bytes.
+camera_id,object,0,Source camera identifier; load as string.
+size_bytes,int64,0,Source image file size in bytes.
+width_px,int64,0,Decoded image width in pixels.
+height_px,int64,0,Decoded image height in pixels.
+decode_status,object,0,Source-image decoding outcome.
+raw_timestamp_text,object,0,Unparsed collection timestamp from filename.
+timestamp_source,object,0,Where the parsed timestamp came from.
+timestamp_status,object,0,Timestamp verification state.
+acquired_at_utc,"datetime64[ns, UTC]",0,Filename-derived collection time in UTC; not exact camera exposure time.
+camera_at_utc,object,61319,Camera exposure time if independently available; empty in this release.
+observed_at_utc,"datetime64[ns, UTC]",0,Analysis time in UTC; uses the documented collection-time basis.
+time_basis,object,0,"Timestamp basis, acquired for this release."
+parser_version,object,0,Timestamp parser version hash.
+observation_id,object,0,Acquisition identity used to avoid counting aliases as independent observations.
+counting_scope,object,0,full_image: no road boundary or ROI exclusion.
+model,object,0,"Detector model name, YOLO26x."
+inference_key,object,0,Content/model/settings key linking image rows to normalized detection boxes.
+inference_status,object,0,"success for all 61,319 images in this completed release."
+inference_error,object,61319,Error text if inference failed; empty in this release.
+retained_detection_count,int64,0,"Number of retained boxes at confidence >=0.10, before the 0.25 counting threshold."
+quality_status,object,0,"usable, review, or invalid according to provisional image-quality rules."
+quality_flags,object,0,JSON array of quality flags in CSV; list in Parquet.
+quality_reason,object,0,Human-readable quality decision explanation.
+mean_luma,float64,0,"Mean diagnostic grayscale brightness, 0 to 255."
+blur_score,float64,0,Diagnostic Laplacian variance; heuristic image-detail measure.
+stale_group_id,object,60735,Suspected-frozen sequence identifier if flagged; empty otherwise.
+is_selected_acquisition,bool,0,Whether this image is the selected member of its acquisition.
+eligible_analysis,bool,0,"Successful, uncapped inference on a usable unique acquisition; not a spatial-location validation."
+eligible_temporal,bool,0,Eligible analysis row with verified analysis time; recommended temporal filter.
+exclusion_reasons,object,0,JSON array of exclusion reasons in CSV; list in Parquet.
+validation_status,object,0,provisional: no independent full-image precision/recall established.
+count_confidence_threshold,float64,0,0.25 for all five counted vehicle classes.
+raw_car_count,Int64,0,"Count of car sightings at confidence >=0.25 after suppression, including quality-flagged images; vehicle is the sum of five classes."
+raw_motorcycle_count,Int64,0,"Count of motorcycle sightings at confidence >=0.25 after suppression, including quality-flagged images; vehicle is the sum of five classes."
+raw_bus_count,Int64,0,"Count of bus sightings at confidence >=0.25 after suppression, including quality-flagged images; vehicle is the sum of five classes."
+raw_truck_count,Int64,0,"Count of truck sightings at confidence >=0.25 after suppression, including quality-flagged images; vehicle is the sum of five classes."
+raw_bicycle_count,Int64,0,"Count of bicycle sightings at confidence >=0.25 after suppression, including quality-flagged images; vehicle is the sum of five classes."
+raw_vehicle_count,Int64,0,"Count of vehicle sightings at confidence >=0.25 after suppression, including quality-flagged images; vehicle is the sum of five classes."
+car_count,Int64,1485,Quality-filtered car count; null when eligible_analysis is false. Zero is a successful usable zero count.
+motorcycle_count,Int64,1485,Quality-filtered motorcycle count; null when eligible_analysis is false. Zero is a successful usable zero count.
+bus_count,Int64,1485,Quality-filtered bus count; null when eligible_analysis is false. Zero is a successful usable zero count.
+truck_count,Int64,1485,Quality-filtered truck count; null when eligible_analysis is false. Zero is a successful usable zero count.
+bicycle_count,Int64,1485,Quality-filtered bicycle count; null when eligible_analysis is false. Zero is a successful usable zero count.
+vehicle_count,Int64,1485,Quality-filtered vehicle count; null when eligible_analysis is false. Zero is a successful usable zero count.
+observed_at_local,"datetime64[ns, Asia/Bangkok]",0,Analysis timestamp in Asia/Bangkok (UTC+07:00).
+date_local,object,0,"Bangkok calendar date, YYYY-MM-DD."
+hour_local,Int64,0,"Bangkok clock hour, 0 through 23."
+weekday_local,object,0,Bangkok weekday name.
+is_weekend,bool,0,True for Saturday/Sunday in Bangkok time.
+location_th_raw,object,0,Supplied Thai place label; retained without correction.
+detail_th_raw,object,0,Supplied Thai view/direction detail.
+location_en_raw,object,0,"Supplied English label; known mismatches exist, including cameras 1188 and 529."
+detail_en_raw,object,0,Supplied English view/direction detail; not independently verified.
+latitude_raw,object,0,Original latitude text.
+longitude_raw,object,0,Original longitude text.
+latitude,float64,0,Parsed supplied latitude; selected site coordinates still need validation.
+longitude,float64,0,Parsed supplied longitude; selected site coordinates still need validation.
+location_verified_name,object,61319,Independently verified name if available; empty in this release.
+location_review_status,object,0,Source location review state; does not certify names or coordinates.
+declared_image_count,int32,0,Per-camera image count declared in source metadata.
+metadata_sha256,object,0,SHA256 of supplied camera metadata file.

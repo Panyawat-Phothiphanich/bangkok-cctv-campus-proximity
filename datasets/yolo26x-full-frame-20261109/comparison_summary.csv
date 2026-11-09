@@ -1,0 +1,5 @@
+vehicle_type,matched_images,previous_roi_detections,full_frame_detections
+car,6694,45391,58865
+motorcycle,6694,3530,4465
+bus,6694,652,1273
+truck,6694,3253,4648

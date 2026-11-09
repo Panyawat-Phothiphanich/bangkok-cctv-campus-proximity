@@ -1,0 +1,43 @@
+{
+  "status": "completed",
+  "updated_at": "2026-11-09T09:00:39.987347+00:00",
+  "run_id": "yolo26x_all_20261109",
+  "total_images": 61319,
+  "cameras": 100,
+  "inference_status": {
+    "success": 61319
+  },
+  "quality_status": {
+    "usable": 59834,
+    "review": 948,
+    "invalid": 537
+  },
+  "eligible_analysis_images": 59834,
+  "eligible_temporal_images": 59834,
+  "raw_vehicle_detections": 568153,
+  "raw_class_totals": {
+    "car": 435552,
+    "motorcycle": 67412,
+    "bus": 15434,
+    "truck": 48958,
+    "bicycle": 797
+  },
+  "analysis_class_totals": {
+    "car": 429079,
+    "motorcycle": 67038,
+    "bus": 15254,
+    "truck": 48186,
+    "bicycle": 797
+  },
+  "comparison_matched_images": 6694,
+  "comparison_scope": "same-image four-class counts; changed counting region, not accuracy",
+  "validation_errors": [],
+  "accuracy_precision_recall": null,
+  "limitations": [
+    "Counts are visible vehicle instances per snapshot, not unique trips or traffic flow.",
+    "Full images include all visible roads, parked vehicles, and distant vehicles.",
+    "Counts and quality rules have not been validated against full-image human labels.",
+    "Raw counts include invalid/review-quality images; filter eligible_temporal for preliminary time patterns.",
+    "Camera view changes and overlapping cameras are not resolved; do not sum cameras as unique city traffic."
+  ]
+}

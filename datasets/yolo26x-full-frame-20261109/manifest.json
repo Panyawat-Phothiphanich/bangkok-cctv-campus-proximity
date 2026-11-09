@@ -1,0 +1,85 @@
+{
+  "dataset": "Bangkok CCTV YOLO26x full-image counts",
+  "release_tag": "yolo26x-full-frame-20261109",
+  "created_at": "2026-11-09T10:15:42.700815+00:00",
+  "rows": 61319,
+  "columns": 67,
+  "cameras": 100,
+  "eligible_temporal_rows": 59834,
+  "model": "YOLO26x",
+  "model_weights_sha256": "9fdd44a31c504547ffb81d2c6d9e6dac3493c8eaa8b0398d3f43bae6c7003e92",
+  "model_input_size": 960,
+  "counting_scope": "full_image",
+  "count_confidence_threshold": 0.25,
+  "validation_status": "provisional",
+  "files": {
+    "DATASET_GUIDE.md": {
+      "bytes": 6403,
+      "sha256": "e0138204da25a34144c202dc8b8ec7e2fdb7b4ebf7ef6a0bccde696616f361f1"
+    },
+    "camera_day_hour.csv": {
+      "bytes": 1024254,
+      "sha256": "91502f400df09acb392f80d8cccb7524923735de4d27b3e5008a39fbc59fc49d"
+    },
+    "camera_summary.csv": {
+      "bytes": 12800,
+      "sha256": "3c9b23d8ce3355f4365732904110d786c8fa48c661a9d980a09a57243b8dc19e"
+    },
+    "comparison_summary.csv": {
+      "bytes": 160,
+      "sha256": "fc94a61a3675200f86ce512e8ea1ec82c563dfb808b1ec5d1c51a2226a61e53a"
+    },
+    "completion_verification.json": {
+      "bytes": 799,
+      "sha256": "9c26e7d2b22fb1aaee35e5660b02501e980642ee7516137186cc945717517993"
+    },
+    "coverage_by_camera_hour.csv": {
+      "bytes": 255928,
+      "sha256": "e607fe910aadf167bd94060b6236dd62beb544360c06a242c1ea4f5a6147aef3"
+    },
+    "data_dictionary.csv": {
+      "bytes": 6059,
+      "sha256": "4008021f7549cf6228f8916a91b3bb89724314e1a0024fa4296e1a1a2bfea107"
+    },
+    "hourly_profiles.csv": {
+      "bytes": 281947,
+      "sha256": "d96d3a527e9dfb236e572ed08f9cd4eac1ee8d0537219646e081450fbbab0830"
+    },
+    "plots/camera_coverage.png": {
+      "bytes": 85296,
+      "sha256": "ae8df4266a55c2b7f4cf5c43b51668c92907f99584f3d81a78ac3ffd7f562295"
+    },
+    "plots/full_image_vs_previous_boundary.png": {
+      "bytes": 92906,
+      "sha256": "554a8296e9ef704b0b10f7866f6f7595a81d9730f4162ee01aa9e02e46c9a40e"
+    },
+    "plots/ten_camera_hourly_patterns.png": {
+      "bytes": 495778,
+      "sha256": "578b2a38b67761e4615175b8d8af04ec91b481be924fadea2b9971afb6ed75e7"
+    },
+    "plots/vehicle_types.png": {
+      "bytes": 55290,
+      "sha256": "70da7846ab8489ceee09ba24033096e4b88eca8de9beb534900dceeffc3547ab"
+    },
+    "preview_200_images.csv": {
+      "bytes": 15381,
+      "sha256": "ed887e27e310c6c2406509614a1b5a68f939883f9f36ad7c98ed4238cf53f31f"
+    },
+    "summary.json": {
+      "bytes": 1377,
+      "sha256": "5fb803f8929075144f4f4df0c14f4f5b952a01854cfdd1a56fe6bfcd93bda9f7"
+    },
+    "traffic_full_frame.csv": {
+      "bytes": 77062156,
+      "sha256": "fb1e234fe7d9729447b9f504f209127ed8faa6fcd0ae1c8ee614c4b8348371b2"
+    },
+    "traffic_full_frame.csv.gz": {
+      "bytes": 13877750,
+      "sha256": "e6d29c2b44e1e48267d6d1723c498894eb07a416a7e6ff23a8bc285c7148485f"
+    },
+    "traffic_full_frame.parquet": {
+      "bytes": 11644493,
+      "sha256": "eb77e8cd0d98e0042f7c2fb56d747066bf264f16e9b94e3be4ad265d64f32c09"
+    }
+  }
+}

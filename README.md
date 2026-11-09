@@ -1,5 +1,7 @@
 # Bangkok CCTV: campus proximity
 
+> **Completed YOLO26x full-image dataset (9 November 2026):** [Download the 61,319-image results and read the dataset guide](datasets/yolo26x-full-frame-20261109/README.md). Includes all 100 cameras, five vehicle classes, quality flags, and a ready-to-share CSV/Parquet release.
+
 > **MacBook processing handoff:** Friends should start with [processing/README.md](processing/README.md). It contains the frozen four-batch job, ChatGPT/Codex prompt, setup/resume commands, GitHub result upload, and coordinator import instructions. Processing counts the **whole image**, including parked vehicles; no boundary annotation is required. Raw images and weights are downloaded separately.
 
 Local data engineering handoff for classifying the 100 supplied CCTV cameras within **1,500 metres** of schools, universities and colleges.

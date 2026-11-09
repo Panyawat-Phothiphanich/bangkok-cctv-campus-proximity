@@ -1,0 +1,27 @@
+{
+  "verified_at": "2026-11-09T16:01:49.400596+07:00",
+  "result": "pass",
+  "image_rows": 61319,
+  "columns": 67,
+  "camera_count": 100,
+  "successful_inference": 61319,
+  "usable_analysis_images": 59834,
+  "raw_vehicle_sightings": 568153,
+  "normalized_detection_class_totals": {
+    "truck": 48958,
+    "bus": 15434,
+    "car": 435552,
+    "motorcycle": 67412,
+    "bicycle": 797
+  },
+  "matched_comparison_images": 6694,
+  "checks": [
+    "CSV/Parquet row IDs and counts match",
+    "All source images inferred without ROI filtering",
+    "Class totals reconcile against normalized detection boxes",
+    "Invalid/review rows keep raw predictions and nullable analysis counts",
+    "Checkpoint database complete",
+    "Comparison and plots present",
+    "Completed dataset pointer resolves"
+  ]
+}
