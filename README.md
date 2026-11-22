@@ -1,87 +1,154 @@
-# Bangkok CCTV: campus proximity
+# Bangkok school traffic
 
-> **Completed YOLO26x full-image dataset (9 November 2026):** [Download the 61,319-image results and read the dataset guide](datasets/yolo26x-full-frame-20261109/README.md). Includes all 100 cameras, five vehicle classes, quality flags, and a ready-to-share CSV/Parquet release.
+We compare visible vehicle counts near Bangkok schools across hours and weekdays/weekends, using 61,319 CCTV snapshots from 100 cameras, collected on 25–31 August 2026.
 
-> **MacBook processing handoff:** Friends should start with [processing/README.md](processing/README.md). It contains the frozen four-batch job, ChatGPT/Codex prompt, setup/resume commands, GitHub result upload, and coordinator import instructions. Processing counts the **whole image**, including parked vehicles; no boundary annotation is required. Raw images and weights are downloaded separately.
+The main result is a larger weekday morning count in the same camera views: **+61.2%**, compared with **+0.9%** at midday and **+28.7%** in the afternoon, across 89 cameras with sufficient matched coverage. This describes a pattern near schools; it does not measure traffic caused by schools. Read [FINDINGS.md](FINDINGS.md) and [METHODS.md](METHODS.md) for the evidence and limits.
 
-Local data engineering handoff for classifying the 100 supplied CCTV cameras within **1,500 metres** of schools, universities and colleges.
-
-## Open the results
-
-- `data/processed/cctv_campus_flags.csv`: main camera table, one row per camera.
-- `reports/campus_proximity_map.html`: open directly in a browser. Search cameras, filter groups, click a camera to view its matches. The point/grid view works offline; street tiles load only when you click **Load street map** and require internet.
-- `reports/quality_report.md`: results, methods and material limitations.
-- `data/processed/camera_institution_matches.csv`: all within-radius camera/institution pairs.
-- `data/processed/institutions_clean.csv`: cleaned reference locations.
-- `data/processed/institution_provenance.csv`: original source IDs and coordinates for each retained institution.
-- `data/processed/deduplication_log.csv` and `campus_components.csv`: merge decisions and faculty/building records collapsed into parent campuses.
-- `data/processed/borderline_matches.csv`: pairs within 100 m either side of the cutoff, including outside-radius records.
-- `reports/camera_review.csv` and `reports/finalization_review.md`: targeted review of the original 13 university/college no-matches and school matches for cameras 224/225.
-- `data/processed/reference_corrections.csv`: evidence-backed type/name corrections. The additional naval nursing college comes from its official contact page; its embedded-map viewport centre is explicitly approximate.
-
-## Rerun locally
-
-From this project folder, using Python 3.9 or newer:
+## Clone and run on your laptop
 
 ```sh
-python3 scripts/campus_pipeline.py
-python3 -m unittest discover -s tests -v
-python3 scripts/validate_outputs.py
+gh repo clone Panyawat-Phothiphanich/bangkok-cctv-campus-proximity
+cd bangkok-cctv-campus-proximity
 ```
 
-The pipeline uses the Python standard library only. It reads cached input data, regenerates tables/report/map, and does not query the internet or download CCTV images. `config.json` contains the radius and input paths. The cached map reference covers the original study extent; expanding that extent requires a new source lookup. A run records source checksums and configuration in `reports/run_manifest.json`. Regenerating outputs changes the run timestamp; substantive data stays stable for identical inputs/configuration.
+This repository's **main branch is the complete, organized submission**. The saved counts, calendar labels, analysis, figures and dashboard data are included. You can start without downloading the source images or running YOLO.
 
-Optional explicit source refresh:
+If GitHub CLI is unavailable or asks you to sign in, the public repository can also be cloned with:
 
 ```sh
-python3 scripts/refresh_osm.py
-python3 scripts/campus_pipeline.py
+git clone https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity.git
+cd bangkok-cctv-campus-proximity
 ```
 
-Refresh requires internet and uses the saved queries, preserving provenance. An expanded radius/study area requires editing and reviewing the queries before refreshing.
+## Run it
 
-## Main CSV dictionary
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then open a terminal in this folder. Python 3.11 is recommended.
 
-| Field | Meaning |
+```sh
+uv sync --frozen --python 3.11
+uv run --frozen python run.py check
+uv run --frozen python run.py dashboard
+```
+
+Open **http://127.0.0.1:8501**. The dashboard includes camera/date/class filters, maps, time series, school-calendar evidence, quality/coverage information, and CSV downloads. Use `--port 8502` if another app already uses the default port. Installation needs internet; the included study data works offline. Online map tiles have an offline coordinate-view alternative.
+
+## Prompt for ChatGPT or Codex on another laptop
+
+Copy this whole prompt into an agent that can use your laptop's terminal:
+
+```text
+Set up and run this Bangkok school-traffic project on this laptop.
+
+Repository: https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity
+
+1. Clone the main branch using:
+   gh repo clone Panyawat-Phothiphanich/bangkok-cctv-campus-proximity
+   If gh is unavailable or not signed in, use:
+   git clone https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity.git
+   If a local copy already exists, check its remote and preserve any uncommitted work.
+2. Open the repository folder and read README.md, AGENTS.md, METHODS.md and SOURCES.md.
+3. Set up uv if needed, then run from the repository root:
+   uv sync --frozen --python 3.11
+   uv run --frozen python run.py check
+   uv run --frozen pytest -q
+4. Use the included completed data. Do not run YOLO, download source images or start
+   GPU inference for this setup. Do not alter frozen inputs, quality rules, counts
+   or measurement definitions. Whole-image counts include parked vehicles.
+5. Start the dashboard:
+   uv run --frozen python run.py dashboard
+   If port 8501 is occupied, use --port 8502. Open the local URL when a browser is
+   available; otherwise give me the URL. Keep the server running while I use it.
+6. Fix setup or access problems without changing the study. Report the actual
+   test/check results and dashboard URL, plus any unresolved problem.
+
+If I later ask you to reproduce the tables and charts, choose a new empty output
+folder and run:
+   uv run --frozen python run.py rebuild --output results/rebuilt
+   uv run --frozen python run.py check --output results/rebuilt
+   uv run --frozen python run.py dashboard --output results/rebuilt
+Do not overwrite an existing rebuild. Read the methods before interpreting the
+results as a school effect. Use a separate branch for requested edits.
+```
+
+## Recreate the results
+
+```sh
+uv run --frozen python run.py rebuild --output results/rebuilt
+uv run --frozen python run.py check --output results/rebuilt
+uv run --frozen python run.py dashboard --output results/rebuilt
+uv run --frozen pytest -q
+```
+
+Use a new output folder each time. Rebuild preserves existing results and never runs the detector. It checks the saved inputs, adds calendar labels, rebuilds hourly tables/comparisons/seven charts, independently checks the calculations, and prepares dashboard data. The supplied results are already built. All commands also work when invoked with an absolute path to `run.py`; paths resolve from the project folder.
+
+## Folder guide
+
+| Location | Purpose |
 |---|---|
-| `camera_id` | Stable camera key. Treat as a string when joining. |
-| `location*`, `latitude`, `longitude`, `image_count` | Camera fields preserved from the supplied metadata; image_count is reported, not verified against the ZIP. |
-| `radius_m` | 1500 for this study; inclusive threshold on unrounded distance. |
-| `near_any_education` | True if a retained institution reference point falls within the radius. |
-| `near_school` | Same rule for records classified as school. |
-| `near_university_college` | Same rule for university/college records; blank if supplementary coverage is unavailable. |
-| `institutions_within_radius`, `schools_within_radius`, `universities_colleges_within_radius` | Counts of retained reference entities, after conservative deduplication; unresolved aliases can inflate counts. |
-| `nearest_institution_*`, `nearest_distance_m` | Nearest retained reference of any type in the cached catalog. Distances are in metres, displayed to 3 decimal places, without implying coordinate accuracy at that precision. |
-| `nearest_school_*`, `nearest_university_college_*` | Nearest reference for each category, even if beyond 1.5 km. The map supplement is geographically bounded, so these are not certified global nearest institutions. |
-| `nearest_point_role` | `source_point_unverified`, `mapped_node`, or `bounding_box_center`. |
-| `coordinate_status` | Camera-coordinate validity, not a survey-grade location verification. |
-| `match_status` | `matched`, `no_match_in_catalog`, or `unknown`. |
-| `reference_coverage_status` | `incomplete_public_catalog`: references cannot establish that no institution exists in an area. |
-| `review_required`, `review_reason` | Outstanding reference-point/threshold checks. Current rows remain provisional pending location review. |
-| `targeted_review_status`, `school_identity_review_status` | Completed targeted checks and their limitations. `not_targeted` means the row was outside the requested 15-camera review. |
-| `nearest_mapped_university_boundary_*`, `within_radius_of_mapped_university_boundary` | Auxiliary mapped-footprint sensitivity check for targeted cameras. This uses a local tangent-plane approximation and does not replace the primary point-distance rule. Blank outside the review set or if unavailable. Includes colleges despite the shorter column name. |
-| `university_comparison_status` | Warns about point exposure, campus-edge sensitivity, near-cutoff uncertainty and incomplete-catalog no-matches. None certifies a causal comparison group. |
+| `run.py` | The four commands: `rebuild`, `check`, `dashboard`, `infer` |
+| `workflow/calendar.py` | Holiday, term and closure labels, with explicit evidence scopes |
+| `workflow/traffic.py` | Coverage gates, balanced comparisons, school-clock cases and peak selection |
+| `workflow/analysis.py` | Runs those calculations and writes tables and charts |
+| `workflow/verify.py`, `dashboard_bundle.py` | Independent reconciliation and compact dashboard export |
+| `workflow/inference.py`, `image_processing/` | Optional intake, quality checks and resumable whole-image inference |
+| `dashboard/` | Streamlit interface and filtering/calculation helpers |
+| `inputs/` | Frozen counts, campus catalogue, context tables, reviewed calendar rules and source snapshots |
+| `results/calendar/` | Calendar-enriched observations and supporting labels |
+| `results/analysis/` | Analysis tables, seven figures, summary and verification |
+| `results/dashboard/` | Compact dashboard data |
+| `tests/` | Calendar, analysis and dashboard checks |
 
-CSV files use UTF-8 with BOM for Thai-text compatibility. Booleans are `True`/`False`; blank flags mean unknown. A false flag means **no match in the catalog**, not confirmed absence. Invalid camera coordinates remain in the table with unknown flags. Joining the main table to traffic observations on camera_id must preserve the observation count.
+Generated CSVs support inspection and sharing; Parquet preserves types. Camera IDs are strings. The large observation table is supplied once as Parquet rather than duplicating it as CSV. Source/code hashes are recorded in the manifests. [SOURCES.md](SOURCES.md) describes where the inputs came from and which steps include human judgments.
 
-## Source decisions
+## Optional: process the images again
 
-The unchanged team package is under `data/raw/webscraping/`. Recover 437 BMA school records missed by the supplied importer and reuse the 159 OBEC coordinate rows. The coordinate-free OPEC enrolment file and programme-specific academic calendar remain raw supporting material; neither is silently geocoded or applied to all institutions.
+This is the expensive step. It is separate from `rebuild`, and has not been run again during this cleanup. It uses the original image-intake, quality and detector functions, with the historical boundary-comparison and reviewer interfaces removed from this submission.
 
-The supplementary OpenStreetMap snapshot and exact queries are under `data/reference/`. Data retrieved via the VK Maps Overpass mirror after other public endpoints failed. Campus outlines are used to suppress internal faculty/building duplicates, **not** to change the point-distance rule. A fallback Wikidata query was cached during source discovery but is not used to calculate final flags.
+1. Obtain the [course archive and metadata](https://drive.google.com/drive/folders/1k2-KxXe4wbDmFGcGXI-pK7TdSXjBHTni). Save them as `data/raw/cctv_images.zip` and `data/raw/cctv_info.csv` under this folder. The archive hash is checked before processing. Camera metadata is [also linked directly here](https://drive.google.com/file/d/1VSCzWeNOV7ds_d9BNJ9i20_9JzyncL2F/view).
+2. Obtain the [pinned YOLO26x weights](https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26x.pt) as `models/yolo26x.pt`. The configured weight hash is checked before processing.
+3. Run on an Apple Silicon Mac with adequate free storage and memory:
 
-Camera CSV was fetched from Google Drive through the connector as readable CSV. Its values are preserved; line endings are normalized to LF. The source-byte archive was not downloaded. Manifest checksums refer to the local cached files.
+```sh
+uv sync --frozen --extra inference --python 3.11
+uv run --frozen --extra inference python run.py infer --output results/new_inference
+```
 
-## Limits relevant to analysis
+Repeat the same command to resume. SQLite checkpoints reuse successful images, including real zero detections. `--limit 20` caps newly processed unique images for a small trial and produces an explicitly partial table. One process should own each output folder. The configuration is `inputs/image_model.yaml`: MPS, 960-pixel input, batch 1, 30% memory cap, confidence retention 0.10, counting threshold 0.25, IoU 0.5. All five vehicle classes are counted over the **whole image, including parked vehicles**.
 
-All flags describe straight-line distance to recorded points, not route distance, road direction, verified campus gates, class schedules or commuter counts. Source freshness/coordinate roles vary. Institution names and types from public mapping may still need corrections. Current outputs do not establish causality.
+A rerun writes `results/new_inference/images/traffic_full_frame.parquet` and its progress/summary; it does not replace the frozen submission counts. Device/runtime changes can affect predictions. Compare and review a rerun before adopting it for a new study. The current frozen calendar rules only cover the seven study dates.
 
-If all cameras are within 1.5 km of a school, that binary flag has no unexposed comparison group. The separate higher-education flag and continuous nearest distances may support an appropriately designed downstream analysis.
+## Method in brief
 
-Browser preview permission was declined. JavaScript syntax and output consistency were checked, but visual rendering was not verified in a browser.
+```mermaid
+flowchart LR
+    A[Course images + camera metadata] --> B[Inventory + quality checks]
+    B --> C[Whole-image YOLO counts]
+    D[Institution catalogue + 1.5 km links] --> E[Calendar and campus context]
+    F[Saved public calendar sources + scoped rules] --> E
+    C --> E
+    E --> G[Coverage-balanced within-camera comparisons]
+    H[Road, rain and clock reference tables] --> G
+    G --> I[Independent calculation checks]
+    I --> J[Charts + interactive dashboard + CSV exports]
+```
 
-After the user requested the preview again, the tool reported a saved permission or managed policy blocking the local origin. The visual check remains unperformed. To inspect it yourself, double-click `reports/campus_proximity_map.html`. The data review was completed independently of the browser restriction.
+- Counts are visible sightings per snapshot, not flow, unique vehicles, speed or congestion.
+- Excluded/unknown measurements stay missing; successful empty detections are zero.
+- The headline compares the same camera and accepted dates in eight fixed hours: 07–09, 10–14 and 15–17. At least three complete weekdays and both weekend days are required.
+- Hourly means receive equal weight within each day; days receive equal weight within each day type. The headline is a median of within-camera percentage differences.
+- Calendar integration is complete as code; source coverage is partial. Unsupported terms/closures remain unknown. BBA programme evidence is not a university-wide calendar.
+- Model accuracy has not been independently established. Human review was deferred. Coordinates, institution types, camera-clock offsets and overlapping views retain their recorded limitations.
 
-## Attribution
+## Submission notes
 
-Camera data: supplied course Google Drive metadata. School data: web scraping team handoff, with source paths/years retained. OpenStreetMap data: **© OpenStreetMap contributors**, [ODbL](https://opendatacommons.org/licenses/odbl/1-0/), [copyright and attribution](https://www.openstreetmap.org/copyright). Review source terms before redistributing the combined reference.
+The main branch contains the code, frozen inputs, results, and a working dashboard. Slides, the 15-minute video, external submission links, and registration are separate team deliverables.
+
+Generative AI assisted code development, organization, documentation and analysis exploration. The team should review and explain the submitted methods and findings. Human vehicle labels were not fabricated; tests and independent arithmetic checks do not establish detector accuracy. Model, data and software licenses remain those of the respective providers. OpenStreetMap attribution: © OpenStreetMap contributors, ODbL.
+
+## Verification
+
+The organized submission was checked on 22 November 2026: all 41 calendar/analysis/dashboard tests passed. Four optional image-processing tests passed in the existing model environment using synthetic test images and a test detector; no new YOLO run was started. The rebuilt observation table (61,319 rows, 82 columns), hourly cube, primary comparisons, sensitivity tables and headline values agree with the previous study. The final package also receives a fresh-folder rebuild/check before handoff.
+
+## Previous project version
+
+The earlier catalogue-cleaning code, original collection evidence and distributed-worker handoff are preserved on [archive/pre-submission-20261122](https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity/tree/archive/pre-submission-20261122). The [completed image-count release](https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity/releases/tag/yolo26x-full-frame-20261109) remains available. Use this main branch for the current project.

@@ -1,6 +1,0 @@
-pandas
-requests
-openpyxl
-lxml
-html5lib
-geopandas
