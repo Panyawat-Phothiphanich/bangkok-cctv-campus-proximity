@@ -1,154 +1,96 @@
-# Bangkok school traffic
+# Why do Bangkok CCTV cameras fail?
 
-We compare visible vehicle counts near Bangkok schools across hours and weekdays/weekends, using 61,319 CCTV snapshots from 100 cameras, collected on 25–31 August 2026.
+We analysed one week of snapshots from 100 Bangkok traffic cameras, 25–31 August 2026. We ask when pictures go missing, freeze or become unusable, which cameras are affected, and whether traffic helps explain it.
 
-The main result is a larger weekday morning count in the same camera views: **+61.2%**, compared with **+0.9%** at midday and **+28.7%** in the afternoon, across 89 cameras with sufficient matched coverage. This describes a pattern near schools; it does not measure traffic caused by schools. Read [FINDINGS.md](FINDINGS.md) and [METHODS.md](METHODS.md) for the evidence and limits.
+**[Read the five-question report](results/CCTV_Failures_Five_Questions.pdf)** · [See the calculated numbers](results/summary.json)
 
-## Clone and run on your laptop
+The strongest pattern is a large interruption affecting many cameras together, followed by persistent freezes on a few feeds. These patterns do not identify the faulty physical component.
 
-```sh
-gh repo clone Panyawat-Phothiphanich/bangkok-cctv-campus-proximity
-cd bangkok-cctv-campus-proximity
-```
+## Recreate the report
 
-This repository's **main branch is the complete, organized submission**. The saved counts, calendar labels, analysis, figures and dashboard data are included. You can start without downloading the source images or running YOLO.
+Use Python 3.11. From a terminal:
 
-If GitHub CLI is unavailable or asks you to sign in, the public repository can also be cloned with:
-
-```sh
+```bash
 git clone https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity.git
 cd bangkok-cctv-campus-proximity
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python run.py
 ```
 
-## Run it
+On Windows, activate with `.venv\Scripts\activate` instead of the `source` line.
 
-Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then open a terminal in this folder. Python 3.11 is recommended.
+After setup, **`python run.py` is the only command needed to rerun the workflow.** It checks the inputs and joins, calculates the results, draws six charts and writes the five-page PDF. No GPU, API key or additional download is needed after the Python packages are installed.
 
-```sh
-uv sync --frozen --python 3.11
-uv run --frozen python run.py check
-uv run --frozen python run.py dashboard
+Everything is written under `output/`:
+
+- `CCTV_Failures_Five_Questions.pdf`: one readable page per question.
+- `summary.json` and CSV tables: the numbers behind the report.
+- `charts/`: six PNG charts for slides.
+- `slots_with_traffic.csv.gz`: the joined dataframe, with missing vehicle counts left empty.
+
+To write somewhere else: `python run.py --output my_results`.
+
+## In Google Colab
+
+Run these lines in a notebook cell. A CPU runtime is enough.
+
+```python
+!git clone https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity.git
+%cd bangkok-cctv-campus-proximity
+!pip install -q -r requirements.txt
+!python run.py
 ```
 
-Open **http://127.0.0.1:8501**. The dashboard includes camera/date/class filters, maps, time series, school-calendar evidence, quality/coverage information, and CSV downloads. Use `--port 8502` if another app already uses the default port. Installation needs internet; the included study data works offline. Online map tiles have an offline coordinate-view alternative.
+## The code
 
-## Prompt for ChatGPT or Codex on another laptop
+There are two working Python files, plus one test file:
 
-Copy this whole prompt into an agent that can use your laptop's terminal:
+| File or folder | Purpose |
+| --- | --- |
+| `run.py` | Loads/checks the inputs, joins vehicle counts, answers the five questions and saves results. |
+| `report.py` | Turns those calculated results into charts and the PDF. |
+| `test_analysis.py` | Checks joins, missing counts, shared freezing, traffic comparisons and durations. |
+| `requirements.txt` | The package versions used for the clean reproduction check. |
+| `inputs/` | The original failure kit, a small vehicle-count export and their source/checksum record. |
+| `results/` | A saved report and summary, readable without running code. |
+| `archive/traffic-study-20261122/` | The previous school-traffic submission, preserved separately. |
 
-```text
-Set up and run this Bangkok school-traffic project on this laptop.
+Start with `run.py`; its functions follow the five questions. There is no service or framework to configure.
 
-Repository: https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity
+## What the analysis does
 
-1. Clone the main branch using:
-   gh repo clone Panyawat-Phothiphanich/bangkok-cctv-campus-proximity
-   If gh is unavailable or not signed in, use:
-   git clone https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity.git
-   If a local copy already exists, check its remote and preserve any uncommitted work.
-2. Open the repository folder and read README.md, AGENTS.md, METHODS.md and SOURCES.md.
-3. Set up uv if needed, then run from the repository root:
-   uv sync --frozen --python 3.11
-   uv run --frozen python run.py check
-   uv run --frozen pytest -q
-4. Use the included completed data. Do not run YOLO, download source images or start
-   GPU inference for this setup. Do not alter frozen inputs, quality rules, counts
-   or measurement definitions. Whole-image counts include parked vehicles.
-5. Start the dashboard:
-   uv run --frozen python run.py dashboard
-   If port 8501 is occupied, use --port 8502. Open the local URL when a browser is
-   available; otherwise give me the URL. Keep the server running while I use it.
-6. Fix setup or access problems without changing the study. Report the actual
-   test/check results and dashboard URL, plus any unresolved problem.
+1. **When do failures happen?** Calculate daily rates and describe hours/lighting for each error type. Timing and ranking charts include the whole week, including 27 August's large outage.
+2. **Which cameras or districts fail most?** Rank failed checks divided by all checks. Show the number of sampled cameras beside district rates.
+3. **Do cameras fail together?** Compare freezing in ten-minute periods when both cameras delivered a picture. Check the strongest pair's distance and address group. A matching IP prefix does not prove shared equipment.
+4. **Does traffic matter?** Compare usable pictures in the 30 minutes before the first flagged freeze with the same camera and clock time on other weekdays. Require two preceding images and three comparison weekdays. Summarise repeated events by camera, then resample cameras with a fixed seed.
+5. **How long do errors last?** Summarise the supplied episode durations. These are snapshot-based estimates; the first duplicate follows the actual freeze onset, and some faults continue beyond the recording period.
 
-If I later ask you to reproduce the tables and charts, choose a new empty output
-folder and run:
-   uv run --frozen python run.py rebuild --output results/rebuilt
-   uv run --frozen python run.py check --output results/rebuilt
-   uv run --frozen python run.py dashboard --output results/rebuilt
-Do not overwrite an existing rebuild. Read the methods before interpreting the
-results as a school effect. Use a separate branch for requested edits.
+The traffic comparison excludes weekend onsets, opening-boundary episodes and onsets during 27 August 06:00–09:00 because they lack an adequate normal comparison. This filter applies to the traffic question, not the timing or ranking charts.
+
+## Inputs and scope
+
+- **`inputs/failure_kit.zip`** is the team's original kit: 63,129 camera checks, including 61,319 actual images and 1,810 inferred missing pictures. It contains `slots.csv`, `cameras.csv`, `episodes.csv` and the team's definitions. The ZIP is read directly, not executed or unpacked into the project.
+- **`inputs/vehicle_counts.csv.gz`** keeps four columns from the saved **YOLO26x whole-image** output: image path, camera ID, vehicle count and analysis eligibility. Null counts and real zeroes are preserved. The model used a confidence threshold of 0.25.
+- **`inputs/sources.json`** records input hashes, the original model dataframe hash and its [public download](https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity/releases/tag/yolo26x-full-frame-20261109).
+
+This submission recreates the analysis/report **from the supplied failure labels and saved model counts**. It does not regenerate the team's labels from raw images or rerun YOLO. Raw images and model weights are not included. Human detection precision/recall and hardware root causes have not been established.
+
+Every actual picture must join exactly once on `rel_path`; unavailable pictures remain null rather than zero traffic. The checks also reconcile camera and episode totals. The study covers one week and a non-random camera sample, so district rankings and possible causes need cautious interpretation.
+
+## Check the results
+
+```bash
+python -m unittest -v test_analysis
 ```
 
-## Recreate the results
+Seven tests cover the image join, missing counts, whole-week rates, shared freezing, matched traffic comparisons and duration/sample-size results. One deliberately changes failed-image vehicle counts to confirm they cannot affect the traffic result.
 
-```sh
-uv run --frozen python run.py rebuild --output results/rebuilt
-uv run --frozen python run.py check --output results/rebuilt
-uv run --frozen python run.py dashboard --output results/rebuilt
-uv run --frozen pytest -q
-```
+## Prompt for ChatGPT or Codex
 
-Use a new output folder each time. Rebuild preserves existing results and never runs the detector. It checks the saved inputs, adds calendar labels, rebuilds hourly tables/comparisons/seven charts, independently checks the calculations, and prepares dashboard data. The supplied results are already built. All commands also work when invoked with an absolute path to `run.py`; paths resolve from the project folder.
+Share this repository link and the following prompt with your teammate:
 
-## Folder guide
+> Read README.md and AGENTS.md. Install requirements.txt, run `python -m unittest -v test_analysis`, then run `python run.py`. Explain the five findings using the generated charts. Use the included data; do not rerun YOLO. Keep missing counts empty, use the documented comparisons, and distinguish observed failure patterns from possible causes. Preserve any local uncommitted work.
 
-| Location | Purpose |
-|---|---|
-| `run.py` | The four commands: `rebuild`, `check`, `dashboard`, `infer` |
-| `workflow/calendar.py` | Holiday, term and closure labels, with explicit evidence scopes |
-| `workflow/traffic.py` | Coverage gates, balanced comparisons, school-clock cases and peak selection |
-| `workflow/analysis.py` | Runs those calculations and writes tables and charts |
-| `workflow/verify.py`, `dashboard_bundle.py` | Independent reconciliation and compact dashboard export |
-| `workflow/inference.py`, `image_processing/` | Optional intake, quality checks and resumable whole-image inference |
-| `dashboard/` | Streamlit interface and filtering/calculation helpers |
-| `inputs/` | Frozen counts, campus catalogue, context tables, reviewed calendar rules and source snapshots |
-| `results/calendar/` | Calendar-enriched observations and supporting labels |
-| `results/analysis/` | Analysis tables, seven figures, summary and verification |
-| `results/dashboard/` | Compact dashboard data |
-| `tests/` | Calendar, analysis and dashboard checks |
-
-Generated CSVs support inspection and sharing; Parquet preserves types. Camera IDs are strings. The large observation table is supplied once as Parquet rather than duplicating it as CSV. Source/code hashes are recorded in the manifests. [SOURCES.md](SOURCES.md) describes where the inputs came from and which steps include human judgments.
-
-## Optional: process the images again
-
-This is the expensive step. It is separate from `rebuild`, and has not been run again during this cleanup. It uses the original image-intake, quality and detector functions, with the historical boundary-comparison and reviewer interfaces removed from this submission.
-
-1. Obtain the [course archive and metadata](https://drive.google.com/drive/folders/1k2-KxXe4wbDmFGcGXI-pK7TdSXjBHTni). Save them as `data/raw/cctv_images.zip` and `data/raw/cctv_info.csv` under this folder. The archive hash is checked before processing. Camera metadata is [also linked directly here](https://drive.google.com/file/d/1VSCzWeNOV7ds_d9BNJ9i20_9JzyncL2F/view).
-2. Obtain the [pinned YOLO26x weights](https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26x.pt) as `models/yolo26x.pt`. The configured weight hash is checked before processing.
-3. Run on an Apple Silicon Mac with adequate free storage and memory:
-
-```sh
-uv sync --frozen --extra inference --python 3.11
-uv run --frozen --extra inference python run.py infer --output results/new_inference
-```
-
-Repeat the same command to resume. SQLite checkpoints reuse successful images, including real zero detections. `--limit 20` caps newly processed unique images for a small trial and produces an explicitly partial table. One process should own each output folder. The configuration is `inputs/image_model.yaml`: MPS, 960-pixel input, batch 1, 30% memory cap, confidence retention 0.10, counting threshold 0.25, IoU 0.5. All five vehicle classes are counted over the **whole image, including parked vehicles**.
-
-A rerun writes `results/new_inference/images/traffic_full_frame.parquet` and its progress/summary; it does not replace the frozen submission counts. Device/runtime changes can affect predictions. Compare and review a rerun before adopting it for a new study. The current frozen calendar rules only cover the seven study dates.
-
-## Method in brief
-
-```mermaid
-flowchart LR
-    A[Course images + camera metadata] --> B[Inventory + quality checks]
-    B --> C[Whole-image YOLO counts]
-    D[Institution catalogue + 1.5 km links] --> E[Calendar and campus context]
-    F[Saved public calendar sources + scoped rules] --> E
-    C --> E
-    E --> G[Coverage-balanced within-camera comparisons]
-    H[Road, rain and clock reference tables] --> G
-    G --> I[Independent calculation checks]
-    I --> J[Charts + interactive dashboard + CSV exports]
-```
-
-- Counts are visible sightings per snapshot, not flow, unique vehicles, speed or congestion.
-- Excluded/unknown measurements stay missing; successful empty detections are zero.
-- The headline compares the same camera and accepted dates in eight fixed hours: 07–09, 10–14 and 15–17. At least three complete weekdays and both weekend days are required.
-- Hourly means receive equal weight within each day; days receive equal weight within each day type. The headline is a median of within-camera percentage differences.
-- Calendar integration is complete as code; source coverage is partial. Unsupported terms/closures remain unknown. BBA programme evidence is not a university-wide calendar.
-- Model accuracy has not been independently established. Human review was deferred. Coordinates, institution types, camera-clock offsets and overlapping views retain their recorded limitations.
-
-## Submission notes
-
-The main branch contains the code, frozen inputs, results, and a working dashboard. Slides, the 15-minute video, external submission links, and registration are separate team deliverables.
-
-Generative AI assisted code development, organization, documentation and analysis exploration. The team should review and explain the submitted methods and findings. Human vehicle labels were not fabricated; tests and independent arithmetic checks do not establish detector accuracy. Model, data and software licenses remain those of the respective providers. OpenStreetMap attribution: © OpenStreetMap contributors, ODbL.
-
-## Verification
-
-The organized submission was checked on 22 November 2026: all 41 calendar/analysis/dashboard tests passed. Four optional image-processing tests passed in the existing model environment using synthetic test images and a test detector; no new YOLO run was started. The rebuilt observation table (61,319 rows, 82 columns), hourly cube, primary comparisons, sensitivity tables and headline values agree with the previous study. The final package also receives a fresh-folder rebuild/check before handoff.
-
-## Previous project version
-
-The earlier catalogue-cleaning code, original collection evidence and distributed-worker handoff are preserved on [archive/pre-submission-20261122](https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity/tree/archive/pre-submission-20261122). The [completed image-count release](https://github.com/Panyawat-Phothiphanich/bangkok-cctv-campus-proximity/releases/tag/yolo26x-full-frame-20261109) remains available. Use this main branch for the current project.
+![Example: the first question and its chart](results/Question-1.png)
