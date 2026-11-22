@@ -1,12 +1,5 @@
 .venv/
+output/
 __pycache__/
-.pytest_cache/
-.ruff_cache/
+*.pyc
 .DS_Store
-*.part
-data/
-models/
-results/rebuilt*/
-results/images/
-results/**/images/
-results/**/matplotlib/
